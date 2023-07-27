@@ -124,7 +124,7 @@
     "NewsletterMaret2023": [
         {
             "id": 1,
-            "title": "IYSA Newsletter February",
+            "title": "IYSA Newsletter Maret",
             "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
             "linkpdf":"https://drive.google.com/file/d/1-SPUD1nhOFaGbv9xdSgU0zNYsBdsbRyF/preview"
         }
@@ -132,7 +132,7 @@
     "NewsletterApril2023": [
         {
             "id": 1,
-            "title": "IYSA Newsletter February",
+            "title": "IYSA Newsletter April",
             "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
             "linkpdf":"https://drive.google.com/file/d/1h2hzfavrgEAsrogQWjUyQwujf5pvEL92/preview"
         }
@@ -140,7 +140,7 @@
     "NewsletterMei2023": [
         {
             "id": 1,
-            "title": "IYSA Newsletter February",
+            "title": "IYSA Newsletter Mei",
             "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
             "linkpdf":"https://drive.google.com/file/d/14WFat3fY1IrPJaGxuO8-Jcl6FSkeU5xJ/preview"
         }
@@ -148,7 +148,7 @@
     "NewsletterJune2023": [
         {
             "id": 1,
-            "title": "IYSA Newsletter February",
+            "title": "IYSA Newsletter June",
             "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
             "linkpdf":"https://drive.google.com/file/d/1MXZDZZ4M-AkhTnWwSpz-VjWyoN6coWNi/preview"
         }
@@ -156,7 +156,7 @@
     "NewsletterJunly2023": [
         {
             "id": 1,
-            "title": "IYSA Newsletter February",
+            "title": "IYSA Newsletter July",
             "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
             "linkpdf":""
         }
@@ -180,7 +180,7 @@
     "NewsletterMaret2022": [
         {
             "id": 1,
-            "title": "IYSA Newsletter February",
+            "title": "IYSA Newsletter Maret",
             "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
             "linkpdf":""
         }
@@ -188,7 +188,7 @@
     "NewsletterApril2022": [
         {
             "id": 1,
-            "title": "IYSA Newsletter February",
+            "title": "IYSA Newsletter April",
             "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
             "linkpdf":""
         }
@@ -196,7 +196,7 @@
     "NewsletterMei2022": [
         {
             "id": 1,
-            "title": "IYSA Newsletter February",
+            "title": "IYSA Newsletter Mei",
             "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
             "linkpdf":""
         }
