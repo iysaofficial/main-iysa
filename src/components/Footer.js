@@ -12,16 +12,16 @@ const Footer = () =>{
         <footer>
             <div className='rowFooter'>
                 <div className='colFooter'>
-                    <img src='./assets/images/logo/iysa_white_logo.png' alt='Footer Logo' className='logoFooter'></img>
+                    <img src='./assets/images/logo/iysa_white_logo.WebP' alt='Footer Logo' className='logoFooter'></img>
                     <p className='text-justify'>Indonesian Young Scientist Association (IYSA) is an institution engaged in developing Indonesian students potential, talents, and creativity by providing them opportunities to participate in scientific and non competitive competitions also activities in Indonesia and abroad.</p>
                 </div>
                 <div className='colFooter'>
                     <h3>Office <div className='underline'><span></span></div> </h3>
-                    <a href='https://goo.gl/maps/9x18coXGCmSscKec6' className='office text-justify'>Jl. Kemang, Pasir Putih, Kec. Sawangan, Kota Depok, Jawa Barat 16519</a>
+                    <a href='https://goo.gl/maps/9x18coXGCmSscKec6' target='_blank' className='office text-justify'>Jl. Kemang, Pasir Putih, Kec. Sawangan, Kota Depok, Jawa Barat 16519</a>
                     <br></br><br></br>
-                    <a href='mailto:youngscientist.iysa@gmail.com' className='office '>youngscientist.iysa@gmail.com</a>
+                    <a href='mailto:youngscientist.iysa@gmail.com' target='_blank' className='office '>youngscientist.iysa@gmail.com</a>
                     <br></br><br></br>
-                    <a href='https://wa.me/+6281770914129' className='office '>+62 817 7091 4129</a>
+                    <a href='https://wa.me/+6281770914129' target='_blank' className='office '>+62 817 7091 4129</a>
                 </div>
                 <div className='colFooter'>
                     <h3>Links <div className='underline'><span></span></div> </h3>
@@ -53,4 +53,4 @@ const Footer = () =>{
         </footer>
     )
 }
-export default Footer;
+export default Footer;

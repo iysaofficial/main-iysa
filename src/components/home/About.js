@@ -13,7 +13,7 @@ const About = ()=>{
                 </div>
 
                 <div className='col-md-6  hero-image text-center'>
-                    <img src='assets/images/logo/about-logo.png 'className="img-fluid" ></img>
+                    <img src='assets/images/logo/about-logo.WebP 'className="img-fluid" ></img>
                 </div>
             
             </div>

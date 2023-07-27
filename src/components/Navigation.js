@@ -103,7 +103,7 @@ const Navigation = () => {
     <header className="header">
         <div className="header-main">
           <div className="logo">
-            <img src="./assets/images/logo/navigation-logo.png" />
+            <img src="./assets/images/logo/navigation-logo.WebP" />
           </div>
           <div className="open-nav-menu">
             <span></span>

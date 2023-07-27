@@ -24,10 +24,10 @@ const ContactComp = () => {
                 <div className="contact-form">
                     <h1 className="text-center">Contact Us</h1>
                     <form className="form" action="https://formspree.io/f/mbjvlnjv" method="POST">
-                        <input type="text" name="Full Name" placeholder="Full Name" className="contact-form-txt"/>
-                        <input type="Email" name="Email" placeholder="Email" className="contact-form-txt "/>
-                        <input type="text" name="Phone" placeholder="Phone" className="contact-form-txt" />
-                        <textarea  name="Message" placeholder="Message" className="contact-form-txtarea"></textarea>
+                        <input type="text" name="Full Name" placeholder="Full Name" className="contact-form-txt" required autoComplete="off"/>
+                        <input type="Email" name="Email" placeholder="Email" className="contact-form-txt " required autoComplete="off"/>
+                        <input type="text" name="Phone" placeholder="Phone" className="contact-form-txt" required autoComplete="off"/>
+                        <textarea  name="Message" placeholder="Message" className="contact-form-txtarea" required autoComplete="off"></textarea>
                         <input type="submit" name="Submit"  className="contact-form-btn"/>
                     </form>
                 </div>

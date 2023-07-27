@@ -109,7 +109,7 @@
         {
             "id": 1,
             "title": "IYSA Newsletter January",
-            "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
+            "images": "https://drive.google.com/uc?id=13yjXBLT5uZs3VVhWxi0yzXl5RGK8m0IU",
             "linkpdf":"https://drive.google.com/file/d/1tl4qRGctbV2mCJNjbk4V4lP2Iuu4Oqjz/preview"
         }
     ],
@@ -117,7 +117,7 @@
         {
             "id": 1,
             "title": "IYSA Newsletter February",
-            "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
+            "images": "https://drive.google.com/uc?id=1kYUIaMZlVF7g5lIIeIwtifoimv22HnvM",
             "linkpdf":"https://drive.google.com/file/d/1HNYn1_4JH7GswSVaGASt6tWZMP2AaQyS/preview"
         }
     ],
@@ -125,7 +125,7 @@
         {
             "id": 1,
             "title": "IYSA Newsletter Maret",
-            "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
+            "images": "https://drive.google.com/uc?id=1QGJXBi4-mg0vI4r22LnPWWJ3QRRJq96M",
             "linkpdf":"https://drive.google.com/file/d/1-SPUD1nhOFaGbv9xdSgU0zNYsBdsbRyF/preview"
         }
     ],
@@ -133,7 +133,7 @@
         {
             "id": 1,
             "title": "IYSA Newsletter April",
-            "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
+            "images": "https://drive.google.com/uc?id=1vq9yUf0vYBtz32vfbh4sqkISj22SArGb",
             "linkpdf":"https://drive.google.com/file/d/1h2hzfavrgEAsrogQWjUyQwujf5pvEL92/preview"
         }
     ],
@@ -141,7 +141,7 @@
         {
             "id": 1,
             "title": "IYSA Newsletter Mei",
-            "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
+            "images": "https://drive.google.com/uc?id=1akJRFzyAZ1_hOWJf2N7p0C7FLV2_35Im",
             "linkpdf":"https://drive.google.com/file/d/14WFat3fY1IrPJaGxuO8-Jcl6FSkeU5xJ/preview"
         }
     ],
@@ -149,7 +149,7 @@
         {
             "id": 1,
             "title": "IYSA Newsletter June",
-            "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
+            "images": "https://drive.google.com/uc?id=1PGuUQo-LMv_2I3nDtSAuxsvwjRpxC28d",
             "linkpdf":"https://drive.google.com/file/d/1MXZDZZ4M-AkhTnWwSpz-VjWyoN6coWNi/preview"
         }
     ],
@@ -213,7 +213,7 @@
         {
             "id": 1,
             "title": "IYSA Newsletter July",
-            "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
+            "images": "https://drive.google.com/uc?id=1iYh7rkbewNtAa5d-1z1W7emk6wgbRPdO",
             "linkpdf":"https://drive.google.com/file/d/1Ml1FCLEBTZSxLvxDDGuFCMvi4RCDZzcQ/preview"
         }
     ],
@@ -221,7 +221,7 @@
         {
             "id": 1,
             "title": "IYSA Newsletter August",
-            "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
+            "images": "https://drive.google.com/uc?id=1I6SAoOuJsvRgQc0EdSpVbdcyFHG5hOTx",
             "linkpdf":"https://drive.google.com/file/d/1CDHOlf-bbr6LCR49hGQar1iDJMNQZ9Et/preview"
         }
     ],
@@ -229,7 +229,7 @@
         {
             "id": 1,
             "title": "IYSA Newsletter September",
-            "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
+            "images": "https://drive.google.com/uc?id=18BeXmuzJbfSoHcd-mPoj0cF45S9fzVOU",
             "linkpdf":"https://drive.google.com/file/d/1UyOMVS4xmhpstYl7NkNFvd-L6MJUMnnC/preview"
         }
     ],
@@ -237,7 +237,7 @@
         {
             "id": 1,
             "title": "IYSA Newsletter October",
-            "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
+            "images": "https://drive.google.com/uc?id=1OO4dSOB9j9A7SxgVdR0gWh3KrvwvZY9h",
             "linkpdf":"https://drive.google.com/file/d/1uOMmbPgut8kO27x2HCCCa9MoBwCyJVHj/preview"
         }
     ],
@@ -245,7 +245,7 @@
         {
             "id": 1,
             "title": "IYSA Newsletter November",
-            "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
+            "images": "https://drive.google.com/uc?id=1ByKNnmi07k1JPIylEK5M9pn5LD6KYwuD",
             "linkpdf":"https://drive.google.com/file/d/1WiZh5t3Q3ywrxc-8t_UY3wS-E0ArFsP5/preview"
         }
     ],
@@ -253,7 +253,7 @@
         {
             "id": 1,
             "title": "IYSA Newsletter December",
-            "images": "./assets/images/newsletter/NEWSLETTERGAMBAR.jpg",
+            "images": "https://drive.google.com/uc?id=1E_7bNtVwqQxfMl4MS4NZIn674OBiOfxY",
             "linkpdf":"https://drive.google.com/file/d/1-8kqPmBJBU6MFaHv4n868FLL1meGAYuu/preview"
         }
     ]
