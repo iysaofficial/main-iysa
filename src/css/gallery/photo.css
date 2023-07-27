@@ -1,0 +1,75 @@
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --container: 144rem;
+  --m-auto: 0 auto;
+  --white: #fff;
+  --btn: #0795fe;
+  --btn-active: #092a49;
+}
+
+#product, #video {
+  padding: 3rem 0;
+  background-color: #f5fafe;
+}
+
+.controls {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.control {
+  display: inline-block;
+  padding: 1rem 2.5rem;
+  margin: 1rem 0.5rem;
+  border: none;
+  outline: none;
+  border-radius: 2.5rem;
+  font-weight: 600;
+  color: var(--white);
+  background: var(--btn);
+  cursor: pointer;
+}
+
+@media (max-width: 426px) {
+  button.control {
+    width: 70px;
+    height: 50px;
+    padding: 0;
+    margin: 5px;
+    border: none;
+    outline: none;
+    border-radius: 2.5rem;
+    font-weight: 600;
+    color: var(--white);
+    background: var(--btn);
+    cursor: pointer;
+  }
+}
+
+.control:hover {
+  background: var(--btn-active);
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.mix {
+  max-width: 37rem;
+}
+
+.mix img {
+  width:100%;
+}

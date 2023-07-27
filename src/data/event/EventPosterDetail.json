@@ -1,0 +1,206 @@
+{
+  "event1": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/i2aspo.WebP",
+      "title": "(I2ASPO) 2023 Indonesia International Applied Science Project Olympiad",
+      "LinkRegist": " https://bit.ly/REGISTRATION-FORM-I2ASPO-2023",
+      "Hastag": "#i2aspo2023 #naspoi2aspo #iysa2023 #eventiysa2023 #iysaevent #surabaya #infolomba #sains2023 #i2aspo",
+      "DateAdTime": "2023-12-04 to 2023-12-07",
+      "RegistEndDate": "2023-11-10",
+      "Location": "Surabaya",
+      "EventType": "Internasional",
+      "EventCategory": "IYSA Event",
+      "ImageVeneu": "./assets/images/venue/AktuariaSurabaya.Webp",
+      "LinkGmaps": "https://goo.gl/maps/4dcBXqygvJBNDUFX7",
+      "NameLocation": "Departemen Aktuaria FSAD ITS"
+    }
+  ],
+  "event2": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/naspo.WebP",
+      "title": "(NASPO) 2023 National Applied Science Project Olympiad",
+      "LinkRegist": "https://bit.ly/PENDAFTARAN-NASPO-2023",
+      "Hastag": "#naspo2023 #naspoi2aspo #iysa2023 #eventiysa2023 #iysaevent #surabaya #infolomba #sains2023 #naspo",
+      "DateAdTime": "2023-12-04 to 2023-12-07",
+      "RegistEndDate": "2023-11-10",
+      "Location": "Surabaya",
+      "EventType": "National",
+      "EventCategory": "IYSA Event",
+      "ImageVeneu": "./assets/images/venue/AktuariaSurabaya.Webp",
+      "LinkGmaps": "https://goo.gl/maps/4dcBXqygvJBNDUFX7",
+      "NameLocation": "Departemen Aktuaria FSAD ITS"
+    }
+  ],
+  "event3": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/1IDEA.WebP",
+      "title": "1Idea1World Turkey 2023",
+      "LinkRegist": "https://bit.ly/Registration_1I1W_2023",
+      "Hastag": "#1idea1world #iysaeventafiliasi #iysa2023 #infolomba #lombasains2023 #turki #turkey",
+      "DateAdTime": "2023-11-23 to 2023-11-26",
+      "RegistEndDate": "2023-09-01",
+      "Location": "Turkey",
+      "EventType": "Internasional",
+      "EventCategory": "IYSA Affiliation",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
+  ],
+  "event4": [
+    {
+      "id": 1,
+      "image": "./assets/images/news/buca.WebP",
+      "title": "BUCA IMSEF (International Music Science Energy Engineering Fair)",
+      "LinkRegist": "https://bit.ly/BUCAIMSEF-REGISTRATION-FORM",
+      "Hastag": "#bucaimsef #iysa2023 #bucaturki #iysaevent #infolomba #bucaturki #eventafiliasi #iysaevent",
+      "DateAdTime": "2023-11-20 to 2023-11-25",
+      "RegistEndDate": "2023-10-18",
+      "Location": "Turkey",
+      "EventType": "Internasional",
+      "EventCategory": "IYSA Affiliation",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
+  ],
+  "event5": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/IRTC.WebP",
+      "title": "International Research Teacher Competition 3rd",
+      "LinkRegist": "https://bit.ly/REGISTRATION-IRTC-2023",
+      "Hastag": "#iysaevent2023 #irtc #nrtc #iysa2023 #irtcnrtc2023 #infolomba #onlineoffline2023 #infolomba2023 #penelitibelia #bali2023",
+      "DateAdTime": "2022-11-06 to 2022-11-12",
+      "RegistEndDate": "2023-10-01",
+      "Location": "Bali",
+      "EventType": "Internasional",
+      "EventCategory": "IYSA Event",
+      "ImageVeneu": "./assets/images/poster/IRTC.WebP",
+      "LinkGmaps": "",
+      "NameLocation": "Bali"
+    }
+  ],
+  "event6": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/NRTC.WebP",
+      "title": "National Research Teacher Competition 3rd (NRTC) 2023",
+      "LinkRegist": "https://bit.ly/PENDAFTARAN-NRTC-2023",
+      "Hastag": "#iysaevent2023 #irtc #nrtc #iysa2023 #irtcnrtc2023 #infolomba #onlineoffline2023 #infolomba2023 #penelitibelia #bali2023",
+      "DateAdTime": "2023-11-06 to 2023-11-12",
+      "RegistEndDate": "2023-10-01",
+      "Location": "Bali",
+      "EventType": "National",
+      "EventCategory": "IYSA Event",
+      "ImageVeneu": "./assets/Singapore.WebP",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
+  ],
+  "event7": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/iwa.WebP",
+      "title": "(IWA) Innovation Week In America 2023",
+      "LinkRegist": "https://bit.ly/IWA-REGISTRATION-FORM-2023",
+      "Hastag": "#iwa2023 #america #afiliasiiysa #infolomba #iysaevent2023 #event2023 #iysaevent #innovation #feed",
+      "DateAdTime": "2023-10-14 to 2023-12-02",
+      "RegistEndDate": "2023-08-20",
+      "Location": "Online event",
+      "EventType": "Internasional",
+      "EventCategory": "IYSA Affiliation",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
+  ],
+  "event8": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/WYIIA.WebP",
+      "title": "World Youth Invention And Innovation Award 3rd (WYIIA) 2023",
+      "LinkRegist": "https://bit.ly/WYIIA-REGISTRATION-FORM-2023",
+      "Hastag": "#iysa #iysaonlinecompetition #event2023 #penelitibelia #iysaofficer #iysaevent2023 #wyiia #offlinecompetition #yogyakarta #jogja #eventoffline #iysaevent #wyiia2023 #wyiiaiysa",
+      "DateAdTime": "2023-10-09 to 2023-10-15",
+      "RegistEndDate": "2023-09-14",
+      "Location": "Yogyakarta",
+      "EventType": "Internasional",
+      "EventCategory": "IYSA Event",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
+  ],
+  "event9": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/isif.WebP",
+      "title": "(2023)INTERNATIONAL SCIENCE AND INVENTION FAIR",
+      "LinkRegist": "https://bit.ly/REGISTRATION_ISIF_2023",
+      "Hastag": "#isifbali #isif2023 #iysa #iysaevent #penelitibelia #iysaevent2023 #bali",
+      "DateAdTime": "2023-10-01 to 2023-10-06",
+      "RegistEndDate": "",
+      "Location": "Bali",
+      "EventType": "Internasional",
+      "EventCategory": "IYSA Event",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
+  ],
+  "event10": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/wice.WebP",
+      "title": "5th WICE 2023, World Invention Competition and Exhibition",
+      "LinkRegist": "https://bit.ly/REGISTRATION_WICE_2023",
+      "Hastag": "",
+      "DateAdTime": "2023-09-22 to 2023-09-26",
+      "RegistEndDate": "2023-08-18",
+      "Location": "Malaysia",
+      "EventType": "Internasional",
+      "EventCategory": "IYSA Event",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
+  ],
+  "event11": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/wosg.WebP",
+      "title": "World Invent Singapore 2023",
+      "LinkRegist": "https://bit.ly/WORLDINVENT-REGISTRATION-FORM-2023",
+      "Hastag": "",
+      "DateAdTime": "2023-09-04 to 2023-09-08",
+      "RegistEndDate": "2023-08-05",
+      "Location": "-",
+      "EventType": "Internasional",
+      "EventCategory": "IYSA Affiliation",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
+  ],
+  "event12": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/IIIEX.WebP",
+      "title": "INDONESIA INTERNATIONAL INVENTION EXPO (IIIEX 2023🎉)",
+      "LinkRegist": "https://bit.ly/REGISTRATION_IIIEX_2023",
+      "Hastag": "",
+      "DateAdTime": "2023-08-01 to 2023-08-04",
+      "RegistEndDate": "2023-07-28",
+      "Location": "Semarang",
+      "EventType": "Internasional",
+      "EventCategory": "IYSA Event",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
+  ]
+}
