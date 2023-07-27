@@ -115,3 +115,19 @@
 		height: 200px;
 	}
 }
+@media screen and (max-width: 426px){
+	.contact-box{
+		grid-template-columns: 1fr;
+	}
+	.left{
+		height: 200px;
+	}
+}
+@media screen and (max-width: 320px){
+	.contact-box{
+		grid-template-columns: 1fr;
+	}
+	.left{
+		height: 200px;
+	}
+}
