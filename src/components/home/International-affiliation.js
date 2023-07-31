@@ -26,7 +26,7 @@ const InternationalAffiliation = ()=> {
                   <img src="./assets/images/logo/International Affiliation/fna.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/gysc.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/hkfi.WebP" alt="" />
-                  <img src="./assets/images/logo/International Affiliation/i3l.WebP" alt="" />
+                  
                   <img src="./assets/images/logo/International Affiliation/iarc.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/ibix.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/idea.WebP" alt="" />
