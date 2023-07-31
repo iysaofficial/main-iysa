@@ -185,22 +185,5 @@
       "LinkGmaps": "",
       "NameLocation": ""
     }
-  ],
-  "event12": [
-    {
-      "id": 1,
-      "image": "./assets/images/poster/IIIEX.WebP",
-      "title": "INDONESIA INTERNATIONAL INVENTION EXPO (IIIEX 2023🎉)",
-      "LinkRegist": "https://bit.ly/REGISTRATION_IIIEX_2023",
-      "Hastag": "",
-      "DateAdTime": "2023-08-01 to 2023-08-04",
-      "RegistEndDate": "2023-07-28",
-      "Location": "Semarang",
-      "EventType": "Internasional",
-      "EventCategory": "IYSA Event",
-      "ImageVeneu": "",
-      "LinkGmaps": "",
-      "NameLocation": ""
-    }
   ]
 }

@@ -99,15 +99,6 @@
         "location": "-",
         "date": "04-08 September 2023",
         "link": "/EventPage11"
-      },
-      {
-        "id": 12,
-        "image": "./assets/images/poster/IIIEX.WebP",
-        "title": "INDONESIA INTERNATIONAL INVENTION EXPO (IIIEX 2023🎉)",
-        "level": "International",
-        "location": "Semarang",
-        "date": "01-04 August 2023",
-        "link": "/EventPage12"
       }
     ]
 }
