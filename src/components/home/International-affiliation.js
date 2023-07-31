@@ -34,7 +34,6 @@ const InternationalAffiliation = ()=> {
                   <img src="./assets/images/logo/International Affiliation/ifia.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/img.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/isb.WebP" alt="" />
-                  <img src="./assets/images/logo/International Affiliation/its.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/jgu.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/kiif.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/klesf.WebP" alt="" />
