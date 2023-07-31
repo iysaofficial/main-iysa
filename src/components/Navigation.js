@@ -3,8 +3,8 @@ import "../css/navigation.css";
 
 import React, { useState, useEffect } from "react";
 import { FaChevronDown, FaHouse } from "react-icons/fa6";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faXmark } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faXmark } from "@fortawesome/free-solid-svg-icons";
 
 const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -101,85 +101,85 @@ const Navigation = () => {
 
   return (
     <header className="header">
-        <div className="header-main">
-          <div className="logo">
-            <img src="./assets/images/logo/navigation-logo.WebP" />
-          </div>
-          <div className="open-nav-menu">
-            <span></span>
-          </div>
-          <div className="menu-overlay"></div>
-          <nav className="nav-menu">
-            <div className="close-nav-menu">
-              {/* <img
+      <div className="header-main">
+        <div className="logo">
+          <img src="./assets/images/logo/navigation-logo.WebP" />
+        </div>
+        <div className="open-nav-menu">
+          <span></span>
+        </div>
+        <div className="menu-overlay"></div>
+        <nav className="nav-menu">
+          <div className="close-nav-menu">
+            {/* <img
                 src="./assets/images/logo/icons8-close.svg"
                 alt="close"
               /> */}
-              <FontAwesomeIcon icon={faXmark} />
-            </div>
-            <ul className="menu">
-              <li className="menu-item mt-0">
-                <a href="/">
-                  <FaHouse /> Home
-                </a>
-              </li>
-              <li className="menu-item">
-                <a href="/About">About</a>
-              </li>
-              <li className="menu-item menu-item-has-children">
-                <a href="#" data-toggle="sub-menu">
-                  Curation <FaChevronDown />
-                </a>
-                <ul className="sub-menu text-center">
-                  <li className="menu-item">
-                    <a href="/CurationOSPC">Curation OSPC</a>
-                  </li>
-                  <li className="menu-item">
-                    <a href="/CurationLKTIN">Curation LKTIN</a>
-                  </li>
-                </ul>
-              </li>
-              <li className="menu-item menu-item-has-children">
-                <a href="#" data-toggle="sub-menu">
-                  Our Team
-                  <FaChevronDown />
-                </a>
-                <ul className="sub-menu text-center">
-                  <li className="menu-item">
-                    <a href="/ExpertTeam">Expert Team</a>
-                  </li>
-                  <li className="menu-item">
+            <FontAwesomeIcon icon={faXmark} />
+          </div>
+          <ul className="menu">
+            <li className="menu-item mt-0">
+              <a href="/">
+                <FaHouse /> Home
+              </a>
+            </li>
+            <li className="menu-item">
+              <a href="/About">About</a>
+            </li>
+            <li className="menu-item menu-item-has-children">
+              <a href="#" data-toggle="sub-menu">
+                Curation <FaChevronDown />
+              </a>
+              <ul className="sub-menu text-center">
+                <li className="menu-item">
+                  <a href="/CurationOSPC">Curation OSPC</a>
+                </li>
+                <li className="menu-item">
+                  <a href="/CurationLKTIN">Curation LKTIN</a>
+                </li>
+              </ul>
+            </li>
+            <li className="menu-item menu-item-has-children">
+              <a href="#" data-toggle="sub-menu">
+                Our Team
+                <FaChevronDown />
+              </a>
+              <ul className="sub-menu text-center">
+                <li className="menu-item">
+                  <a href="/ExpertTeam">Expert Team</a>
+                </li>
+                {/* <li className="menu-item">
                     <a href="/ExpertStaff">Expert Staff</a>
-                  </li>
-                </ul>
-              </li>
-              <li className="menu-item">
-                <a href="/NewsletterPage">Newsletter</a>
-              </li>
-              <li className="menu-item menu-item-has-children">
-                <a href="#" data-toggle="sub-menu">
-                  Gallery <FaChevronDown />
-                </a>
-                <ul className="sub-menu text-center">
-                  <li className="menu-item">
-                    <a href="/GalleryPhoto">Photo</a>
-                  </li>
-                  <li className="menu-item">
-                    <a href="/GalleryVideo">Video</a>
-                  </li>
-                </ul>
-              </li>
-              <li className="menu-item">
-                <a href="/FaqPage">FAQ</a>
-              </li>
-              <li className="menu-item">
-                <a href="/ContactPage">Contact Us</a>
-              </li>
-            </ul>
-          </nav>
-        </div>
+                  </li> */}
+              </ul>
+            </li>
+            <li className="menu-item">
+              <a href="/NewsletterPage">Newsletter</a>
+            </li>
+            <li className="menu-item menu-item-has-children">
+              <a href="#" data-toggle="sub-menu">
+                Gallery <FaChevronDown />
+              </a>
+              <ul className="sub-menu text-center">
+                <li className="menu-item">
+                  <a href="/GalleryPhoto">Photo</a>
+                </li>
+                <li className="menu-item">
+                  <a href="/GalleryVideo">Video</a>
+                </li>
+              </ul>
+            </li>
+            <li className="menu-item">
+              <a href="/FaqPage">FAQ</a>
+            </li>
+            <li className="menu-item">
+              <a href="/ContactPage">Contact Us</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
       {/* </div> */}
     </header>
   );
 };
-export default Navigation;
+export default Navigation;
