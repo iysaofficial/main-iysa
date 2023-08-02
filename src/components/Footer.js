@@ -35,7 +35,7 @@ const Footer = () =>{
                 </div>
                 <div className='colFooter'>
                     <h3>Newsletter <div className='underline'><span></span></div> </h3>
-                    <form action="https://formspree.io/f/mbjvlnjv" method="POST">
+                    <form action="https://formspree.io/f/xeqbelvo" method="POST">
                         <FontAwesomeIcon icon={faEnvelope} className='logoNewsletter'></FontAwesomeIcon>
                         <input type='email'  name='Enter Email' placeholder='Enter Email' required/>
                         <button type='submit'><FontAwesomeIcon icon={faArrowRight} className='logoButtonNewsletter'></FontAwesomeIcon></button>
