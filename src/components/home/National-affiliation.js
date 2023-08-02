@@ -11,7 +11,7 @@ const NationalAffiliation = () => {
       <br></br>
       <br></br>
       <div className="container">
-        <h2 className="text-center">Indonesian Affiliation</h2>
+        <h2 className="text-center">National Affiliation</h2>
         <div className="logos">
         <div className="logos-slide">
             <img src="./assets/images/logo/National Affiliation/IPB.WebP" alt="" />

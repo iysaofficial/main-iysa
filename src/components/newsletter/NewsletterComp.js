@@ -66,9 +66,9 @@ const NewsletterComp = () => {
                             className="newsletter-image img-fluid mx-auto"
                             src={Letter.gambar}
                           ></img>
-                        </div>
-                        <div className="newsletter-button text-center">
-                          <a href={Letter.linkbtn}>Read more</a>
+                          <div className="read-more-overlay">
+                            <a href={Letter.linkbtn}>Read More</a>
+                          </div>
                         </div>
                       </div>
                     </div>

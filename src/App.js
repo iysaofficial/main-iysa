@@ -66,6 +66,7 @@ import EventPage9 from './pages/event/EventPage9';
 import EventPage10 from './pages/event/EventPage10';
 import EventPage11 from './pages/event/EventPage11';
 import EventPage12 from './pages/event/EventPage12';
+import BackToTopBtn from './components/BackToTopBtn';
 
 
 
@@ -151,6 +152,7 @@ function App() {
         
       </Routes>
     </Router>
+    <BackToTopBtn></BackToTopBtn>
     <Footer/>  
     </>
   );

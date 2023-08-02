@@ -3,97 +3,97 @@
       {
         "Id": "1",
         "WebsiteName":"WSEEC",
-        "EventType": "Nasional & Internasional",
+        "EventType": "National & International",
         "link" : "https://wsec.or.id/"
       },{
         "Id": "2",
         "WebsiteName":"WICE",
-        "EventType": "Nasional & Internasional",
+        "EventType": "National & International",
         "link" : "https://wice.or.id/"
       },{
         "Id": "3",
         "WebsiteName":"Glocolis",
-        "EventType": "Nasional & Internasional",
+        "EventType": "National & International",
         "link" : "https://www.glocolis.or.id/"
       },{
         "Id": "4",
-        "WebsiteName":"IIF-Regional",
-        "EventType": "Nasional",
-        "link" : "https://iif-regional.or.id/"
+        "WebsiteName":"IIF-Retional",
+        "EventType": "National",
+        "link" : "https://iif-retional.or.id/"
       },{
         "Id": "5",
         "WebsiteName":"NICYMS",
-        "EventType": "Nasional",
+        "EventType": "National",
         "link" : "https://iicyms.or.id/index5.html"
       },{
         "Id": "6",
         "WebsiteName":"IICYMS",
-        "EventType": "Internasional",
+        "EventType": "International",
         "link" : "https://iicyms.or.id/index4.html"
       },{
         "Id": "7",
         "WebsiteName":"WYIIA",
-        "EventType": "Internasional",
+        "EventType": "International",
         "link" : "https://wyiia.or.id/"
       },{
         "Id": "8",
         "WebsiteName":"YNSF",
-        "EventType": "Nasional",
+        "EventType": "National",
         "link" : "https://ynsf.or.id/"
       },{
         "Id": "9",
         "WebsiteName":"YISF",
-        "EventType": "Internasional",
+        "EventType": "International",
         "link" : "https://yisf.or.id/"
       },{
         "Id": "10",
         "WebsiteName":"IYBC",
-        "EventType": "Internasional",
+        "EventType": "International",
         "link" : "https://iybc.or.id/"
       },{
         "Id": "11",
         "WebsiteName":"AISEEF",
-        "EventType": "Internasional",
+        "EventType": "International",
         "link" : "https://aisef.or.id/"
       },{
         "Id": "12",
         "WebsiteName":"IIIEX",
-        "EventType": "Internasional",
+        "EventType": "International",
         "link" : "https://www.iiiex.or.id/"
       },{
         "Id": "13",
         "WebsiteName":"IYMIA",
-        "EventType": "Internasional",
+        "EventType": "International",
         "link" : "https://iymia.or.id/"
       },{
         "Id": "14",
         "WebsiteName":"NASPO",
-        "EventType": "Nasional",
+        "EventType": "National",
         "link" : "https://www.naspoi2aspo.or.id/naspo"
       },{
         "Id": "15",
         "WebsiteName":"I2ASPO",
-        "EventType": "Internasional",
+        "EventType": "International",
         "link" : "https://www.naspoi2aspo.or.id/i2aspo"
       },{
         "Id": "16",
         "WebsiteName":"ISIF",
-        "EventType": "Internasional",
+        "EventType": "International",
         "link" : "https://isif.or.id/"
       },{
         "Id": "17",
         "WebsiteName":"NRTC & IRTC",
-        "EventType": "Nasional & Internasional",
+        "EventType": "National & International",
         "link" : "https://irtcnrtc.or.id/"
       },{
         "Id": "18",
         "WebsiteName":"GYIIF",
-        "EventType": "Internasional",
+        "EventType": "International",
         "link" : "https://www.gyiif.or.id/"
       },{
         "Id": "19",
         "WebsiteName":"I3O",
-        "EventType": "Internasional",
+        "EventType": "International",
         "link" : "https://www.i3o.or.id/"
       }
     ]
