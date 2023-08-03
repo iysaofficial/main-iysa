@@ -1,7 +1,12 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
+import { useState, useEffect } from 'react';
+import RingLoader from "react-spinners/RingLoader";
+
 import Navigation from './components/Navigation';
 import Footer from './components/Footer';
+import BackToTopBtn from './components/BackToTopBtn';
 
 // Import Landing
 import Landing from './pages/home/Landing';
@@ -66,14 +71,29 @@ import EventPage9 from './pages/event/EventPage9';
 import EventPage10 from './pages/event/EventPage10';
 import EventPage11 from './pages/event/EventPage11';
 import EventPage12 from './pages/event/EventPage12';
-import BackToTopBtn from './components/BackToTopBtn';
+
 
 
 
 
 function App() {
+  
+  const [isLoading, setIsLoading] = useState(true);
+
+  useEffect(() => {
+    setTimeout(() => {
+      setIsLoading(false);
+    }, 2000);
+  }, []);
+
   return (  
     <>
+    {isLoading ? (
+      <div className="page-loader">
+        <RingLoader color={'#0795fe'} loading={isLoading} size={150}/>
+      </div>
+    ) : (
+    <> 
     <Navigation/>
     <Router>
       <Routes>
@@ -147,13 +167,13 @@ function App() {
         <Route path="/Newsletter2023DetailPage6" element={<Newsletter2023DetailPage6 />} />
         <Route path="/Newsletter2023DetailPage7" element={<Newsletter2023DetailPage7 />} />
         <Route path="/Newsletter2023DetailPage8" element={<Newsletter2023DetailPage8 />} />
-
-
-        
+          
       </Routes>
     </Router>
     <BackToTopBtn></BackToTopBtn>
-    <Footer/>  
+    <Footer/> 
+    </>
+    )}
     </>
   );
 }
