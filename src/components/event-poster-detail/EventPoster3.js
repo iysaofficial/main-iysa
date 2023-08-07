@@ -53,7 +53,7 @@ function EventPoster3() {
                     <ul>
                         <li><strong>Registration Deadline:</strong> Agustus 20, 2023</li>
                         <li><strong>Payment Deadline:</strong> Agustus 20, 2023</li>
-                        <li><strong>Event Date:</strong>  September 5, 2023</li>
+                        <li><strong>Event Date:</strong>  November 23, 2023</li>
                         <li><strong>Place:</strong> Istanbul,Turkey</li>
                     </ul>
                     {/* <p className="mt-5">{EventPosterDetail3.paragraf5}</p> */}
