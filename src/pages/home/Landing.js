@@ -10,6 +10,7 @@ import '../../css/home/home.css';
 import "../../css/event/eventPosterLanding.css"
 
 function Landing() {
+    
     return (  
       <div>
         <About></About>

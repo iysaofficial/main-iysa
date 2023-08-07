@@ -90,15 +90,5 @@
           "date": "22-26 September 2023",
           "link": "/EventPage10"
         }
-        ,
-      {
-        "id": 11,
-        "image": "./assets/images/poster/wosg.WebP",
-        "title": "World Invent Singapore 2023",
-        "level": "International",
-        "location": "-",
-        "date": "04-08 September 2023",
-        "link": "/EventPage11"
-      }
     ]
 }

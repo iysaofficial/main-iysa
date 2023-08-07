@@ -17,7 +17,7 @@ const Footer = () =>{
                 </div>
                 <div className='colFooter'>
                     <h3>Office <div className='underline'><span></span></div> </h3>
-                    <a href='https://goo.gl/maps/9x18coXGCmSscKec6' target='_blank' className='office text-justify'>Jl. Kemang, Pasir Putih, Kec. Sawangan, Kota Depok, Jawa Barat 16519</a>
+                    <a href='https://goo.gl/maps/9x18coXGCmSscKec6' target='_blank' className='office text-justify'>Jl. Kemang, Pasir Putih, Kecamatan. Sawangan, Kota Depok, Jawa Barat 16519</a>
                     <br></br><br></br>
                     <a href='mailto:youngscientist.iysa@gmail.com' target='_blank' className='office '>youngscientist.iysa@gmail.com</a>
                     <br></br><br></br>

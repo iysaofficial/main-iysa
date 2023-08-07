@@ -1,12 +1,10 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
-import { useState, useEffect } from 'react';
-import RingLoader from "react-spinners/RingLoader";
-
 import Navigation from './components/Navigation';
 import Footer from './components/Footer';
 import BackToTopBtn from './components/BackToTopBtn';
+import AppLoader from './components/AppLoader';
 
 // Import Landing
 import Landing from './pages/home/Landing';
@@ -73,27 +71,10 @@ import EventPage11 from './pages/event/EventPage11';
 import EventPage12 from './pages/event/EventPage12';
 
 
-
-
-
 function App() {
-  
-  const [isLoading, setIsLoading] = useState(true);
-
-  useEffect(() => {
-    setTimeout(() => {
-      setIsLoading(false);
-    }, 2000);
-  }, []);
-
   return (  
     <>
-    {isLoading ? (
-      <div className="page-loader">
-        <RingLoader color={'#0795fe'} loading={isLoading} size={150}/>
-      </div>
-    ) : (
-    <> 
+    <AppLoader>
     <Navigation/>
     <Router>
       <Routes>
@@ -105,8 +86,6 @@ function App() {
         {/* Curation */}
         <Route path="/CurationOSPC" element={<CurationOSPCPage />}/>
         <Route path="/CurationLKTIN" element={<CurationLKTINComp />}/>
-
-
 
         {/* Expert Team */}
         <Route path="/ExpertTeam" element={<ExpertTeam />} />
@@ -167,13 +146,12 @@ function App() {
         <Route path="/Newsletter2023DetailPage6" element={<Newsletter2023DetailPage6 />} />
         <Route path="/Newsletter2023DetailPage7" element={<Newsletter2023DetailPage7 />} />
         <Route path="/Newsletter2023DetailPage8" element={<Newsletter2023DetailPage8 />} />
-          
+        
       </Routes>
     </Router>
     <BackToTopBtn></BackToTopBtn>
-    <Footer/> 
-    </>
-    )}
+    <Footer/>
+    </AppLoader>
     </>
   );
 }

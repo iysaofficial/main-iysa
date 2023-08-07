@@ -25,16 +25,9 @@ function Photo() {
           <button
             type="button"
             className="control"
-            onClick={() => handleFilterChange("year2020")}
+            onClick={() => handleFilterChange("year2023")}
           >
-            2020
-          </button>
-          <button
-            type="button"
-            className="control"
-            onClick={() => handleFilterChange("year2021")}
-          >
-            2021
+            2023
           </button>
           <button
             type="button"
@@ -46,41 +39,34 @@ function Photo() {
           <button
             type="button"
             className="control"
-            onClick={() => handleFilterChange("year2023")}
+            onClick={() => handleFilterChange("year2021")}
           >
-            2023
+            2021
+          </button>
+          <button
+            type="button"
+            className="control"
+            onClick={() => handleFilterChange("year2020")}
+          >
+            2020
           </button>
         </div>
         <div className="products">
           {/* Tampilkan image sesuai dengan filter yang dipilih */}
           {selectedFilter === "all" && (
             <>
-              <div className="row">
-                {PhotoData.year2020.map((gallery) => {
-                  return (
-                    <div className="col-lg-3 col-sm-12 col-md-6 mt-2 mix duapuluh" key={gallery.id}>
-                      <img
-                        src={gallery.image}
-                        width="500"
-                        height="auto"
-                        alt="image 2020"
-                      />
-                    </div>
-                  );
-                })}
-              </div>
-              <div className="row">
-                {PhotoData.year2021.map((gallery) => {
+            <div className="row">
+                {PhotoData.year2023.map((gallery) => {
                   return (
                     <div
-                      className="col-lg-3 col-sm-12 col-md-6 mt-2 mix year2021"
+                      className="col-lg-3 col-sm-12 col-md-6 mt-2 mix year2023"
                       key={gallery.id}
                     >
                       <img
                         src={gallery.image}
                         width="500"
                         height="auto"
-                        alt="image 2021"
+                        alt="image 2023"
                       />
                     </div>
                   );
@@ -104,17 +90,31 @@ function Photo() {
                 })}
               </div>
               <div className="row">
-                {PhotoData.year2023.map((gallery) => {
+                {PhotoData.year2021.map((gallery) => {
                   return (
                     <div
-                      className="col-lg-3 col-sm-12 col-md-6 mt-2 mix year2023"
+                      className="col-lg-3 col-sm-12 col-md-6 mt-2 mix year2021"
                       key={gallery.id}
                     >
                       <img
                         src={gallery.image}
                         width="500"
                         height="auto"
-                        alt="image 2023"
+                        alt="image 2021"
+                      />
+                    </div>
+                  );
+                })}
+              </div>
+              <div className="row">
+                {PhotoData.year2020.map((gallery) => {
+                  return (
+                    <div className="col-lg-3 col-sm-12 col-md-6 mt-2 mix duapuluh" key={gallery.id}>
+                      <img
+                        src={gallery.image}
+                        width="500"
+                        height="auto"
+                        alt="image 2020"
                       />
                     </div>
                   );

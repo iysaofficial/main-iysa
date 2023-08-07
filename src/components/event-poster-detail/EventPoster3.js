@@ -51,8 +51,8 @@ function EventPoster3() {
                     <br></br>
                     <p>catat tanggalnya ya!</p>
                     <ul>
-                        <li><strong>Registration Deadline:</strong> September 1, 2023</li>
-                        <li><strong>Payment Deadline:</strong> September 5, 2023</li>
+                        <li><strong>Registration Deadline:</strong> Agustus 20, 2023</li>
+                        <li><strong>Payment Deadline:</strong> Agustus 20, 2023</li>
                         <li><strong>Event Date:</strong>  September 5, 2023</li>
                         <li><strong>Place:</strong> Istanbul,Turkey</li>
                     </ul>

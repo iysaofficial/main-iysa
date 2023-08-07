@@ -6,7 +6,7 @@ import '../../css/event/eventPoster.css';
 function EventPage11() {
     return (  
       <div>
-        <EventPoster11 />
+        {/* <EventPoster11 /> */}
       </div>
     );
   }
