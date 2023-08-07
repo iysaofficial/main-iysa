@@ -59,7 +59,7 @@ function EventPoster5() {
                     <ul>
                         <li><strong>Registration Deadline:</strong>  October 1, 2023</li>
                         <li><strong>Payment Deadline:</strong> October 6, 2023</li>
-                        <li><strong>Event Date:</strong> November 7 – 11, 2023</li>
+                        <li><strong>Event Date:</strong> November 7 - 11, 2023</li>
                     </ul>
                     <br></br>
                     <p>Teachers, this is your chance to showcase your ideas, innovations, projects to the world.</p>
@@ -86,7 +86,7 @@ function EventPoster5() {
                     <br />
                     <h4 className="fw-bolder">Date and Time</h4>
                     <p>{EventPosterDetail5.DateAdTime}</p>
-                    {/* <br /> */}
+                    <br />
                     <h4 className="fw-bolder">Registration End Date</h4>
                     <p>{EventPosterDetail5.RegistEndDate}</p>
                     <br />

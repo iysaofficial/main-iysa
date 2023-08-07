@@ -70,7 +70,7 @@ function EventPoster11() {
                     <br />
                     <h4 className="fw-bolder">Date and Time</h4>
                     <p>{EventPosterDetail11.DateAdTime}</p>
-                    {/* <br /> */}
+                    <br />
                     <h4 className="fw-bolder">Registration End Date</h4>
                     <p>{EventPosterDetail11.RegistEndDate}</p>
                     <br />

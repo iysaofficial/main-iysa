@@ -53,7 +53,7 @@ function EventPoster8() {
                     <ul>
                         <li><strong>Registration Deadline :</strong>  September 14, 2023</li>
                         <li><strong>Payment Deadline : </strong> September 20, 2023</li>
-                        <li><strong>Event Date : </strong> October 10-14, 2023</li>
+                        <li><strong>Event Date : </strong> October 10 - 14, 2023</li>
                     </ul>
                     
                     <br></br>
@@ -79,7 +79,7 @@ function EventPoster8() {
                     <br />
                     <h4 className="fw-bolder">Date and Time</h4>
                     <p>{EventPosterDetail8.DateAdTime}</p>
-                    {/* <br /> */}
+                    <br />
                     <h4 className="fw-bolder">Registration End Date</h4>
                     <p>{EventPosterDetail8.RegistEndDate}</p>
                     <br />
