@@ -1,5 +1,5 @@
 // Import CSS
-import '../../css/event/eventPoster.css';
+import "../../css/event/eventPoster.css";
 
 // Import FontAwesome
 import React, { useState } from "react";
@@ -26,7 +26,6 @@ function EventPoster11() {
     setShowContent(!showContent);
   };
   return (
-    
     <section>
       <div id="main-event" className="container">
         <div className="row event-wrapper ">
@@ -41,15 +40,22 @@ function EventPoster11() {
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
                     <h1 className="fw-bolder">{EventPosterDetail11.title}</h1>
-                    <p>Hai Peneliti Belia</p>
-                    <p>Di bulan September IYSA punya event afiliasi hybrid di Singapore di tanggal 4-7 September 2023</p>
+                    <p>Hi Young Researcher</p>
+                    <p>IYSA New Affiliation Event 🔥</p>
+                    <p>
+                      Online competition for Indonesia Participant, Malaysia
+                      Grand Invention Expo 2023
+                    </p>
                     <br></br>
-                    <ul>
-                        <li><strong>Batas Pendaftaran:</strong>   5 Agustus 2023</li>
-                        <li><strong>Batas Waktu Pembayaran: </strong>  8 Agustus 2023</li>
-                        <li><strong>Venue:</strong> D’Marquee Downtown East in Paris Ris Singapore</li>
-                    </ul>
-                    <br></br>
+                    {/* <ul>
+                      <li>
+                        <strong>Batas Pendaftaran:</strong> 5 Agustus 2023
+                      </li>
+                      <li>
+                        <strong>Batas Waktu Pembayaran: </strong> 8 Agustus 2023
+                      </li>
+                    </ul> */}
+                    {/* <br></br> */}
                     <a
                       className="btn btn-primary mb-4"
                       href={EventPosterDetail11.LinkRegist}
@@ -58,7 +64,10 @@ function EventPoster11() {
                       Registration Form
                     </a>
                     <br></br>
-                    <p>Yuk daftar! Kalian bisa cek Guidebook di link pendaftaran ya</p>
+                    <p>
+                      Let's register! You can check the Guidebook on the
+                      registration link
+                    </p>
                     <br />
                     <p className="hastag">{EventPosterDetail11.Hastag}</p>
                   </div>

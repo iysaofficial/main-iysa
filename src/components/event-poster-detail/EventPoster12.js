@@ -1,5 +1,5 @@
 // Import CSS
-import '../../css/event/eventPoster.css';
+import "../../css/event/eventPoster.css";
 
 // Import FontAwesome
 import React, { useState } from "react";
@@ -26,7 +26,6 @@ function EventPoster12() {
     setShowContent(!showContent);
   };
   return (
-    
     <section>
       <div id="main-event" className="container">
         <div className="row event-wrapper ">
@@ -41,19 +40,33 @@ function EventPoster12() {
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
                     <h1 className="fw-bolder">{EventPosterDetail12.title}</h1>
-                    <p>IIIEX 2023🎉</p>
                     <br></br>
-                    <p>2023 is the 2nd year that IIIEX has been held, this year IYSA is still collaborating with Semarang<br></br> State Polytechnic, Indonesia.</p>
-                    <br></br>          
-                    <p>The city of Semarang is a city that IYSA often visits and as a venue for major IYSA events, many<br></br> universities in Semarang have become IYSA partners from year to year.</p>
+                    <p>Who asked about the event in Thailand?</p>
+                    <p>
+                      IYSA has an offline affiliate event in Thailand in
+                      September, let's register now
+                    </p>
                     <br></br>
-                    <p>In August 2023 IYSA together with Semarang State Polytechnic, again held the INDONESIA INTERNATIONAL<br></br> INVENTION EXPO in a hybrid competition.</p>
+                    <p>
+                      The city of Semarang is a city that IYSA often visits and
+                      as a venue for major IYSA events, many<br></br>{" "}
+                      universities in Semarang have become IYSA partners from
+                      year to year.
+                    </p>
+                    <br></br>
                     <br></br>
                     <p>Register Now!!</p>
                     <ul>
-                        <li><strong>Registration Deadline:</strong> July 28, 2023</li>
-                        <li><strong>Payment Deadline: </strong> August 7, 2023</li>
-                        <li><strong>Event Date:</strong> August 25-29, 2023</li>
+                      <li>
+                        <strong>Registration Deadline:</strong> September 10,
+                        2023
+                      </li>
+                      <li>
+                        <strong>Payment Deadline: </strong> September 14, 2023
+                      </li>
+                      <li>
+                        <strong>Event Date:</strong> September 5-7, 2023
+                      </li>
                     </ul>
                     <br></br>
                     <a

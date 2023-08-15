@@ -1,94 +1,112 @@
 {
-    "event": [
-      {
-        "id": 1,
-        "image": "./assets/images/poster/i2aspo.WebP",
-        "title": "(I2ASPO) 2023 Indonesia International Applied Science Project Olympiad",
-        "level": "Internasional",
-        "location": "Surabaya",
-        "date": "04 - 07 December 2023",
-        "link": "/EventPage1"
-      },
-      {
-        "id": 2,
-        "image": "./assets/images/poster/naspo.WebP",
-        "title": "(NASPO) 2023 National Applied Science Project Olympiad",
-        "level": "National",
-        "location": "Surabaya",
-        "date": "04 - 07 December 2023",
-        "link": "/EventPage2"
-      },
-      {
-        "id": 3,
-        "image": "./assets/images/poster/1IDEA.WebP",
-        "title": "1Idea1World Turkey 2023",
-        "level": "Internasional",
-        "location": "Turkey",
-        "date": "23 - 26 November 2023",
-        "link": "/EventPage3"
-      },
-      {
-        "id": 4,
-        "image": "./assets/images/poster/buca.WebP",
-        "title": "BUCA IMSEF (International Music Science Energy Engineering Fair)",
-        "level": "International",
-        "location": "Turkey",
-        "date": "20 - 25 November 2023",
-        "link": "/EventPage4"
-      },
-      {
-        "id": 5,
-        "image": "./assets/images/poster/IRTC.WebP",
-        "title": "International Research Teacher Competition 3rd",
-        "level": "Internasional",
-        "location": "Bali",
-        "date": "06 - 12 November 2023",
-        "link": "/EventPage5"
-      },
-      {
-        "id": 6,
-        "image": "./assets/images/poster/NRTC.WebP",
-        "title": "National Research Teacher Competition 3rd (NRTC) 2023",
-        "level": "National",
-        "location": "Bali",
-        "date": "06 - 12 November 2023",
-        "link": "/EventPage6"
-      },
-      {
-        "id": 7,
-        "image": "./assets/images/poster/iwa.WebP",
-        "title": "(IWA) Innovation Week In America 2023",
-        "level": "International",
-        "location": "Online Event",
-        "date": "14 October 2023 - 02 December 2023",
-        "link": "/EventPage7"
-      },
-      {
-        "id": 8,
-        "image": "./assets/images/poster/WYIIA.WebP",
-        "title": "World Youth Invention And Innovation Award 3rd (WYIIA) 2023",
-        "level": "International",
-        "location": "Yogyakarta",
-        "date": "09 - 15 October 2023",
-        "link": "/EventPage8"
-        },
-        {
-          "id": 9,
-          "image": "./assets/images/poster/isif.WebP",
-          "title": "(2023)INTERNATIONAL SCIENCE AND INVENTION FAIR",
-          "level": "International",
-          "location": "Bali",
-          "date": "01 - 06 October 2023",
-          "link": "/EventPage9"
-        },
-        {
-          "id": 10,
-          "image": "./assets/images/poster/wice.WebP",
-          "title": "5th WICE 2023, World Invention Competition and Exhibition",
-          "level": "International",
-          "location": "Malaysia",
-          "date": "22 - 26 September 2023",
-          "link": "/EventPage10"
-        }
-    ]
+  "event": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/i2aspo.WebP",
+      "title": "(I2ASPO) 2023 Indonesia International Applied Science Project Olympiad",
+      "level": "Internasional",
+      "location": "Surabaya",
+      "date": "04 - 07 December 2023",
+      "link": "/EventPage1"
+    },
+    {
+      "id": 2,
+      "image": "./assets/images/poster/naspo.WebP",
+      "title": "(NASPO) 2023 National Applied Science Project Olympiad",
+      "level": "National",
+      "location": "Surabaya",
+      "date": "04 - 07 December 2023",
+      "link": "/EventPage2"
+    },
+    {
+      "id": 3,
+      "image": "./assets/images/poster/1IDEA.WebP",
+      "title": "1Idea1World Turkey 2023",
+      "level": "Internasional",
+      "location": "Turkey",
+      "date": "23 - 26 November 2023",
+      "link": "/EventPage3"
+    },
+    {
+      "id": 4,
+      "image": "./assets/images/poster/buca.WebP",
+      "title": "BUCA IMSEF (International Music Science Energy Engineering Fair)",
+      "level": "International",
+      "location": "Turkey",
+      "date": "20 - 25 November 2023",
+      "link": "/EventPage4"
+    },
+    {
+      "id": 5,
+      "image": "./assets/images/poster/IRTC.WebP",
+      "title": "International Research Teacher Competition 3rd",
+      "level": "Internasional",
+      "location": "Bali",
+      "date": "06 - 12 November 2023",
+      "link": "/EventPage5"
+    },
+    {
+      "id": 6,
+      "image": "./assets/images/poster/NRTC.WebP",
+      "title": "National Research Teacher Competition 3rd (NRTC) 2023",
+      "level": "National",
+      "location": "Bali",
+      "date": "06 - 12 November 2023",
+      "link": "/EventPage6"
+    },
+    {
+      "id": 7,
+      "image": "./assets/images/poster/iwa.WebP",
+      "title": "(IWA) Innovation Week In America 2023",
+      "level": "International",
+      "location": "Online Event",
+      "date": "14 October 2023 - 02 December 2023",
+      "link": "/EventPage7"
+    },
+    {
+      "id": 8,
+      "image": "./assets/images/poster/WYIIA.WebP",
+      "title": "World Youth Invention And Innovation Award 3rd (WYIIA) 2023",
+      "level": "International",
+      "location": "Yogyakarta",
+      "date": "09 - 15 October 2023",
+      "link": "/EventPage8"
+    },
+    {
+      "id": 9,
+      "image": "./assets/images/poster/isif.WebP",
+      "title": "(2023)INTERNATIONAL SCIENCE AND INVENTION FAIR",
+      "level": "International",
+      "location": "Bali",
+      "date": "01 - 06 October 2023",
+      "link": "/EventPage9"
+    },
+    {
+      "id": 10,
+      "image": "./assets/images/poster/wice.WebP",
+      "title": "5th WICE 2023, World Invention Competition and Exhibition",
+      "level": "International",
+      "location": "Malaysia",
+      "date": "22 - 26 September 2023",
+      "link": "/EventPage10"
+    },
+    {
+      "id": 11,
+      "image": "./assets/images/poster/MaGIEx.WebP",
+      "title": "Malaysia Grand Invention EXPO (MaGIEx) 2023",
+      "level": "International",
+      "location": "Malaysia",
+      "date": "01 - 15 November 2023",
+      "link": "/EventPage11"
+    },
+    {
+      "id": 12,
+      "image": "./assets/images/poster/Thailand.WebP",
+      "title": "THE 17th EDUCATION EXPO FOR STUDENTS INTELLECTUAL DEVELOPMENT 2023",
+      "level": "International",
+      "location": "Thailand",
+      "date": "05 - 07 September 2023",
+      "link": "/EventPage12"
+    }
+  ]
 }
