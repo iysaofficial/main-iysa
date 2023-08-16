@@ -58,11 +58,10 @@ function EventPoster12() {
                     <p>Register Now!!</p>
                     <ul>
                       <li>
-                        <strong>Registration Deadline:</strong> September 10,
-                        2023
+                        <strong>Registration Deadline:</strong> August 18, 2023
                       </li>
                       <li>
-                        <strong>Payment Deadline: </strong> September 14, 2023
+                        <strong>Payment Deadline: </strong> August 21, 2023
                       </li>
                       <li>
                         <strong>Event Date:</strong> September 5-7, 2023

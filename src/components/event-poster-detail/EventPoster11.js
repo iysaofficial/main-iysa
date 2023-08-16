@@ -47,15 +47,20 @@ function EventPoster11() {
                       Grand Invention Expo 2023
                     </p>
                     <br></br>
-                    {/* <ul>
+                    <p>Register Now!!</p>
+                    <ul>
                       <li>
-                        <strong>Batas Pendaftaran:</strong> 5 Agustus 2023
+                        <strong>Registration Deadline:</strong> September 10,
+                        2023
                       </li>
                       <li>
-                        <strong>Batas Waktu Pembayaran: </strong> 8 Agustus 2023
+                        <strong>Payment Deadline: </strong> September 14, 2023
                       </li>
-                    </ul> */}
-                    {/* <br></br> */}
+                      <li>
+                        <strong>Event Date:</strong> November 1 - 15, 2023
+                      </li>
+                    </ul>
+                    <br></br>
                     <a
                       className="btn btn-primary mb-4"
                       href={EventPosterDetail11.LinkRegist}
