@@ -55,15 +55,6 @@
       "link": "/EventPage6"
     },
     {
-      "id": 7,
-      "image": "./assets/images/poster/iwa.WebP",
-      "title": "(IWA) Innovation Week In America 2023",
-      "level": "International",
-      "location": "Online Event",
-      "date": "14 October 2023 - 02 December 2023",
-      "link": "/EventPage7"
-    },
-    {
       "id": 8,
       "image": "./assets/images/poster/WYIIA.WebP",
       "title": "World Youth Invention And Innovation Award 3rd (WYIIA) 2023",
@@ -98,15 +89,6 @@
       "location": "Malaysia",
       "date": "01 - 15 November 2023",
       "link": "/EventPage11"
-    },
-    {
-      "id": 12,
-      "image": "./assets/images/poster/Thailand.WebP",
-      "title": "THE 17th EDUCATION EXPO FOR STUDENTS INTELLECTUAL DEVELOPMENT 2023",
-      "level": "International",
-      "location": "Thailand",
-      "date": "05 - 07 September 2023",
-      "link": "/EventPage12"
     }
   ]
 }

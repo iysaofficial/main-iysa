@@ -53,7 +53,7 @@
   "event4": [
     {
       "id": 1,
-      "image": "./assets/images/news/buca.WebP",
+      "image": "./assets/images/poster/buca.WebP",
       "title": "BUCA IMSEF (International Music Science Energy Engineering Fair)",
       "LinkRegist": "https://bit.ly/BUCAIMSEF-REGISTRATION-FORM",
       "Hastag": "#bucaimsef #iysa2023 #bucaturki #iysaevent #infolomba #bucaturki #eventafiliasi #iysaevent",
@@ -97,23 +97,6 @@
       "EventType": "National",
       "EventCategory": "IYSA Event",
       "ImageVeneu": "./assets/Singapore.WebP",
-      "LinkGmaps": "",
-      "NameLocation": ""
-    }
-  ],
-  "event7": [
-    {
-      "id": 1,
-      "image": "./assets/images/poster/iwa.WebP",
-      "title": "(IWA) Innovation Week In America 2023",
-      "LinkRegist": "https://bit.ly/IWA-REGISTRATION-FORM-2023",
-      "Hastag": "#iwa2023 #america #afiliasiiysa #infolomba #iysaevent2023 #event2023 #iysaevent #innovation #feed",
-      "DateAdTime": "14 October - 02 Decenber 2023",
-      "RegistEndDate": "20 August 2023",
-      "Location": "Online event",
-      "EventType": "Internasional",
-      "EventCategory": "IYSA Affiliation",
-      "ImageVeneu": "",
       "LinkGmaps": "",
       "NameLocation": ""
     }
@@ -180,23 +163,6 @@
       "RegistEndDate": "10 September 2023",
       "Location": " Online ",
       "EventType": "Internasional Online Event",
-      "EventCategory": "IYSA Affiliation",
-      "ImageVeneu": "",
-      "LinkGmaps": "",
-      "NameLocation": ""
-    }
-  ],
-  "event12": [
-    {
-      "id": 1,
-      "image": "./assets/images/poster/Thailand.WebP",
-      "title": "THE 17th EDUCATION EXPO FOR STUDENTS INTELLECTUAL DEVELOPMENT 2023",
-      "LinkRegist": "https://bit.ly/EESID-THAILAND-2023",
-      "Hastag": "#iysaevent #2023 #thailand #iysa2023 #afiliasi #event2023",
-      "DateAdTime": "05 - 07  September 2023",
-      "RegistEndDate": "18 August 2023",
-      "Location": " Offline ",
-      "EventType": "Internasional Offline Event",
       "EventCategory": "IYSA Affiliation",
       "ImageVeneu": "",
       "LinkGmaps": "",
