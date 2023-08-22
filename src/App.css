@@ -1,4 +1,10 @@
 /* Page loader styles */
+
+#root{
+  font-family: 'Poppins';
+}
+
+
 .page-loader {
   position: fixed;
   top: 0;
