@@ -70,16 +70,16 @@
 	border:none;
 	outline: none;
 	border-radius: 50px;
-	background: #092a49;
+	background: #0d6efd;
 	text-transform: uppercase;
 	padding: 10px 0;
 	cursor: pointer;
 	font-size: 18px;
 }
 .contact-form-btn:hover{
-	color: #ffffff;
-	background-color: #0795fe;
-}
+	box-shadow: 8px 8px #99bdff;
+	transition: .3s;
+  }
 @media screen and (max-width: 356px){
 	.contact-form-txt{
 		width: 100% !important;

@@ -11,6 +11,13 @@
 
 }
 
+.hero-section .btn:hover{
+  box-shadow: 8px 8px #99bdff;
+  transition: .3s;
+
+}
+
+
 @media (max-width:1440px){
   .hero-section{
     padding-top: 8rem;
@@ -475,6 +482,11 @@
   color: #000;
   font-weight: 500;
 }
+#featured-properties .container .btn:hover{
+  box-shadow: 8px 8px #99bdff;
+  transition: .3s;
+}
+
 @media (max-width: 426px) {
   .featured-item{
     width: 60%;
@@ -712,7 +724,7 @@ input::placeholder {
 }
 
 .input-container .btn:hover {
-  background: #394452;
+  background: #0d6efd;
   color: #F9F9F9;
 }
 
@@ -750,7 +762,7 @@ input::placeholder {
 
 .input-group .btn-subscribe {
   padding: 1.3rem 2rem;
-  background: #0d6efd;
+  background: #394452;
   color: whitesmoke;
   border-radius: 0 1.2rem 1.2rem 0;
   border: none;
