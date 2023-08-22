@@ -98,7 +98,7 @@ footer{
     color: #ccc;
   }
   
-  .social-icons .footer-social-icons{
+  .social-icons .footer-social-icons-fb{
     width: 20px;
     height: 20px;
     border-radius: 50%;
@@ -110,6 +110,78 @@ footer{
     margin-right: 15px;
     cursor: pointer;
     padding: 5px;
+  }
+  .social-icons .footer-social-icons-ig{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    color: #000;
+    background: #fff;
+    margin-right: 15px;
+    cursor: pointer;
+    padding: 5px;
+  }
+  .social-icons .footer-social-icons-yt{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    color: #000;
+    background: #fff;
+    margin-right: 15px;
+    cursor: pointer;
+    padding: 5px;
+  }
+  .social-icons .footer-social-icons-tt{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    color: #000;
+    background: #fff;
+    margin-right: 15px;
+    cursor: pointer;
+    padding: 5px;
+  }
+  .social-icons .footer-social-icons-ld{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    color: #000;
+    background: #fff;
+    margin-right: 15px;
+    cursor: pointer;
+    padding: 5px;
+  }
+  .social-icons .footer-social-icons-fb:hover{
+    background-color: rgb(59, 89, 152);
+    color: #fff;
+  }
+  .social-icons .footer-social-icons-ig:hover{
+    background-color: rgb(195, 42, 163);
+    color: #fff;
+  }
+  .social-icons .footer-social-icons-yt:hover{
+    background-color: rgb(255, 0, 0);
+    color: #fff;
+  }
+  .social-icons .footer-social-icons-tt:hover{
+    background: #000000;
+    color: #fff;
+  }
+  .social-icons .footer-social-icons-ld:hover{
+    background-color: rgb(0, 119, 181);
+    color: #fff;
   }
   
   hr{

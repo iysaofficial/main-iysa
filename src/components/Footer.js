@@ -5,7 +5,7 @@ import '../css/footer.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope } from '@fortawesome/free-regular-svg-icons'
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons'
-import { faFacebookF, faInstagram, faYoutube, faTiktok } from '@fortawesome/free-brands-svg-icons';
+import { faFacebookF, faInstagram, faYoutube, faTiktok, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 
 const Footer = () =>{
     return(
@@ -41,10 +41,11 @@ const Footer = () =>{
                         <button type='submit'><FontAwesomeIcon icon={faArrowRight} className='logoButtonNewsletter'></FontAwesomeIcon></button>
                     </form>
                     <div className='social-icons'>
-                        <a href='https://www.facebook.com/profile.php?id=100063979907207' target='_blank'><i className=''><FontAwesomeIcon icon={faFacebookF} className='footer-social-icons'></FontAwesomeIcon></i></a>
-                        <a href='https://www.instagram.com/iysa_official/?hl=id' target='_blank'><i className=''><FontAwesomeIcon icon={faInstagram} className='footer-social-icons'></FontAwesomeIcon></i></a>
-                        <a href='https://www.youtube.com/@IYSAOfficial' target='_blank'><i className=''><FontAwesomeIcon icon={faYoutube} className='footer-social-icons'></FontAwesomeIcon></i></a>
-                        <a href='https://www.tiktok.com/@iysa.official' target='_blank'><i><FontAwesomeIcon icon={faTiktok} className='footer-social-icons' /></i></a>
+                        <a href='https://www.facebook.com/profile.php?id=100063979907207' target='_blank'><i className=''><FontAwesomeIcon icon={faFacebookF} className='footer-social-icons-fb'></FontAwesomeIcon></i></a>
+                        <a href='https://www.instagram.com/iysa_official/?hl=id' target='_blank'><i className=''><FontAwesomeIcon icon={faInstagram} className='footer-social-icons-ig'></FontAwesomeIcon></i></a>
+                        <a href='https://www.youtube.com/@IYSAOfficial' target='_blank'><i className=''><FontAwesomeIcon icon={faYoutube} className='footer-social-icons-yt'></FontAwesomeIcon></i></a>
+                        <a href='https://www.tiktok.com/@iysa.official' target='_blank'><i><FontAwesomeIcon icon={faTiktok} className='footer-social-icons-tt' /></i></a>
+                        <a href='https://www.linkedin.com/company/indonesian-young-scientist-association-iysa' target='_blank'><i><FontAwesomeIcon icon={faLinkedin} className='footer-social-icons-ld' /></i></a>
                     </div>
                 </div>
             </div>

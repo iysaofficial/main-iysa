@@ -73,15 +73,6 @@
       "link": "/EventPage9"
     },
     {
-      "id": 10,
-      "image": "./assets/images/poster/wice.WebP",
-      "title": "5th WICE 2023, World Invention Competition and Exhibition",
-      "level": "International",
-      "location": "Malaysia",
-      "date": "22 - 26 September 2023",
-      "link": "/EventPage10"
-    },
-    {
       "id": 11,
       "image": "./assets/images/poster/MaGIEx.WebP",
       "title": "Malaysia Grand Invention EXPO (MaGIEx) 2023",

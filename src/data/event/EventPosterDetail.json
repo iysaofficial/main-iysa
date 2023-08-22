@@ -135,23 +135,6 @@
       "NameLocation": ""
     }
   ],
-  "event10": [
-    {
-      "id": 1,
-      "image": "./assets/images/poster/wice.WebP",
-      "title": "5th WICE 2023, World Invention Competition and Exhibition",
-      "LinkRegist": "https://bit.ly/REGISTRATION_WICE_2023",
-      "Hastag": "",
-      "DateAdTime": "22 - 26 September 2023",
-      "RegistEndDate": "18 August 2023",
-      "Location": "Malaysia",
-      "EventType": "Internasional",
-      "EventCategory": "IYSA Event",
-      "ImageVeneu": "",
-      "LinkGmaps": "",
-      "NameLocation": ""
-    }
-  ],
   "event11": [
     {
       "id": 1,
