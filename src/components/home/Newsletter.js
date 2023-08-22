@@ -1,3 +1,7 @@
+import { faEnvelope } from '@fortawesome/free-regular-svg-icons'
+import { faArrowRight } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+
 const Newsletter = () => {
     return (
         <section className="newsletter-section">
@@ -10,11 +14,13 @@ const Newsletter = () => {
                     <div className="content-modal col-lg-6 col-12">
                         <h1 className="heading">Subscribe Newsletter</h1>
                         <p className="">Join the thousands of people who are already benefiting from our newsletter. Subscribe to emails now to get unique content and the latest information.</p>
-                        <div className="input-container mx-auto text-center">
-                            <div className="input-group ">
-                                <input className="email-col " type="email" placeholder="Your Email"></input>
-                                <button className="subscribe-col btn btn-subscribe">Subscribe</button>
-                            </div>
+                        <div className='colNews'>
+                            
+                            <form action="https://formspree.io/f/xoqoddrr" method="POST">
+                                <FontAwesomeIcon icon={faEnvelope} className='logoNewsletter'></FontAwesomeIcon>
+                                <input type='email' name='Enter Email' placeholder='Enter Email' required />
+                                <button type='submit'><FontAwesomeIcon icon={faArrowRight} className='loh'></FontAwesomeIcon></button>
+                            </form>
                         </div>
                     </div>
                 </div>
