@@ -7,6 +7,10 @@
   font-weight: bold;
 }
 
+.curation-section .curation-content{
+  font-weight: bold;
+}
+
 .curation-section .box {
   background: linear-gradient(to right, #0d6efd, #092a49);
   width: 100%;

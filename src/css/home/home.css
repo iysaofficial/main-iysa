@@ -89,7 +89,8 @@
 }
 
 .vision-mission-content h1{
-  font-size: 3rem;
+  font-size: 2rem;
+  font-weight: bold;
   color:  #f2aa4cff;
   margin-top: 5rem;
   text-transform: uppercase;
@@ -172,6 +173,7 @@
 }
 
 .website-event-section .event-section-header h1{
+  font-weight: bold;
   color: #fff;
 }
 
@@ -307,6 +309,7 @@
 #featured-properties h1{
   color: #fff;
   position: relative;
+  font-weight: bold;
 }
 
 #featured-properties h1 .underline{
@@ -538,7 +541,9 @@
 .affiliation-section {
   background: #f5fafe;
 }
-
+.affiliation-section .text-center {
+  font-weight: bold;
+}
 .logos{
     white-space: nowrap;
     overflow: hidden;
@@ -661,6 +666,10 @@
   border-radius: 3rem;
   align-items: center;
   background:  whitesmoke;
+}
+
+.newsletter-section .modal-container .modal-inner .heading{
+  font-weight: bold;
 }
 
 
