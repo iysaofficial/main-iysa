@@ -1,4 +1,4 @@
-.section-backToTopBtn button{
+.section-backToTopBtn button {
     position: fixed;
     bottom: 50px;
     right: 50px;
@@ -10,9 +10,30 @@
     outline: none !important;
     border: none;
     z-index: 10;
-} 
+}
 
-.section-backToTopBtn button .backToTop-icon{
-    width: 100%; 
-    color: #fff;   
+.section-backToTopBtn button:hover {
+    animation: pulse 1s infinite;
+    transition: .3s;
+    box-shadow: 0 0 10px 0 #0795fe inset, 0 0 20px 2px #0795fe;
+  border: 3px solid #0795fe;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+
+    70% {
+        transform: scale(.9);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.section-backToTopBtn button .backToTop-icon {
+    width: 100%;
+    color: #fff;
 }
