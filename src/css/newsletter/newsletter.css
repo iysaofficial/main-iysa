@@ -46,7 +46,7 @@
 .newsletter-button a {
   margin-top: 2rem;
   display: inline-block;
-  background: #092a49;
+  background: #0d6efd;
   color: white;
   border-radius: 40px;
   text-decoration: none;
@@ -56,7 +56,7 @@
 
 .newsletter-button a:hover,
 a:focus a:active {
-  background: #0795fe;
+  background: #0d6efd;
   transition: 0.3s;
   color: white;
 }
@@ -73,8 +73,27 @@ a:focus a:active {
   margin-bottom: 3rem;
 }
 
+.controls button {
+  background-color: #0d6efd;
+  -webkit-transition: all 0.1s;
+  -moz-transition: all 0.1s;
+  transition: all 0.1s;
+
+
+  -webkit-box-shadow: 0px 6px 0px #0d6efd;
+  -moz-box-shadow: 0px 6px 0px #0d6efd;
+  box-shadow: 0px 6px 0px #99bdff;
+}
+
 .controls button:hover {
-  background: #0795fe;
+  /* background: #0795fe; */
+  box-shadow: 8px 8px #99bdff;
+  transition: .3s;
+  -webkit-box-shadow: 0px 2px 0px #99bdff;
+  -moz-box-shadow: 0px 2px 0px #99bdff;
+  box-shadow: 0px 2px 0px #99bdff;
+  position: relative;
+  top: 4px;
 }
 
 .control {
@@ -89,9 +108,11 @@ a:focus a:active {
   background: black;
   cursor: pointer;
 }
+
 .control:hover {
   color: white;
 }
+
 /* button end */
 
 .read-more-overlay {
@@ -103,18 +124,19 @@ a:focus a:active {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgba(
-    0,
-    0,
-    0,
-    0.5
-  ); /* Sesuaikan warna latar belakang dan opasitas sesuai keinginan */
-  opacity: 0; /* Awalnya sembunyikan overlay */
+  background-color: rgba(0,
+      0,
+      0,
+      0.5);
+  /* Sesuaikan warna latar belakang dan opasitas sesuai keinginan */
+  opacity: 0;
+  /* Awalnya sembunyikan overlay */
   transition: opacity 0.3s;
 }
 
 .box:hover .read-more-overlay {
-  opacity: 1; /* Tampilkan overlay saat mengarahkan kursor di atas kartu */
+  opacity: 1;
+  /* Tampilkan overlay saat mengarahkan kursor di atas kartu */
 }
 
 .read-more-overlay a {
@@ -122,5 +144,14 @@ a:focus a:active {
   text-decoration: none;
   padding: 10px 20px;
   border-radius: 4px;
-  background-color: #092a49; /* Tetapkan warna latar belakang yang Anda inginkan */
+  background-color: #092a49;
+  /* Tetapkan warna latar belakang yang Anda inginkan */
+}
+.read-more-overlay a:hover {
+  background-color: #0d6efd;
+  text-shadow:0px 0px 30px white;
+  -moz-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  -webkit-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
 }
