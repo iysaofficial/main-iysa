@@ -16,6 +16,7 @@
   #All-Event-properties h1{
     color: #fff;
     position: relative;
+    font-weight: bold;
   }
   
   #All-Event-properties h1 .underline{
