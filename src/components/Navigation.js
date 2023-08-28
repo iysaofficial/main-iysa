@@ -162,7 +162,12 @@ const Navigation = () => {
               </a>
               <ul className="sub-menu text-center">
                 <li className="menu-item">
-                  <a href="/GalleryPhoto">Photo</a>
+                  <a
+                    href="https://drive.google.com/drive/u/2/folders/1UVZeNGaNWk-TyNgSY0lAsWUcN-X7Nxle"
+                    target="-blink"
+                  >
+                    Photo
+                  </a>
                 </li>
                 <li className="menu-item">
                   <a href="/GalleryVideo">Video</a>
