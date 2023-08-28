@@ -73,6 +73,15 @@
       "link": "/EventPage9"
     },
     {
+      "id": 10,
+      "image": "./assets/images/poster/MIYIO.WebP",
+      "title": "MALAYSIA INTENATION YOUNG INVENTORS OLYMPIAD (MIYIO)",
+      "level": "International",
+      "location": "Malaysia",
+      "date": " 6 - 8 October 2023",
+      "link": "/EventPage10"
+    },
+    {
       "id": 11,
       "image": "./assets/images/poster/MaGIEx.WebP",
       "title": "Malaysia Grand Invention EXPO (MaGIEx) 2023",

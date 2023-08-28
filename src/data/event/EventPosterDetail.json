@@ -135,6 +135,23 @@
       "NameLocation": ""
     }
   ],
+  "event10": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/MIYIO.WebP",
+      "title": "MALAYSIA INTENATION YOUNG INVENTORS OLYMPIAD (MIYIO)",
+      "LinkRegist": "https://bit.ly/REGISTRATION-FORM-MIYIO-2023",
+      "Hastag": "#iysaafiliasi #miyio2023 #iysa2023",
+      "DateAdTime": "06 - 08 October 2023",
+      "RegistEndDate": "03 September 2023",
+      "Location": " Malaysia ",
+      "EventType": "Internasional Online Event",
+      "EventCategory": "IYSA Affiliation",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
+  ],
   "event11": [
     {
       "id": 1,

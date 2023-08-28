@@ -1,5 +1,5 @@
 // Import CSS
-import '../../css/event/eventPoster.css';
+import "../../css/event/eventPoster.css";
 
 // Import FontAwesome
 import React, { useState } from "react";
@@ -26,7 +26,6 @@ function EventPoster10() {
     setShowContent(!showContent);
   };
   return (
-    
     <section>
       <div id="main-event" className="container">
         <div className="row event-wrapper ">
@@ -41,13 +40,16 @@ function EventPoster10() {
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
                     <h1 className="fw-bolder">{EventPosterDetail10.title}</h1>
-                    <p>5th WICE 2023, Malaysia 🇲🇾🇲🇾</p>
-                    <p>World Invention Competition and Exhibition</p>
+                    <p>MIYIO 2023</p>
+                    <p>EVENT AFILIASI IYSA</p>
                     <br></br>
-                    <p>This year the Indonesian Young Scientist Association (IYSA) is collaborating with MAHSA University,<br></br> of course this event is still being held in Malaysia.</p>
-                    <br></br>          
-                    <p>For those of you who haven’t joined WICE in 2022, let’s register for WICE this year. How to register?<br></br>on this link 👇</p>
+                    <p>
+                      Buat temen-temen setia IYSA yang belum sempat daftar event
+                      IYSA yaitu @wice.official, IYSA punya juga ni event
+                      afiliasi offline di Malaysia 👏🏻
+                    </p>
                     <br></br>
+                    <p>Bisa daftar di link bawah ini ya</p>
                     <br></br>
                     <a
                       className="btn btn-primary mb-4"
@@ -57,9 +59,14 @@ function EventPoster10() {
                       Registration Form
                     </a>
                     <br></br>
-                    <p>You can see the guide book on the registration link 📖</p>
+                    <p>
+                      Kalian dapat melihat guide book pada link pendaftaran 📖
+                    </p>
                     <br />
-                    <p>Come on, what are you waiting for, let’s make your team excel in international events </p>
+                    <p>
+                      Yuk, tunggu apalagi bikin tim kamu berprestasi di ajang
+                      internasional
+                    </p>
                     <p className="hastag">{EventPosterDetail10.Hastag}</p>
                   </div>
                   <div className="colom-right col-md-4 text-center text-md-start ">
