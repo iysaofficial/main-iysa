@@ -64,6 +64,7 @@ function EventPoster11() {
                     <a
                       className="btn btn-primary mb-4"
                       href={EventPosterDetail11.LinkRegist}
+                      rel="noreferrer noopener" 
                       target="-blank"
                     >
                       Registration Form
@@ -103,6 +104,7 @@ function EventPoster11() {
                         href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
                           window.location.href
                         )}`}
+                        rel="noreferrer noopener" 
                         title="Share this page on Facebook"
                         target="_blank"
                       >
@@ -116,6 +118,7 @@ function EventPoster11() {
                         href={`https://twitter.com/share?url=${encodeURIComponent(
                           window.location.href
                         )}`}
+                        rel="noreferrer noopener" 
                         title="Share this page on Twitter"
                         target="_blank"
                       >
@@ -129,6 +132,7 @@ function EventPoster11() {
                         href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
                           window.location.href
                         )}`}
+                        rel="noreferrer noopener" 
                         title="Share this page on Linkedin"
                         target="_blank"
                       >
@@ -142,6 +146,7 @@ function EventPoster11() {
                         href={`https://pinterest.com/pin/create/button/?url=${encodeURIComponent(
                           window.location.href
                         )}`}
+                        rel="noreferrer noopener" 
                         title="Share this page on Pinterest"
                         target="_blank"
                       >
