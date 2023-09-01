@@ -54,7 +54,7 @@ function EventPoster1() {
                     <ul>
                         <li><strong>Registration Deadline:</strong> November 10, 2023</li>
                         <li><strong>Payment Deadline:</strong> November 17, 2023</li>
-                        <li><strong>Event Date:</strong> December 4-7, 2023</li>
+                        <li><strong>Event Date:</strong> December 19-22, 2023</li>
                         <li><strong>Place:</strong> Departemen Aktuaria FSAD ITS, Surabaya</li>
                     </ul>
                     {/* <p className="mt-5">{EventPosterDetail1.paragraf5}</p> */}
