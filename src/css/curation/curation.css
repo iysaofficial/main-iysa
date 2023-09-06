@@ -11,6 +11,15 @@
   font-weight: bold;
 }
 
+.row h1{
+  font-weight: bold;
+}
+
+.row iframe{
+  width: 41rem;
+  height: 30rem;
+}
+
 .curation-section .box {
   background: linear-gradient(to right, #0d6efd, #092a49);
   width: 100%;

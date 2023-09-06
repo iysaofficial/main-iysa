@@ -163,9 +163,7 @@ const Navigation = () => {
               <ul className="sub-menu text-center">
                 <li className="menu-item">
                   <a
-                    href="https://drive.google.com/drive/u/2/folders/1UVZeNGaNWk-TyNgSY0lAsWUcN-X7Nxle"
-                    rel="noreferrer noopener" 
-                    target="-blink"
+                    href="/GalleryPhoto"
                   >
                     Photo
                   </a>

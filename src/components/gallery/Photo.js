@@ -1,151 +1,87 @@
-// Import Data
-import PhotoData from "../../data/gallery/Photo.json";
+import "../../css/gallery/photo.css";
 
-import React, { useState } from "react";
-
-function Photo() {
-  const [selectedFilter, setSelectedFilter] = useState("all"); // Menambahkan state untuk menyimpan filter yang dipilih
-
-  // Fungsi untuk mengubah filter yang dipilih
-  const handleFilterChange = (filter) => {
-    setSelectedFilter(filter);
-  };
-
+const Photo = () => {
   return (
-    <section id="product">
+    <section className="curation-section">
       <div className="container">
-        <div className="controls">
-          <button
-            type="button"
-            className="control"
-            onClick={() => handleFilterChange("all")}
-          >
-            ALL
-          </button>
-          <button
-            type="button"
-            className="control"
-            onClick={() => handleFilterChange("year2023")}
-          >
-            2023
-          </button>
-          <button
-            type="button"
-            className="control"
-            onClick={() => handleFilterChange("year2022")}
-          >
-            2022
-          </button>
-          <button
-            type="button"
-            className="control"
-            onClick={() => handleFilterChange("year2021")}
-          >
-            2021
-          </button>
-          <button
-            type="button"
-            className="control"
-            onClick={() => handleFilterChange("year2020")}
-          >
-            2020
-          </button>
+        <div className="curation-header-section">
+          <h2 className="text-center">Gallery Event</h2>
         </div>
-        <div className="products">
-          {/* Tampilkan image sesuai dengan filter yang dipilih */}
-          {selectedFilter === "all" && (
-            <>
-            <div className="row">
-                {PhotoData.year2023.map((gallery) => {
-                  return (
-                    <div
-                      className="col-lg-3 col-sm-12 col-md-6 mt-2 mix year2023"
-                      key={gallery.id}
-                    >
-                      <img
-                        src={gallery.image}
-                        width="500"
-                        height="auto"
-                        alt="image 2023"
-                      />
-                    </div>
-                  );
-                })}
-              </div>
-              <div className="row">
-                {PhotoData.year2022.map((gallery) => {
-                  return (
-                    <div
-                      className="col-lg-3 col-sm-12 col-md-6 mt-2 mix year2022"
-                      key={gallery.id}
-                    >
-                      <img
-                        src={gallery.image}
-                        width="500"
-                        height="auto"
-                        alt="image 2022"
-                      />
-                    </div>
-                  );
-                })}
-              </div>
-              <div className="row">
-                {PhotoData.year2021.map((gallery) => {
-                  return (
-                    <div
-                      className="col-lg-3 col-sm-12 col-md-6 mt-2 mix year2021"
-                      key={gallery.id}
-                    >
-                      <img
-                        src={gallery.image}
-                        width="500"
-                        height="auto"
-                        alt="image 2021"
-                      />
-                    </div>
-                  );
-                })}
-              </div>
-              <div className="row">
-                {PhotoData.year2020.map((gallery) => {
-                  return (
-                    <div className="col-lg-3 col-sm-12 col-md-6 mt-2 mix duapuluh" key={gallery.id}>
-                      <img
-                        src={gallery.image}
-                        width="500"
-                        height="auto"
-                        alt="image 2020"
-                      />
-                    </div>
-                  );
-                })}
-              </div>
-            </>
-          )}
 
-          {selectedFilter !== "all" && (
-            <div className="row">
-              {PhotoData[selectedFilter].map((gallery) => {
-                return (
-                  <div
-                    className={`col-lg-3 col-sm-12 col-md-6 mt-2 mix ${selectedFilter}`}
-                    key={gallery.id}
-                  >
-                    <img
-                      src={gallery.image}
-                      width="500"
-                      height="auto"
-                      alt="image"
-                    />
-                  </div>
-                );
-              })}
-            </div>
-          )}
+        <div className="row">
+          <div className="col-lg-4 col-md-6 col-sm-12">
+            <a
+              href="https://drive.google.com/drive/folders/1hwrWzTYg0qKIkoAMo6VH2-mMPsPwxnYC?usp=sharing"
+              rel='noreferrer noopener'
+              target="_blank"
+            >
+              <div className="box">
+                <div className="content">
+                  <h4 className="">Gallery Event 2023</h4>
+                </div>
+              </div>
+            </a>
+          </div>
+
+          <div className="col-lg-4 col-md-6 col-sm-12">
+            <a
+              href="https://drive.google.com/drive/folders/1ryUJGTgJlMfQSmlm-_vrSvLCeEO359uM?usp=sharing"
+              rel='noreferrer noopener'
+              target="_blank"
+            >
+              <div className="box">
+                <div className="content">
+                  <h4 className="">Gallery Event 2022</h4>
+                </div>
+              </div>
+            </a>
+          </div>
+
+          <div className="col-lg-4 col-md-6 col-sm-12">
+            <a
+              href="https://drive.google.com/drive/folders/145lTk5-26WjugcW9gpbPLuutPTMyZx5j?usp=sharing"
+              rel='noreferrer noopener'
+              target="_blank"
+            >
+              <div className="box">
+                <div className="content">
+                  <h4 className="">Galley Event 2021</h4>
+                </div>
+              </div>
+            </a>
+          </div>
+
+          <div className="col-lg-4 col-md-6 col-sm-12">
+            <a
+              href="https://drive.google.com/drive/folders/16x0jhCQFv_6KmUB1LozDF_tUDK7vYSjY?usp=sharing"
+              rel='noreferrer noopener'
+              target="_blank"
+            >
+              <div className="box">
+                <div className="content">
+                  <h4 className="">Gallery Event 2020</h4>
+                </div>
+              </div>
+            </a>
+          </div>
+
+          <div className="col-lg-4 col-md-6 col-sm-12">
+            <a
+              href="https://drive.google.com/drive/folders/1vmF4VnMeum1iseTii1N46mG76Vd2lzGW?usp=sharing"
+              rel='noreferrer noopener'
+              target="_blank"
+            >
+              <div className="box">
+                <div className="content">
+                  <h4 className="">Gallery Event 2019</h4>
+                </div>
+              </div>
+            </a>
+          </div>
         </div>
       </div>
     </section>
   );
-}
+};
 
 export default Photo;

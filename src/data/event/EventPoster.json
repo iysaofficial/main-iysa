@@ -80,6 +80,15 @@
       "location": "Malaysia",
       "date": "01 - 15 November 2023",
       "link": "/EventPage11"
+    },
+    {
+      "id": 12,
+      "image": "./assets/images/poster/Olympiad.WebP",
+      "title": "IYSA Olympiad 2023",
+      "level": "International",
+      "location": "Online",
+      "date": "13 - 22 December 2023",
+      "link": "/EventPage12"
     }
   ]
 }

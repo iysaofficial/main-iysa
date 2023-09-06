@@ -151,5 +151,22 @@
       "LinkGmaps": "",
       "NameLocation": ""
     }
+  ],
+  "event12": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/Olympiad.WebP",
+      "title": "IYSA Olympiad 2023",
+      "LinkRegist": "https://bit.ly/IYSA-Olympiad-2023",
+      "Hastag": "#iysaolympiad #2023 #new  #iysaevent2023 #iysa2023",
+      "DateAdTime": "13 - 22 December 2023",
+      "RegistEndDate": "30 November 2023",
+      "Location": " Online ",
+      "EventType": "Internasional Online Event",
+      "EventCategory": "IYSA Olympiad Event",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
   ]
 }

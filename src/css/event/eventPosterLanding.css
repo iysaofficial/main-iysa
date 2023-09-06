@@ -167,6 +167,12 @@
   #feature-two .counter-container .counter {
     text-align: center;
   }
+  #feature-two .counter-container .counter .text-title {
+    font-size: 6.4rem;
+    font-weight: bold;
+    font-weight: 600;
+  }
+
   #feature-two .counter-container .counter .text-dark {
     font-size: 6.4rem;
     font-weight: 600;

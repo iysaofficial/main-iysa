@@ -18,7 +18,7 @@ const Curation = () => {
           </div>
 
           <div className="col-md-6 curation-content mb-auto mt-auto">
-            <h1>Company Profile</h1>
+            <h1 className="text-tittle">Company Profile</h1>
             {/* <p className='text-justify'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At cumque natus ex ut perspiciatis eveniet, reiciendis exercitationem harum vel aliquam. Aspernatur id rem dolores nihil ab culpa vitae nostrum modi?</p> 
                     <p className='text-justify'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At cumque natus ex ut perspiciatis eveniet, reiciendis exercitationem harum vel aliquam. Aspernatur id rem dolores nihil ab culpa vitae nostrum modi?</p> 
                     <p className='text-justify'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At cumque natus ex ut perspiciatis eveniet, reiciendis exercitationem harum vel aliquam. Aspernatur id rem dolores nihil ab culpa vitae nostrum modi?</p>  */}

@@ -65,6 +65,7 @@
   #All-Event-properties .featured-section-bottom .featured-item .featured-img {
     width: 100%;
     overflow: hidden;
+    font-weight: bold;
     border-top-right-radius: 1rem;
     border-top-left-radius: 1rem;
   }
@@ -168,6 +169,12 @@
   #feature-two .counter-container .counter {
     text-align: center;
   }
+  #feature-two .counter-container .counter .text-title {
+    font-size: 6.4rem;
+    font-weight: 600;
+    font-weight: bold;
+  }
+
   #feature-two .counter-container .counter .text-dark {
     font-size: 6.4rem;
     font-weight: 600;

@@ -41,30 +41,34 @@ function EventPoster12() {
                   <div className="colom-left col-md-8  mt-2">
                     <h1 className="fw-bolder">{EventPosterDetail12.title}</h1>
                     <br></br>
-                    <p>Who asked about the event in Thailand?</p>
+                    <p>IYSA's new event 💥</p>
                     <p>
-                      IYSA has an offline affiliate event in Thailand in
-                      September, let's register now
+                      hello young scientists👋🏻 IYSA Olympiad 2023 is finally
+                      open for registration‼️
                     </p>
                     <br></br>
                     <p>
-                      The city of Semarang is a city that IYSA often visits and
-                      as a venue for major IYSA events, many<br></br>{" "}
-                      universities in Semarang have become IYSA partners from
-                      year to year.
+                      This competition will take place on December 13-22, 2023
+                    </p>
+                    <br></br>
+                    <p>
+                      let's choose: 
+                      📍Math Olympiad 
+                      📍Olympiad Biology
+                      📍Economic Olympiad
                     </p>
                     <br></br>
                     <br></br>
                     <p>Register Now!!</p>
                     <ul>
                       <li>
-                        <strong>Registration Deadline:</strong> August 18, 2023
+                        <strong>Registration Deadline:</strong> November 30, 2023
                       </li>
                       <li>
-                        <strong>Payment Deadline: </strong> August 21, 2023
+                        <strong>Payment Deadline: </strong> December 6, 2023
                       </li>
                       <li>
-                        <strong>Event Date:</strong> September 5-7, 2023
+                        <strong>Event Date:</strong> December 13-22, 2023
                       </li>
                     </ul>
                     <br></br>
