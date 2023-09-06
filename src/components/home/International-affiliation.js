@@ -23,7 +23,7 @@ const InternationalAffiliation = ()=> {
                   <img src="./assets/images/logo/International Affiliation/diece.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/esi.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/fdct.WebP" alt="" />
-                  <img src="./assets/images/logo/International Affiliation/fna.WebP" alt="" />
+                  {/* <img src="./assets/images/logo/International Affiliation/fna.WebP" alt="" /> */}
                   <img src="./assets/images/logo/International Affiliation/gysc.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/hkfi.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/UMP.WebP" alt="" />
@@ -34,8 +34,8 @@ const InternationalAffiliation = ()=> {
                   <img src="./assets/images/logo/International Affiliation/ifest.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/ifia.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/img.WebP" alt="" />
-                  <img src="./assets/images/logo/International Affiliation/isb.WebP" alt="" />
-                  <img src="./assets/images/logo/International Affiliation/jgu.WebP" alt="" />
+                  {/* <img src="./assets/images/logo/International Affiliation/isb.WebP" alt="" /> */}
+                  {/* <img src="./assets/images/logo/International Affiliation/jgu.WebP" alt="" /> */}
                   <img src="./assets/images/logo/International Affiliation/kiif.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/klesf.WebP" alt="" />
                   <img src="./assets/images/logo/International Affiliation/pmr.WebP" alt="" />
