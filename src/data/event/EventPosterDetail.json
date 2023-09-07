@@ -62,7 +62,7 @@
       "Location": "Bali",
       "EventType": "Internasional",
       "EventCategory": "IYSA Event",
-      "ImageVeneu": "./assets/images/venue/Udayana.Webp",
+      "ImageVeneu": "./assets/images/venue/Udayana.WebP",
       "LinkGmaps": "https://goo.gl/maps/4T9WCTGPe3hHW2AM6",
       "NameLocation": "Universitas Udayana"
     }
@@ -79,7 +79,7 @@
       "Location": "Bali",
       "EventType": "National",
       "EventCategory": "IYSA Event",
-      "ImageVeneu": "./assets/images/venue/Udayana.Webp",
+      "ImageVeneu": "./assets/images/venue/Udayana.WebP",
       "LinkGmaps": "https://goo.gl/maps/4T9WCTGPe3hHW2AM6",
       "NameLocation": "Universitas Udayana"
     }
@@ -113,7 +113,7 @@
       "Location": "Bali",
       "EventType": "Internasional",
       "EventCategory": "IYSA Event",
-      "ImageVeneu": "./assets/images/venue/Udayana.Webp",
+      "ImageVeneu": "./assets/images/venue/Udayana.WebP",
       "LinkGmaps": "https://goo.gl/maps/4T9WCTGPe3hHW2AM6",
       "NameLocation": "Universitas Udayana"
     }
@@ -181,7 +181,7 @@
       "Location": " Bali ",
       "EventType": "National Offline Event",
       "EventCategory": "IYSA Event",
-      "ImageVeneu": "./assets/images/venue/Udayana.Webp",
+      "ImageVeneu": "./assets/images/venue/Udayana.WebP",
       "LinkGmaps": "https://goo.gl/maps/4T9WCTGPe3hHW2AM6",
       "NameLocation": "Universitas Udayana"
     }
