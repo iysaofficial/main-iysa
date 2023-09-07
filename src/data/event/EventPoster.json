@@ -89,6 +89,15 @@
       "location": "Online",
       "date": "13 - 22 December 2023",
       "link": "/EventPage12"
+    },
+    {
+      "id": 13,
+      "image": "./assets/images/poster/IIFNasional.WebP",
+      "title": "IIF NASIONAL",
+      "level": "National",
+      "location": "Bali",
+      "date": "07 - 11 November 2023",
+      "link": "/EventPage13"
     }
   ]
 }
