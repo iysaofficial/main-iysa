@@ -16,10 +16,10 @@ const Newsletter = () => {
                         <p className="">Join the thousands of people who are already benefiting from our newsletter. Subscribe to emails now to get unique content and the latest information.</p>
                         <div className='colNews'>
                             
-                            <form action="https://formspree.io/f/xoqoddrr" method="POST" value="Subscribe">
+                            <form action="https://formspree.io/f/xoqoddrr" method="POST">
                                 <FontAwesomeIcon icon={faEnvelope} className='logoNewsletter'></FontAwesomeIcon>
                                 <input type='email' name='Enter Email' placeholder='Enter Email' required />
-                                <button type='submit'><FontAwesomeIcon icon={faArrowRight} className='loh'></FontAwesomeIcon></button>
+                                <button type='submit' value="Subscribe" ><FontAwesomeIcon icon={faArrowRight} className='loh'></FontAwesomeIcon></button>
                             </form>
                         </div>
                     </div>
