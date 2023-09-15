@@ -84,11 +84,20 @@
     {
       "id": 13,
       "image": "./assets/images/poster/IIFNasional.WebP",
-      "title": "IIF NASIONAL",
+      "title": "IIF NASIONAL 2023",
       "level": "National",
       "location": "Bali",
       "date": "07 - 11 November 2023",
       "link": "/EventPage13"
+    },
+    {
+      "id": 14,
+      "image": "./assets/images/poster/Ptk.WebP",
+      "title": "INVENTION & PTK 2023",
+      "level": "National",
+      "location": "Jakarta",
+      "date": " 24 - 25 November 2023",
+      "link": "/EventPage11"
     }
   ]
 }

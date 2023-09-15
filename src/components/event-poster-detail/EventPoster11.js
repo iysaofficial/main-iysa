@@ -40,24 +40,29 @@ function EventPoster11() {
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
                     <h1 className="fw-bolder">{EventPosterDetail11.title}</h1>
-                    <p>Hi Young Researcher</p>
-                    <p>IYSA New Affiliation Event 🔥</p>
+                    {/* <p>Hi Young Researcher</p> */}
+                    <p>IYSA New Event 🔥</p>
                     <p>
-                      Online competition for Indonesia Participant, Malaysia
-                      Grand Invention Expo 2023
+                    Lomba Invensi dan PTK
+                    </p>
+                    <p>
+                    Khusus Member Komunitas IYSA Research Teacher.
                     </p>
                     <br></br>
-                    <p>Register Now!!</p>
+                    <p>JADWAL WAKTU TENTATIF LOMBA INVENSI DAN PTK</p>
                     <ul>
                       <li>
-                        <strong>Registration Deadline:</strong> September 10,
-                        2023
+                        <strong>📌 Batas Pendaftaran:</strong> 10 Oktober 2023
                       </li>
                       <li>
-                        <strong>Payment Deadline: </strong> September 14, 2023
+                        <strong>📌 Batas Pengumpulan Full Paper / PTK:</strong>  20 Oktober 2023
                       </li>
                       <li>
-                        <strong>Event Date:</strong> November 1 - 15, 2023
+                        <strong>📌 Pengumuman finalis:</strong>  3 November 2023
+                      </li>
+                      <li>
+                        <strong>📌 Penilaian langsung dan pengumuman pemenang:</strong> 24-25 November 2023
+
                       </li>
                     </ul>
                     <br></br>
