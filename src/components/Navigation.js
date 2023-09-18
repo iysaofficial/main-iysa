@@ -139,9 +139,9 @@ const Navigation = () => {
                 </li>
               </ul>
             </li>
-            <li className="menu-item">
+            {/* <li className="menu-item">
               <a href="/Curasi"> Curation News</a>
-            </li>
+            </li> */}
             <li className="menu-item menu-item-has-children">
               <a href="#" data-toggle="sub-menu">
                 Our Team
