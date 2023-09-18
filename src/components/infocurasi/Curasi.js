@@ -6,7 +6,7 @@ const Curasi = () => {
           <div className="kotak row text-center col-12 mx-auto">
             <div className="pag col-lg-4 col-12">
               <img
-                src="https://drive.google.com/uc?id=1XiksqceoHO59D6Cd5m-61tdjQfexamEc"
+                src="./assets/images/newsletter/Kurasi.WebP"
                 alt="Footer Logo"
                 className="mt-5 mx-auto"
                 height="250"
@@ -22,7 +22,7 @@ const Curasi = () => {
             </div>
             <div className="if text-center col-lg-8 col-12 mt-5 mb-5">
               <iframe
-                src="https://drive.google.com/uc?id=1bZko3snHRbtuTBa_2qnKqUquymQBImuB"
+                src="./assets/images/newsletter/Kurasi.pdf"
                 width="80%"
                 height="570"
               />
