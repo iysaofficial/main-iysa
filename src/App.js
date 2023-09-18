@@ -15,6 +15,7 @@ import CompanyProfile from "./pages/companyprofile/CompanyProfilePage";
 // Import Curation
 import CurationOSPCPage from "./pages/curation/CurationOSPCPage";
 import CurationLKTINComp from "./components/curation/CurationLKTINComp";
+import CurasiPage from "./pages/curasiinfo/CurasiPage";
 
 // Import Team
 import ExpertTeam from "./components/team/ExpertTeam";
@@ -53,6 +54,8 @@ import GalleryVideo from "./pages/gallery/GalleryVideo";
 // Import FAQ
 import FaqPage from "./pages/faq/FaqPage";
 
+
+
 // Import Contact
 import ContactPage from "./pages/contact/ContactPage";
 
@@ -87,6 +90,7 @@ function App() {
             {/* Curation */}
             <Route path="/CurationOSPC" element={<CurationOSPCPage />} />
             <Route path="/CurationLKTIN" element={<CurationLKTINComp />} />
+            <Route path="/Curasi" element={<CurasiPage />} />
 
             {/* Expert Team */}
             <Route path="/ExpertTeam" element={<ExpertTeam />} />
