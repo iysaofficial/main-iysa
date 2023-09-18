@@ -140,7 +140,7 @@ const Navigation = () => {
               </ul>
             </li>
             <li className="menu-item">
-              <a href="/Curasi">News</a>
+              <a href="/Curasi"> Curation News</a>
             </li>
             <li className="menu-item menu-item-has-children">
               <a href="#" data-toggle="sub-menu">
