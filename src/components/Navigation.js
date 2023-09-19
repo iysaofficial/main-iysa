@@ -149,7 +149,7 @@ const Navigation = () => {
               </a>
               <ul className="sub-menu text-center">
                 <li className="menu-item">
-                  <a href="/ExpertTeam">Expert Team</a>
+                  <a href="/ExpertTeam">IYSA Expert Team</a>
                 </li>
                 {/* <li className="menu-item">
                     <a href="/ExpertStaff">Expert Staff</a>

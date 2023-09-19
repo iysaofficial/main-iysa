@@ -4,7 +4,7 @@
 }
 
 .company-profile-section .row .about-iframe{
-    margin-bottom: 5rem;
+    margin-bottom: 2rem;
     margin-top: 5rem;
 }
 
@@ -19,6 +19,11 @@
       width: 250px !important;
       height: auto;
       margin: 2rem;
+    }
+    .company-profile-section .hero-image .img-fluid {
+        width: 350px !important;
+        height: 250px;
+        margin: 0.5rem;
     }
   
   }
