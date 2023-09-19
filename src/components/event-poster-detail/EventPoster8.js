@@ -41,24 +41,25 @@ function EventPoster8() {
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
                     <h1 className="fw-bolder">{EventPosterDetail8.title}</h1>
-                    <p>WYIIA 2023</p>
-                    <p>Hybrid Competition</p>
+                    <p>I3NEW 2023</p>
+                    <p>Online Competition</p>
                     <br></br>
-                    <p>Hello young inventors, innovators and scientis , 🥳</p>
+                    <p>Halo peneliti belia 🤗</p>
                     <br></br>          
-                    <p>In this 3rd year WYIIA is held in Yogyakarta again, in collaboration with Universitas Sarjanawiyata <br></br>Tamansiswa (UST) and Institut Pertanian Bogor (IPB), @wyiiaofficial 👏🏻👏🏻</p>
+                    <p>Ada event online afiliasi IYSA nih di Romania, International Innovation & Invention New Education Worldwide 
+                      <br></br></p>
                     <br></br>
-                    <p>let’s register your team now!!👇🏻</p>
+                    <p>Daftar disini 👇🏻</p>
                     <br></br>
                     <ul>
-                        <li><strong>Registration Deadline :</strong>  September 14, 2023</li>
-                        <li><strong>Payment Deadline : </strong> September 20, 2023</li>
-                        <li><strong>Event Date : </strong> October 10 - 14, 2023</li>
+                        <li><strong>Registration Deadline :</strong>  November 20, 2023</li>
+                        <li><strong>Payment Deadline : </strong> November 20, 2023</li>
+                        <li><strong>Event Date : </strong> December 7 - 18, 2023</li>
                     </ul>
                     
-                    <br></br>
+                    {/* <br></br>
                     <p>So for all of you international and national students, especially students on the nearest Java island,<br></br> let’s register your team to take part in this offline event, 😉</p>
-                    <br></br>
+                    <br></br> */}
                     <a
                       className="btn btn-primary mb-4"
                       href={EventPosterDetail8.LinkRegist}
@@ -67,9 +68,9 @@ function EventPoster8() {
                       Registration Form
                     </a>
                     <br></br>
-                    <p>See you in Yogyakarta, Indonesia guys, 🙋‍♀️🙋‍♂️</p>
+                    {/* <p>See you in Yogyakarta, Indonesia guys, 🙋‍♀️🙋‍♂️</p> */}
                     <br />
-                    <p className="hastag">{EventPosterDetail8.Hastag}</p>
+                    {/* <p className="hastag">{EventPosterDetail8.Hastag}</p> */}
                   </div>
                   <div className="colom-right col-md-4 text-center text-md-start ">
                     <a className="btn btn-primary shadow mt-2">

@@ -46,6 +46,15 @@
       "link": "/EventPage6"
     },
     {
+      "id": 8,
+      "image": "./assets/images/poster/I3NEW.WebP",
+      "title": "International Innovation & Invention New Education Worldwide (I3NEW) 2023",
+      "level": "International",
+      "location": "Online",
+      "date": "07 - 18 December 2023",
+      "link": "/EventPage8"
+    },
+    {
       "id": 9,
       "image": "./assets/images/poster/isif.WebP",
       "title": "(2023)INTERNATIONAL SCIENCE AND INVENTION FAIR",
