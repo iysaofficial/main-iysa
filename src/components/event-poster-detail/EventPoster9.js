@@ -50,8 +50,8 @@ function EventPoster9() {
                     <p>Save the date yes!👇🏻</p>
                     <br></br>
                     <ul>
-                        <li><strong>Registration Deadline :</strong>   October 1, 2023</li>
-                        <li><strong>Payment Deadline : </strong> October 6, 2023</li>
+                        <li><strong>Registration Deadline :</strong>   October 6, 2023</li>
+                        <li><strong>Payment Deadline : </strong> October 13, 2023</li>
                         <li><strong>Event Date : </strong> November 7-11, 2023</li>
                         <li><strong>Venue : </strong> Universitas Udayana Jimbaran, Bali</li>
                     </ul>
