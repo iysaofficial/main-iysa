@@ -18,11 +18,10 @@
     .company-profile-section .hero-image img{
       width: 250px !important;
       height: auto;
-      margin: 2rem;
+      /* margin: 2rem; */
     }
     .company-profile-section .hero-image .img-fluid {
-        width: 350px !important;
-        height: 250px;
+        width: 100% !important;
         margin: 0.5rem;
     }
   
