@@ -40,16 +40,27 @@ function EventPoster10() {
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
                     <h1 className="fw-bolder">{EventPosterDetail10.title}</h1>
-                    <p>MIYIO 2023</p>
+                    <p>Saudi Global Invention and Innovations Expo 2023</p>
                     <p>EVENT AFILIASI IYSA</p>
                     <br></br>
                     <p>
-                      Buat temen-temen setia IYSA yang belum sempat daftar event
-                      IYSA yaitu @wice.official, IYSA punya juga ni event
-                      afiliasi offline di Malaysia 👏🏻
+                      Halo peneliti belia, IYSA punya event afiliasi baru ni di
+                      Saudi Arabia 💥
+                    </p>
+                    <p>
+                    Event akan berlangsung pada bulan Desember 2023
                     </p>
                     <br></br>
-                    <p>Bisa daftar di link bawah ini ya</p>
+                    <ul>
+                        <li><strong>Registration Deadline:</strong> October 25, 2023</li>
+                        <li><strong>Payment Deadline:</strong> October 30, 2023</li>
+                        <li><strong>Event Date:</strong> December 21-23, 2023</li>
+                        <li><strong>Opening:</strong> December 21, 2023</li>
+                        <li><strong>Judging Session:</strong> December 23, 2023</li>
+                        <li><strong>Awarding:</strong> December 23, 2023</li>
+                    </ul>
+                    <br></br>
+                    <p>Yuk daftar:</p>
                     <br></br>
                     <a
                       className="btn btn-primary mb-4"
@@ -59,14 +70,14 @@ function EventPoster10() {
                       Registration Form
                     </a>
                     <br></br>
-                    <p>
+                    {/* <p>
                       Kalian dapat melihat guide book pada link pendaftaran 📖
                     </p>
                     <br />
                     <p>
                       Yuk, tunggu apalagi bikin tim kamu berprestasi di ajang
                       internasional
-                    </p>
+                    </p> */}
                     <p className="hastag">{EventPosterDetail10.Hastag}</p>
                   </div>
                   <div className="colom-right col-md-4 text-center text-md-start ">
@@ -96,7 +107,7 @@ function EventPoster10() {
                         href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
                           window.location.href
                         )}`}
-                        rel="noreferrer noopener" 
+                        rel="noreferrer noopener"
                         title="Share this page on Facebook"
                         target="_blank"
                       >
@@ -110,7 +121,7 @@ function EventPoster10() {
                         href={`https://twitter.com/share?url=${encodeURIComponent(
                           window.location.href
                         )}`}
-                        rel="noreferrer noopener" 
+                        rel="noreferrer noopener"
                         title="Share this page on Twitter"
                         target="_blank"
                       >
@@ -124,7 +135,7 @@ function EventPoster10() {
                         href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
                           window.location.href
                         )}`}
-                        rel="noreferrer noopener" 
+                        rel="noreferrer noopener"
                         title="Share this page on Linkedin"
                         target="_blank"
                       >
@@ -138,7 +149,7 @@ function EventPoster10() {
                         href={`https://pinterest.com/pin/create/button/?url=${encodeURIComponent(
                           window.location.href
                         )}`}
-                        rel="noreferrer noopener" 
+                        rel="noreferrer noopener"
                         title="Share this page on Pinterest"
                         target="_blank"
                       >

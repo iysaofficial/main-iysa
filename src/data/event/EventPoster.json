@@ -64,6 +64,15 @@
       "link": "/EventPage9"
     },
     {
+      "id": 10,
+      "image": "./assets/images/poster/sgiie.WebP",
+      "title": "Saudi Global Invention and Innovations Expo 2023",
+      "level": "International",
+      "location": "Offline",
+      "date": "21 - 23 December 2023",
+      "link": "/EventPage10"
+    },
+    {
       "id": 12,
       "image": "./assets/images/poster/Olympiad.WebP",
       "title": "IYSA Olympiad 2023",

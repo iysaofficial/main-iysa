@@ -44,7 +44,7 @@
       "RegistEndDate": "18 October 2023",
       "Location": "Turkey",
       "EventType": "Internasional",
-      "EventCategory": "IYSA Affiliation",
+      "EventCategory": "IYSA Event Affiliation",
       "ImageVeneu": "",
       "LinkGmaps": "",
       "NameLocation": ""
@@ -121,15 +121,15 @@
   "event10": [
     {
       "id": 1,
-      "image": "./assets/images/poster/MIYIO.WebP",
-      "title": "MALAYSIA INTENATIONAL YOUNG INVENTORS OLYMPIAD (MIYIO)",
-      "LinkRegist": "https://bit.ly/REGISTRATION-FORM-MIYIO-2023",
-      "Hastag": "#iysaafiliasi #miyio2023 #iysa2023",
-      "DateAdTime": "06 - 08 October 2023",
-      "RegistEndDate": "03 September 2023",
-      "Location": " Malaysia ",
-      "EventType": "Internasional Online Event",
-      "EventCategory": "IYSA Affiliation",
+      "image": "./assets/images/poster/sgiie.WebP",
+      "title": "Saudi Global Invention and Innovations Expo 2023",
+      "LinkRegist": "https://bit.ly/REGISTRATION_SGIE_2023",
+      "Hastag": "#iysaafiliasi #iysa2023",
+      "DateAdTime": "21 - 23 December 2023",
+      "RegistEndDate": "25 October 2023",
+      "Location": "Jedaah Al Salam",
+      "EventType": "Internasional Offline Event",
+      "EventCategory": "IYSA Event Affiliation",
       "ImageVeneu": "",
       "LinkGmaps": "",
       "NameLocation": ""
