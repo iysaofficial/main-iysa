@@ -28,24 +28,6 @@
       "link": "/EventPage4"
     },
     {
-      "id": 5,
-      "image": "./assets/images/poster/IRTC.WebP",
-      "title": "International Research Teacher Competition 3rd",
-      "level": "Internasional",
-      "location": "Bali",
-      "date": "06 - 12 November 2023",
-      "link": "/EventPage5"
-    },
-    {
-      "id": 6,
-      "image": "./assets/images/poster/NRTC.WebP",
-      "title": "National Research Teacher Competition 3rd (NRTC) 2023",
-      "level": "National",
-      "location": "Bali",
-      "date": "06 - 12 November 2023",
-      "link": "/EventPage6"
-    },
-    {
       "id": 8,
       "image": "./assets/images/poster/I3NEW.WebP",
       "title": "International Innovation & Invention New Education Worldwide (I3NEW) 2023",
@@ -53,15 +35,6 @@
       "location": "Online",
       "date": "07 - 18 December 2023",
       "link": "/EventPage8"
-    },
-    {
-      "id": 9,
-      "image": "./assets/images/poster/isif.WebP",
-      "title": "(2023)INTERNATIONAL SCIENCE AND INVENTION FAIR",
-      "level": "International",
-      "location": "Bali",
-      "date": "07 - 11 November 2023",
-      "link": "/EventPage9"
     },
     {
       "id": 10,
