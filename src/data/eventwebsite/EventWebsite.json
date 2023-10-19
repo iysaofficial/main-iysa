@@ -104,9 +104,15 @@
     },
     {
       "Id": "18",
-      "WebsiteName": "IIF-Nasional",
+      "WebsiteName": "IIF-NASIONAL",
       "EventType": "Nasional",
       "link": "https://www.iif-nasional.or.id"
+    },
+    {
+      "Id": "19",
+      "WebsiteName": "IYSA OLYMPIAD",
+      "EventType": "International",
+      "link": "https://iysaolympiad.or.id"
     }
   ]
 }
