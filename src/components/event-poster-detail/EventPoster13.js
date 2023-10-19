@@ -41,27 +41,61 @@ function EventPoster13() {
                   <div className="colom-left col-md-8  mt-2">
                     <h1 className="fw-bolder">{EventPosterDetail13.title}</h1>
                     <br></br>
-                    <p>KOMPETISI LURING NASIONAL 2023</p>
                     <p>
-                      Hai peneliti belia 🙋‍♀️ IYSA punya event nasional yang
-                      diadakan di Bali nih, akan berlangsung pada 7-11 November
-                      2023.
+                      Halo Young Scientist, IYSA punya program baru nih khusus
+                      untuk para mahasiswa dan lokasinya di Suranaree
+                      University, Bangkok bertajuk SUT Global Entrepreneurship
+                      Camp (GEC) 2024, 👏👏
                     </p>
-                    <p></p>
                     <br></br>
+                    <p>
+                      Diselenggarakan oleh Suranaree University of Technology,
+                      Thailand, untuk keempat kalinya, GEC 2024 akan menawarkan
+                      pengalaman menarik bagi siswa, baik budaya maupun
+                      memperkaya kewirausahaan keterampilan.
+                    </p>
                     <br></br>
-                    <p>Daftar disini ya:</p>
+                    <p>
+                      GEC 2024 mengundang mahasiswa dari universitas mitra di
+                      seluruh dunia, bersama-sama untuk menginspirasi orang lain
+                      dalam mengatasi masalah lingkungan dan bertanggung jawab
+                      bersama dalam menciptakan gelombang generasi muda yang
+                      akan menginspirasi para pembuat perubahan dunia.
+                    </p>
+                    <br></br>
+                    <p>
+                      Selama program di SUT Global Entrepreneurship Camp 2024,
+                      para mahasiswa akan mendapat banyak hal lain juga seperti
+                      :
+                    </p>
+                    <br></br>
                     <ul>
                       <li>
-                        <strong>Batas Waktu Pendaftaran:</strong> 01 oktober
+                        1. Eksplorasi: Mengekplorasi negara, kota, budaya, dan
+                        masyarakat Thailand
+                      </li>
+                      <li>
+                        2. Pengalaman: budaya, alam, tantangan keberlanjutan,
+                        membangun multikultural kompetensi kerja sama tim, dan
+                        mempelajari serta mengembangkan solusi inovatif,
+                      </li>
+                      <li>
+                      3. Kewirausahaan: keterampilan dan pola pikir kewirausahaan Anda
+                      </li>
+                    </ul>
+                    <br></br>
+                    <p>Tunggu apalagi? Yuk mendaftar di IYSA untuk mengikuti acara keren ini!</p>
+                    <ul>
+                      <li>
+                        <strong>Batas Waktu Pendaftaran:</strong> 5 November
                         2023
                       </li>
                       <li>
-                        <strong>Batas Waktu Pembayaran: </strong> 06 oktober
+                        <strong>Batas Waktu Pembayaran: </strong> 10 November
                         2023
                       </li>
                       <li>
-                        <strong>Tanggal Acara:</strong> 07 - 11 November 2023
+                        <strong>Tanggal Acara:</strong> 14 - 24 January 2024
                       </li>
                     </ul>
                     <br></br>

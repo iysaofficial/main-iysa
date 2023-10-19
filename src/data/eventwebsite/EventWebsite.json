@@ -3,19 +3,19 @@
     {
       "Id": "1",
       "WebsiteName": "WSEEC",
-      "EventType": "National & International",
+      "EventType": "International",
       "link": "https://wsec.or.id"
     },
     {
       "Id": "2",
       "WebsiteName": "WICE",
-      "EventType": "National & International",
+      "EventType": "International",
       "link": "https://wice.or.id"
     },
     {
       "Id": "3",
       "WebsiteName": "Glocolis",
-      "EventType": "National & International",
+      "EventType": "International",
       "link": "https://www.glocolis.or.id"
     },
     {

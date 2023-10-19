@@ -62,6 +62,15 @@
       "location": "Jakarta",
       "date": " 24 - 25 November 2023",
       "link": "/EventPage11"
+    },
+    {
+      "id": 15,
+      "image": "./assets/images/poster/baru.WebP",
+      "title": "SUT Global Entrepreneurship Camp (GEC) 2024, 👏👏",
+      "level": "International",
+      "location": "Thailand",
+      "date": " 14 - 24 January 2024",
+      "link": "/EventPage13"
     }
   ]
 }

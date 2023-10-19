@@ -172,18 +172,18 @@
   "event13": [
     {
       "id": 1,
-      "image": "./assets/images/poster/IIFNasional.WebP",
-      "title": "IIF-Nasional 2023",
-      "LinkRegist": "https://bit.ly/PENDAFTARAN-IIF-2023",
+      "image": "./assets/images/poster/baru.WebP",
+      "title": "SUT Global Entrepreneurship Camp (GEC) 2024, 👏👏",
+      "LinkRegist": "https://bit.ly/Registration_SUT_Global_Entrepreneurship_Camp_2024",
       "Hastag": "",
-      "DateAdTime": "07 - 11 November 2023",
-      "RegistEndDate": "1 oktober 2023",
-      "Location": " Bali ",
-      "EventType": "National Offline Event",
-      "EventCategory": "IYSA Event",
-      "ImageVeneu": "./assets/images/venue/Udayana.WebP",
-      "LinkGmaps": "https://goo.gl/maps/4T9WCTGPe3hHW2AM6",
-      "NameLocation": "Universitas Udayana"
+      "DateAdTime": "14 - 24 January 2024",
+      "RegistEndDate": "5 November 2023",
+      "Location": "Thailand",
+      "EventType": "International Offline Event",
+      "EventCategory": "IYSA Event Affiliation",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
     }
   ]
 }
