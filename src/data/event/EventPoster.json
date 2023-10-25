@@ -19,15 +19,6 @@
       "link": "/EventPage2"
     },
     {
-      "id": 4,
-      "image": "./assets/images/poster/buca.WebP",
-      "title": "BUCA IMSEF (International Music Science Energy Engineering Fair)",
-      "level": "International",
-      "location": "Turkey",
-      "date": "20 - 25 November 2023",
-      "link": "/EventPage4"
-    },
-    {
       "id": 8,
       "image": "./assets/images/poster/I3NEW.WebP",
       "title": "International Innovation & Invention New Education Worldwide (I3NEW) 2023",

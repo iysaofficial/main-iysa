@@ -28,7 +28,7 @@ const ContactComp = () => {
                         <input type="Email" name="Email" placeholder="Email" className="contact-form-txt " required autoComplete="off"/>
                         <input type="text" name="Phone" placeholder="Phone" className="contact-form-txt" required autoComplete="off"/>
                         <textarea  name="Message" placeholder="Message" className="contact-form-txtarea" required autoComplete="off"></textarea>
-                        <input type="submit" name="Submit" value="contact" className="contact-form-btn"/>
+                        <input type="submit" name="Submit" value="Send" className="contact-form-btn"/>
                     </form>
                 </div>
             </div>
