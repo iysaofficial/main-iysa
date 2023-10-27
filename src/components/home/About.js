@@ -10,7 +10,7 @@ const About = () => {
               Indonesian Young Scientist Association (IYSA) is an institution
               engaged in developing Indonesian students potential, talents, and
               creativity by providing them opportunities to participate in
-              scientific and non competitive competitions also activities in
+              scientific and non competitions also activities in
               Indonesia and abroad.
             </p>
             <p>
