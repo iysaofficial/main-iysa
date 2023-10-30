@@ -103,7 +103,7 @@ const CompanyProfileComp = () => {
             <p>
               IYSA CSR, IYSA Excursion, IYSA Research Portal, IYSA Goes To
               School, IYSA Newsletter, IYSA Edutainment Webinar Nasional &
-              Internasional Campus Corner Online Research Course
+              Internasional, Campus Corner, Online Research Course
             </p>
           </div>
           <div className="col-md-6 hero-content mt-5 mb-auto">
