@@ -1,15 +1,6 @@
 {
   "event": [
     {
-      "id": 8,
-      "image": "./assets/images/poster/I3NEW.WebP",
-      "title": "International Innovation & Invention New Education Worldwide (I3NEW) 2023",
-      "level": "International",
-      "location": "Online",
-      "date": "07 - 18 December 2023",
-      "link": "/EventPage8"
-    },
-    {
       "id": 10,
       "image": "./assets/images/poster/sgiie.WebP",
       "title": "Saudi Global Invention and Innovations Expo 2023",
@@ -17,6 +8,15 @@
       "location": "Offline",
       "date": "21 - 23 December 2023",
       "link": "/EventPage10"
+    },
+    {
+      "id": 9,
+      "image": "./assets/images/poster/gyiif.WebP",
+      "title": "Global Youth Invention and Innovation Fair 2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "11 - 14 January 2024",
+      "link": "/EventPage1"
     },
     {
       "id": 12,

@@ -2,17 +2,17 @@
   "event1": [
     {
       "id": 1,
-      "image": "./assets/images/poster/i2aspo.WebP",
-      "title": "(I2ASPO) 2023 Indonesia International Applied Science Project Olympiad",
-      "LinkRegist": " https://bit.ly/REGISTRATION-FORM-I2ASPO-2023",
-      "Hastag": "#i2aspo2023 #naspoi2aspo #iysa2023 #eventiysa2023 #iysaevent #surabaya #infolomba #sains2023 #i2aspo",
-      "DateAdTime": "19 - 22 Desember 2023",
-      "RegistEndDate": "10 November 2023",
-      "Location": "Surabaya",
+      "image": "./assets/images/poster/gyiif.WebP",
+      "title": "Global Youth Invention and Innovation Fair 2024",
+      "LinkRegist": "https://bit.ly/GYIIF-2024",
+      "Hastag": "#iysaevent #iysanewevent #bogor #gyiif2024 #event2024 #penelitibelia #youngscientist #iysa #onlineevent #offlineevent",
+      "DateAdTime": "11 - 14 January 2024",
+      "RegistEndDate": "15 December 2023",
+      "Location": "Bogor",
       "EventType": "Internasional",
       "EventCategory": "IYSA Event",
-      "ImageVeneu": "./assets/images/venue/AktuariaSurabaya.Webp",
-      "LinkGmaps": "https://goo.gl/maps/4dcBXqygvJBNDUFX7",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
       "NameLocation": "Departemen Aktuaria FSAD ITS"
     }
   ],
