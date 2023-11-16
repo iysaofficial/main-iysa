@@ -11,7 +11,7 @@
       "Location": "Bogor",
       "EventType": "Internasional",
       "EventCategory": "IYSA Event",
-      "ImageVeneu": "./assets/images/venue/ipb.Webp",
+      "ImageVeneu": "./assets/images/venue/ipb.WebP",
       "LinkGmaps": "https://maps.app.goo.gl/PjsUNG5Y5yBnkaVa7",
       "NameLocation": "Institut Pertanian Bogor, IPB Campus Dramaga"
     }
@@ -62,7 +62,7 @@
       "Location": "Bogor",
       "EventType": "Internasional",
       "EventCategory": "IYSA Event",
-      "ImageVeneu": "./assets/images/venue/ipb.Webp",
+      "ImageVeneu": "./assets/images/venue/ipb.WebP",
       "LinkGmaps": "https://maps.app.goo.gl/PjsUNG5Y5yBnkaVa7",
       "NameLocation": "Institut Pertanian Bogor, IPB Campus Dramaga"
     }
