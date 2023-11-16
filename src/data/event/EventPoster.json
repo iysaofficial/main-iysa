@@ -1,6 +1,15 @@
 {
   "event": [
     {
+      "id": 9,
+      "image": "./assets/images/poster/gyiif.WebP",
+      "title": "Global Youth Invention and Innovation Fair (GYIIF) 2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "11 - 14 January 2024",
+      "link": "/EventPage1"
+    },
+    {
       "id": 10,
       "image": "./assets/images/poster/sgiie.WebP",
       "title": "Saudi Global Invention and Innovations Expo 2023",
@@ -10,13 +19,13 @@
       "link": "/EventPage10"
     },
     {
-      "id": 9,
-      "image": "./assets/images/poster/gyiif.WebP",
-      "title": "Global Youth Invention and Innovation Fair 2024",
+      "id": 11,
+      "image": "./assets/images/poster/iymia.WebP",
+      "title": "International Young Moslem Inventor Award (IYMIA) 2024",
       "level": "International",
       "location": "Offline",
       "date": "11 - 14 January 2024",
-      "link": "/EventPage1"
+      "link": "/EventPage5"
     },
     {
       "id": 12,

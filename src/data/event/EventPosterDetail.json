@@ -3,7 +3,7 @@
     {
       "id": 1,
       "image": "./assets/images/poster/gyiif.WebP",
-      "title": "Global Youth Invention and Innovation Fair 2024",
+      "title": "Global Youth Invention and Innovation Fair (GYIIF) 2024",
       "LinkRegist": "https://bit.ly/GYIIF-2024",
       "Hastag": "#iysaevent #iysanewevent #bogor #gyiif2024 #event2024 #penelitibelia #youngscientist #iysa #onlineevent #offlineevent",
       "DateAdTime": "11 - 14 January 2024",
@@ -19,7 +19,7 @@
   "event2": [
     {
       "id": 1,
-      "image": "./assets/images/poster/naspo.WebP",
+      "image": "./assets/images/poster/iymia.WebP",
       "title": "(NASPO) 2023 National Applied Science Project Olympiad",
       "LinkRegist": "https://bit.ly/PENDAFTARAN-NASPO-2023",
       "Hastag": "#naspo2023 #naspoi2aspo #iysa2023 #eventiysa2023 #iysaevent #surabaya #infolomba #sains2023 #naspo",
@@ -53,18 +53,18 @@
   "event5": [
     {
       "id": 1,
-      "image": "./assets/images/poster/IRTC.WebP",
-      "title": "International Research Teacher Competition 3rd",
-      "LinkRegist": "https://bit.ly/REGISTRATION-IRTC-2023",
-      "Hastag": "#iysaevent2023 #irtc #nrtc #iysa2023 #irtcnrtc2023 #infolomba #onlineoffline2023 #infolomba2023 #penelitibelia #bali2023",
-      "DateAdTime": " 07 - 11 November 2023",
-      "RegistEndDate": "01 October 2023",
-      "Location": "Bali",
+      "image": "./assets/images/poster/iymia.WebP",
+      "title": "International Young Moslem Inventor Award (IYMIA) 2024",
+      "LinkRegist": "https://bit.ly/IYMIA-2024",
+      "Hastag": "#iysaevent #iysanewevent #bogor #iymia2024 #event2024 #penelitibelia #youngscientist #iysa #onlineevent #offlineevent",
+      "DateAdTime": " 11 - 14 January 2024",
+      "RegistEndDate": "15 December 2023",
+      "Location": "Bogor",
       "EventType": "Internasional",
       "EventCategory": "IYSA Event",
-      "ImageVeneu": "./assets/images/venue/Udayana.WebP",
-      "LinkGmaps": "https://goo.gl/maps/4T9WCTGPe3hHW2AM6",
-      "NameLocation": "Universitas Udayana"
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
     }
   ],
   "event6": [

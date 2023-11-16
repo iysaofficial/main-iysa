@@ -41,32 +41,24 @@ function EventPoster5() {
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
                     <h1 className="fw-bolder">{EventPosterDetail5.title}</h1>
-                    <p>IRTC 2023‼️</p>
-                    <p>Hybrid Competition</p>
+                    <p>Opening Event in 2024</p>
+                    <p>2nd IYMIA🥳</p>
+                    <p>International Young Moslem Inventor Award (IYMIA)</p>
                     <br></br>
-                    <p>INTERNATIONAL RESEARCH</p>
-                    <p>TEACHER COMPETITION 👏🏻</p>
+                    <p>IYSA will hold 2nd IYMIA in collaboration with the Department of Food Science and Technology, Institut Pertanian Bogor.</p>
+                    <p>This event will take place in January 2024, conducted online and offline at the Institut Pertanian Bogor 👏🏻👏🏻</p>
                     <p>-------------------------------------</p>
-                    <p>For teachers and lecturers from all around the world. We believe everyone have potential, new ideas</p>
-                    <p>and innovation no matter who we are.</p>
-                    <br></br>
-                    <p>The Indonesian Young Scientist Association (IYSA) in collaboration with Udayana University Bali</p>
-                    <p>would like to invite you to join us at this event.</p>
-                    <br></br>
-                    <p>IRTC will be hold online and offline competition in Bali, Indonesia 👏🏻👏🏻</p>
-                    <p>So wait no more, register now! 🥳🥳</p>
+                    <p>Save the date ‼️</p>
                     <br></br>
                     <ul>
-                        <li><strong>Registration Deadline:</strong>  October 1, 2023</li>
-                        <li><strong>Payment Deadline:</strong> October 6, 2023</li>
-                        <li><strong>Event Date:</strong> November 7 - 11, 2023</li>
+                        <li><strong>📍 Registration Deadline:</strong>  December 15, 2023</li>
+                        <li><strong>📍 Payment Deadline:</strong> December 22, 2023</li>
+                        <li><strong>📍 Event Date:</strong> January 11-14, 2024</li>
                     </ul>
                     <br></br>
-                    <p>Teachers, this is your chance to showcase your ideas, innovations, projects to the world.</p>
+                    <p>Get the guide book in registration link‼️</p>
                     <br></br>
-                    <p>By joining IRTC, you can also meet<br></br>
-                      other teachers from abroad<br></br>
-                      Prepare your project and register through:</p>
+                    <p>See you in Bogor, Indonesia 🙋‍♀️🙋‍♂️</p>
                     <br></br>
                     <a
                       className="btn btn-primary mb-4"
