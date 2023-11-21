@@ -1,6 +1,15 @@
 {
   "event": [
     {
+      "id": 1,
+      "image": "./assets/images/poster/my.WebP",
+      "title": "MY-MIEWC 2023, MALAYSIA 🎉",
+      "level": "International",
+      "location": "Online",
+      "date": "31 January 2024",
+      "link": "/EventPage1"
+    },
+    {
       "id": 9,
       "image": "./assets/images/poster/gyiif.WebP",
       "title": "Global Youth Invention and Innovation Fair (GYIIF) 2024",

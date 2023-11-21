@@ -39,41 +39,41 @@ function EventPoster1() {
                     <h1 className="fw-bolder">
                       {EventPosterDetail1.title}
                     </h1>
-                    <p>Opening Event in 2024</p>
-                    <p>2nd GYIIF🥳</p>
-                    <p>Global Youth Invention and Innovation Fair</p>
+                    <p>IYSA affiliate event from Malaysia</p>
+                    <p>ONLINE COMPETITION</p>
+                    <p>MY-MIEWC 2023, MALAYSIA 🎉</p>
 
                     <p>
                       IYSA will hold 2nd GYIIF in collaboration with
                       the Department of Food Science and Technology,
                       Institut Pertanian Bogor.
                     </p>
-                    <p>
-                      This event will take place in January 2024,
-                      conducted online and offline at the Institut
-                      Pertanian Bogor 👏🏻
+                    {/* <p>
+                      MYSO International Essay Writing Competition
+                      2023 in collaboration with SM Sains Seri Puteri,
+                      Kuala Lumpur, Malaysia
                     </p>
                     <p>Get the guide book in registration link‼️</p>
                     <p>See you in Bogor, Indonesia 🙋‍♀️🙋‍♂️</p>
-                    <br></br>
+                    <br></br> */}
 
                     <p>Save the date ‼️</p>
                     <ul>
                       <li>
                         <strong>📍 Registration Deadline:</strong>{' '}
-                        December 15, 2023
+                        December 19th, 2023
                       </li>
                       <li>
-                        <strong>📍 Payment Deadline:</strong> December
-                        22, 2023
+                        <strong>📍 Payment Deadline:</strong> December 23th, 2023
                       </li>
                       <li>
                         <strong>📍 Event Date:</strong> Event Date :
-                        January 11-14, 2024
+                        January 31, 2024
                       </li>
-                      <li>
-                        <strong>Place:</strong> Institut Pertanian Bogor, IPB Campus Dramaga
-                      </li>
+                      {/* <li>
+                        <strong>Place:</strong> Institut Pertanian
+                        Bogor, IPB Campus Dramaga
+                      </li> */}
                     </ul>
                     {/* <p className="mt-5">{EventPosterDetail1.paragraf5}</p> */}
                     <a
