@@ -43,19 +43,19 @@ function EventPoster1() {
                     <p>ONLINE COMPETITION</p>
                     <p>MY-MIEWC 2023, MALAYSIA 🎉</p>
 
-                    <p>
+                    {/* <p>
                       IYSA will hold 2nd GYIIF in collaboration with
                       the Department of Food Science and Technology,
                       Institut Pertanian Bogor.
-                    </p>
-                    {/* <p>
+                    </p> */}
+                    <p>
                       MYSO International Essay Writing Competition
                       2023 in collaboration with SM Sains Seri Puteri,
                       Kuala Lumpur, Malaysia
                     </p>
-                    <p>Get the guide book in registration link‼️</p>
-                    <p>See you in Bogor, Indonesia 🙋‍♀️🙋‍♂️</p>
-                    <br></br> */}
+                    {/* <p>Get the guide book in registration link‼️</p>
+                    <p>See you in Bogor, Indonesia 🙋‍♀️🙋‍♂️</p> */}
+                    <br></br>
 
                     <p>Save the date ‼️</p>
                     <ul>
