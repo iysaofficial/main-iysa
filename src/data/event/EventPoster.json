@@ -10,15 +10,6 @@
       "link": "/EventPage1"
     },
     {
-      "id": 10,
-      "image": "./assets/images/poster/sgiie.WebP",
-      "title": "Saudi Global Invention and Innovations Expo 2023",
-      "level": "International",
-      "location": "Offline",
-      "date": "21 - 23 December 2023",
-      "link": "/EventPage10"
-    },
-    {
       "id": 11,
       "image": "./assets/images/poster/iymia.WebP",
       "title": "International Young Moslem Inventor Award (IYMIA) 2024",
@@ -35,15 +26,6 @@
       "location": "Online",
       "date": "13 - 22 December 2023",
       "link": "/EventPage12"
-    },
-    {
-      "id": 15,
-      "image": "./assets/images/poster/baru.WebP",
-      "title": "SUT Global Entrepreneurship Camp (GEC) 2024, 👏👏",
-      "level": "International",
-      "location": "Thailand",
-      "date": " 14 - 24 January 2024",
-      "link": "/EventPage13"
     }
   ]
 }
