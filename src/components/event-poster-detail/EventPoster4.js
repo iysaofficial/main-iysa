@@ -88,7 +88,7 @@ function EventPoster4() {
                       Registration Form
                     </a>
                     <br></br>
-                    <p>Sampai jumpa di Turki</p>
+                    <p>Sampai jumpa di Malaysia</p>
                     <br />
                     <p className="hastag">
                       {EventPosterDetail4.Hastag}
