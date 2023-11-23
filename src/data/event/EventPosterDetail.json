@@ -19,18 +19,35 @@
   "event2": [
     {
       "id": 1,
-      "image": "./assets/images/poster/iymia.WebP",
-      "title": "(NASPO) 2023 National Applied Science Project Olympiad",
-      "LinkRegist": "https://bit.ly/PENDAFTARAN-NASPO-2023",
-      "Hastag": "#naspo2023 #naspoi2aspo #iysa2023 #eventiysa2023 #iysaevent #surabaya #infolomba #sains2023 #naspo",
-      "DateAdTime": "19 - 22 Desember 2023",
-      "RegistEndDate": "10 November 2023",
-      "Location": "Surabaya",
-      "EventType": "National",
+      "image": "./assets/images/poster/gyiif.WebP",
+      "title": "Global Youth Invention and Innovation Fai (GYIIF) 2024",
+      "LinkRegist": "https://bit.ly/GYIIF-2024",
+      "Hastag": "#iysaevent #iysanewevent #bogor #gyiif2024 #event2024 #penelitibelia #youngscientist #iysa #onlineevent #offlineevent",
+      "DateAdTime": "11 - 14 January 2024",
+      "RegistEndDate": "15 December 2023",
+      "Location": "Bogor",
+      "EventType": "Internasional",
       "EventCategory": "IYSA Event",
-      "ImageVeneu": "./assets/images/venue/AktuariaSurabaya.Webp",
-      "LinkGmaps": "https://goo.gl/maps/4dcBXqygvJBNDUFX7",
-      "NameLocation": "Departemen Aktuaria FSAD ITS"
+      "ImageVeneu": "./assets/images/venue/ipb.WebP",
+      "LinkGmaps": "https://maps.app.goo.gl/PjsUNG5Y5yBnkaVa7",
+      "NameLocation": "Institut Pertanian Bogor, IPB Campus Dramaga"
+    }
+  ],
+  "event3": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/aisef.WebP",
+      "title": "ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL ANDENTREPRENEUR FAIR (AISEEF) 2024",
+      "LinkRegist": "https://bit.ly/REGISTRATION-AISEEF-2024",
+      "Hastag": "#aiseef #iysa2024 #undip #iysaevent #iysa #aiseef 2024",
+      "DateAdTime": "2 - 5 February 2024",
+      "RegistEndDate": "3 January 2024",
+      "Location": "Semarang",
+      "EventType": "Internasional",
+      "EventCategory": "IYSA Event",
+      "ImageVeneu": "",
+      "LinkGmaps": "https://maps.app.goo.gl/jo9k4pmu38C4VVBA6",
+      "NameLocation": "Auditorium Imam Bardjo, Universitas Diponegoro Semarang"
     }
   ],
   "event4": [
@@ -64,7 +81,7 @@
       "EventCategory": "IYSA Event",
       "ImageVeneu": "./assets/images/venue/ipb.WebP",
       "LinkGmaps": "https://maps.app.goo.gl/PjsUNG5Y5yBnkaVa7",
-      "NameLocation": "&nbsp Institut Pertanian Bogor, IPB Campus Dramaga"
+      "NameLocation": "Institut Pertanian Bogor, IPB Campus Dramaga"
     }
   ],
   "event6": [

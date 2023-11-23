@@ -57,7 +57,7 @@ function EventPoster5() {
                     <p>
                       This event will take place in January 2024,
                       conducted online and offline at the Institut
-                      Pertanian Bogor 👏🏻👏🏻
+                      Pertanian Bogor 👏🏻
                     </p>
                     <p>-------------------------------------</p>
                     <p>Save the date ‼️</p>
@@ -81,10 +81,9 @@ function EventPoster5() {
                       </li>
                     </ul>
                     <br></br>
-                    <p>Get the guide book in registration link‼️</p>
-                    <br></br>
-                    <p>See you in Bogor, Indonesia 🙋‍♀️🙋‍♂️</p>
-                    <br></br>
+                    
+                    <p>Register now 👇🏻</p>
+
                     <a
                       className="btn btn-primary mb-4"
                       href={EventPosterDetail5.LinkRegist}
@@ -93,6 +92,9 @@ function EventPoster5() {
                       Registration Form
                     </a>
                     <br />
+                    <p>Get the guide book in registration link‼️</p>
+                    <p>See you in Bogor, Indonesia 🙋‍♀️🙋‍♂️</p>
+                    <br></br>
                     <p className="hastag">
                       {EventPosterDetail5.Hastag}
                     </p>

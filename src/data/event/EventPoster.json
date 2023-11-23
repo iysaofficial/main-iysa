@@ -10,13 +10,22 @@
       "link": "/EventPage1"
     },
     {
+      "id": 2,
+      "image": "./assets/images/poster/aisef.WebP",
+      "title": "ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL AND ENTREPRENEUR FAIR (AISEEF) 2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "2 - 5 February 2024",
+      "link": "/EventPage3"
+    },
+    {
       "id": 9,
       "image": "./assets/images/poster/gyiif.WebP",
       "title": "Global Youth Invention and Innovation Fair (GYIIF) 2024",
       "level": "International",
       "location": "Offline",
       "date": "11 - 14 January 2024",
-      "link": "/EventPage1"
+      "link": "/EventPage2"
     },
     {
       "id": 11,

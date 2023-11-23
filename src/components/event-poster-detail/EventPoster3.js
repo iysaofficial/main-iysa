@@ -2,22 +2,22 @@
 import '../../css/event/eventPoster.css';
 
 // Import FontAwesome
-import React, { useState } from "react";
+import React, { useState } from 'react';
 import {
   faLocationDot,
   faPlus,
   faMinus,
-} from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+} from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faSquareFacebook,
   faSquareTwitter,
   faLinkedin,
   faSquarePinterest,
-} from "@fortawesome/free-brands-svg-icons";
+} from '@fortawesome/free-brands-svg-icons';
 
 // Import Data
-import EventPosterDetail from "../../data/event/EventPosterDetail.json";
+import EventPosterDetail from '../../data/event/EventPosterDetail.json';
 
 function EventPoster3() {
   const [showContent, setShowContent] = useState(false);
@@ -26,7 +26,6 @@ function EventPoster3() {
     setShowContent(!showContent);
   };
   return (
-    
     <section>
       <div id="main-event" className="container">
         <div className="row event-wrapper ">
@@ -40,23 +39,53 @@ function EventPoster3() {
                 <br />
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
-                    <h1 className="fw-bolder">{EventPosterDetail3.title}</h1>
-                    <p>1Idea1World Turkey 2023</p>
+                    <h1 className="fw-bolder">
+                      {EventPosterDetail3.title}
+                    </h1>
+                    <p>‼️5th AISEEF 2024‼️</p>
                     <br></br>
-                    <p>Halo Peneliti Belia</p>
-                    <p>Di bulan November 2023 IYSA punya event afiliasi yang diadakan di Turki loh 😮</p>
+                    <p>
+                      After successfully holding 4th AISEEF 2023, IYSA
+                      collaborates again with the Faculty of
+                      Engineering Diponegoro University will hold :
+                    </p>
+                    <p>
+                      ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL AND
+                      ENTREPRENEUR FAIR 2024 online and offline
+                      competition 🎉🤗
+                    </p>
                     <br></br>
-                    <p>1Idea1World 2023 akan dilaksanakan secara online dan offline yang bertempat di Istanbul Turki.</p>
-                    <p>Yuk daftar sekarang juga, karena batas pendaftaran hanya sampai 1 September 2023.</p>
-                    <br></br>
-                    <p>catat tanggalnya ya!</p>
+                    {/* <p>
+                      1Idea1World 2023 akan dilaksanakan secara online
+                      dan offline yang bertempat di Istanbul Turki.
+                    </p>
+                    <p>
+                      Yuk daftar sekarang juga, karena batas
+                      pendaftaran hanya sampai 1 September 2023.
+                    </p>
+                    <br></br> */}
+                    <p>Let's join us and enjoy the crowd on:</p>
                     <ul>
-                        <li><strong>Registration Deadline:</strong> Agustus 20, 2023</li>
-                        <li><strong>Payment Deadline:</strong> Agustus 20, 2023</li>
-                        <li><strong>Event Date:</strong>  November 23, 2023</li>
-                        <li><strong>Place:</strong> Istanbul,Turkey</li>
+                      <li>
+                        <strong>📍 Registration Deadline:</strong> January 3, 2024
+                      </li>
+                      <li>
+                        <strong>📍 Payment Deadline:</strong> January 12, 2024
+                      </li>
+                      <li>
+                        <strong>📍 Submission Deadline:</strong> January 12, 2024
+                      </li>
+                      <li>
+                        <strong>📍 Event Date:</strong> February 2-5, 2024
+                      </li>
+                      <li>
+                        <strong>Place:</strong> Auditorium Imam Bardjo, Universitas Diponegoro Semarang
+                      </li>
                     </ul>
                     {/* <p className="mt-5">{EventPosterDetail3.paragraf5}</p> */}
+                    
+                    <p>Register now 👇🏻</p>
+
                     <a
                       className="btn btn-primary mb-4"
                       href={EventPosterDetail3.LinkRegist}
@@ -65,7 +94,9 @@ function EventPoster3() {
                       Registration Form
                     </a>
                     <br />
-                    <p className="hastag">{EventPosterDetail3.Hastag}</p>
+                    <p className="hastag">
+                      {EventPosterDetail3.Hastag}
+                    </p>
                   </div>
                   <div className="colom-right col-md-4 text-center text-md-start ">
                     <a className="btn btn-primary shadow mt-2">
@@ -76,7 +107,9 @@ function EventPoster3() {
                     <h4 className="fw-bolder">Date and Time</h4>
                     <p>{EventPosterDetail3.DateAdTime}</p>
                     <br />
-                    <h4 className="fw-bolder">Registration End Date</h4>
+                    <h4 className="fw-bolder">
+                      Registration End Date
+                    </h4>
                     <p>{EventPosterDetail3.RegistEndDate}</p>
                     <br />
                     <h4 className="fw-bolder">Location</h4>
@@ -89,7 +122,9 @@ function EventPoster3() {
                     <p>{EventPosterDetail3.EventCategory}</p>
                     <br />
                     <div className="event-share">
-                      <h4 className="fw-bolder">Share With Friends</h4>
+                      <h4 className="fw-bolder">
+                        Share With Friends
+                      </h4>
                       <a
                         href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
                           window.location.href
@@ -99,7 +134,7 @@ function EventPoster3() {
                       >
                         <FontAwesomeIcon
                           icon={faSquareFacebook}
-                          style={{ color: "#1b56bb" }}
+                          style={{ color: '#1b56bb' }}
                           className="event-share-logo"
                         />
                       </a>
@@ -112,7 +147,7 @@ function EventPoster3() {
                       >
                         <FontAwesomeIcon
                           icon={faSquareTwitter}
-                          style={{ color: "#0b8ee0" }}
+                          style={{ color: '#0b8ee0' }}
                           className="event-share-logo"
                         />
                       </a>
@@ -125,7 +160,7 @@ function EventPoster3() {
                       >
                         <FontAwesomeIcon
                           icon={faLinkedin}
-                          style={{ color: "#16b7df" }}
+                          style={{ color: '#16b7df' }}
                           className="event-share-logo"
                         />
                       </a>
@@ -138,7 +173,7 @@ function EventPoster3() {
                       >
                         <FontAwesomeIcon
                           icon={faSquarePinterest}
-                          style={{ color: "#d30909" }}
+                          style={{ color: '#d30909' }}
                           className="event-share-logo"
                         />
                       </a>
@@ -151,14 +186,16 @@ function EventPoster3() {
                     >
                       <FontAwesomeIcon
                         icon={showContent ? faMinus : faPlus}
-                        style={{ color: "#1164e8" }}
+                        style={{ color: '#1164e8' }}
                       />
                       <span className="ms-2">Venue</span>
                     </h1>
                     {showContent && (
                       <div className="row event-venue">
                         <div className="event-venue-left col-3">
-                          <img src={EventPosterDetail3.ImageVeneu}></img>
+                          <img
+                            src={EventPosterDetail3.ImageVeneu}
+                          ></img>
                         </div>
                         <div className="event-venue-right col-8 mt-auto mb-auto">
                           <a
@@ -168,7 +205,7 @@ function EventPoster3() {
                           >
                             <FontAwesomeIcon
                               icon={faLocationDot}
-                              style={{ color: "#1164e8" }}
+                              style={{ color: '#1164e8' }}
                             />
                             {EventPosterDetail3.NameLocation}
                           </a>
