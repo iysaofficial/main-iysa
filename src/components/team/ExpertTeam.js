@@ -44,9 +44,9 @@ const ExpertTeam = () => {
                     <div className="col">
                         <img src="./assets/images/team/6.png" className="gallery-item" alt="gallery" />
                     </div>
-                    <div className="col">
+                    {/* <div className="col">
                         <img src="./assets/images/team/7.png" className="gallery-item" alt="gallery" />
-                    </div>
+                    </div> */}
                     <div className="col">
                         <img src="./assets/images/team/8.png" className="gallery-item" alt="gallery" />
                     </div>
