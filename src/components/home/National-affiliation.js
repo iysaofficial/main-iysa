@@ -20,7 +20,6 @@ const NationalAffiliation = () => {
             <img src="./assets/images/logo/National Affiliation/UD.WebP" alt="" />
             <img src="./assets/images/logo/National Affiliation/UINN.WebP" alt="" />
             <img src="./assets/images/logo/National Affiliation/UINUJ.WebP" alt="" />
-            <img src="./assets/images/logo/National Affiliation/its.WebP" alt="" />
             <img src="./assets/images/logo/National Affiliation/i3l.WebP" alt="" />
             <img src="./assets/images/logo/National Affiliation/UMK.WebP" alt="" />
             <img src="./assets/images/logo/National Affiliation/UNY.WebP" alt="" />
