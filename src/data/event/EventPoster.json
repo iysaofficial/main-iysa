@@ -46,6 +46,15 @@
       "link": "/EventPage7"
     },
     {
+      "id": 8,
+      "image": "./assets/images/poster/iiiex.WebP",
+      "title": "Indonesia International Invention Expo (IIIEX)   2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "April 29 - May 2, 2024",
+      "link": "/EventPage8"
+    },
+    {
       "id": 9,
       "image": "./assets/images/poster/gyiif.WebP",
       "title": "Global Youth Invention and Innovation Fair (GYIIF) 2024",

@@ -41,21 +41,29 @@ function EventPoster8() {
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
                     <h1 className="fw-bolder">{EventPosterDetail8.title}</h1>
-                    <p>I3NEW 2023</p>
-                    <p>Online Competition</p>
+                    <p>IIIEX 2024🎉</p>
+                    <p>INDONESIA INTERNATIONAL INVENTION EXPO in a hybrid competition.</p>
                     <br></br>
-                    <p>Halo peneliti belia 🤗</p>
+                    <p>2024 is the 3rd year that IIIEX has been held, this year IYSA is still collaborating with Politeknik Negeri Semarang, Indonesia.</p>
                     <br></br>          
-                    <p>Ada event online afiliasi IYSA nih di Romania, International Innovation & Invention New Education Worldwide 
+                    {/* <p>Ada event online afiliasi IYSA nih di Romania, International Innovation & Invention New Education Worldwide 
                       <br></br></p>
-                    <br></br>
-                    <p>Daftar disini 👇🏻</p>
+                    <br></br> */}
+                    <p>Register Now!!</p>
                     <br></br>
                     <ul>
-                        <li><strong>Registration Deadline :</strong>  November 20, 2023</li>
-                        <li><strong>Payment Deadline : </strong> November 20, 2023</li>
-                        <li><strong>Event Date : </strong> December 7 - 18, 2023</li>
+                        <li><strong>Registration Deadline :</strong>  March 22, 2024</li>
+                        <li><strong>Payment Deadline : </strong> March 29, 2024</li>
+                        <li><strong>Event Date : </strong> April 29-May 2, 2024</li>
                     </ul>
+                    <br></br>
+                    <p>
+                      📱Register via:
+                      <a href="https://iiiex.or.id/" target="_blank">
+                        iiiex.or.id
+                      </a>
+                    </p>
+                    <br></br>
                     
                     {/* <br></br>
                     <p>So for all of you international and national students, especially students on the nearest Java island,<br></br> let’s register your team to take part in this offline event, 😉</p>
