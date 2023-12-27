@@ -41,31 +41,37 @@ function EventPoster11() {
                   <div className="colom-left col-md-8  mt-2">
                     <h1 className="fw-bolder">{EventPosterDetail11.title}</h1>
                     {/* <p>Hi Young Researcher</p> */}
-                    <p>IYSA New Event 🔥</p>
+                    <p>3rd Indonesia International IoT Olympiad (I3O) 2024 🥳🥳</p>
                     <p>
-                    Lomba Invensi dan PTK
+                    Indonesian Young Scientist Association in collaboration with Sekolah Vokasi Universitas Diponegoro, Semarang 👏🏻👏🏻
                     </p>
-                    <p>
-                    Khusus Member Komunitas IYSA Research Teacher.
-                    </p>
+
                     <br></br>
-                    <p>JADWAL WAKTU TENTATIF LOMBA INVENSI DAN PTK</p>
+                    <p>
+                    Save the date
+                    </p>
                     <ul>
                       <li>
-                        <strong>📌 Batas Pendaftaran:</strong> 10 Oktober 2023
+                        <strong>📌 Registration Deadline : </strong> May 19th, 2024
                       </li>
                       <li>
-                        <strong>📌 Batas Pengumpulan Full Paper / PTK:</strong>  20 Oktober 2023
+                        <strong>📌 Payment & Submission Deadline : </strong>  May 24th, 2024
                       </li>
                       <li>
-                        <strong>📌 Pengumuman finalis:</strong>  3 November 2023
-                      </li>
-                      <li>
-                        <strong>📌 Penilaian langsung dan pengumuman pemenang:</strong> 24-25 November 2023
-
+                        <strong>📌 Event Date : </strong> June 25 - 28, 2024
                       </li>
                     </ul>
                     <br></br>
+                    <p>So wait no more, make sure you and your team to join this event!!</p>
+                    <br></br>
+                    <p>See you in Central Java 🤗🥳</p>
+                    <br></br>
+                    <p>
+                      📱Register via:
+                      <a href="https://i3o.or.id/" target="_blank" >
+                        i3o.or.id
+                      </a>
+                    </p>
                     <a
                       className="btn btn-primary mb-4"
                       href={EventPosterDetail11.LinkRegist}
@@ -75,10 +81,7 @@ function EventPoster11() {
                       Registration Form
                     </a>
                     <br></br>
-                    <p>
-                      Let's register! You can check the Guidebook on the
-                      registration link
-                    </p>
+                    <p>Get the Guidebook on the Official I3O Website ‼️</p>
                     <br />
                     <p className="hastag">{EventPosterDetail11.Hastag}</p>
                   </div>

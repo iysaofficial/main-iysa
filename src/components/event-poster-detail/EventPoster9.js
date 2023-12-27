@@ -41,19 +41,18 @@ function EventPoster9() {
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
                     <h1 className="fw-bolder">{EventPosterDetail9.title}</h1>
-                    <p>5th ISIF 2023</p>
-                    <p>✨INTERNATIONAL SCIENCE AND INVENTION FAIR✨</p>
+                    <p>WSEEC 2024🔥</p>
+                    <p>Hello, hi young scientists🙋‍♀️🙋‍♂️</p>
                     <br></br>
-                    <p>Come and visit Bali with IYSA, let’s join this event on November 2023 guys 🔥<br></br>
-                    Indonesian Young Scientists Association (IYSA) in collaboration with Udayana University Bali, will<br></br> hold the biggest IYSA event in bali.</p>
+                    <p>In May 2024 IYSA is holding an international hybrid event which will be held in Jakarta, Indonesia. In collaboration with Pancasila University, the Faculty of Pharmacy and Institut Pertanian Bogor (IPB). This event will take place on May 13-17, 2024 at Pancasila University..</p>
                     <br></br>          
-                    <p>Save the date yes!👇🏻</p>
+                    <p>Save this information and share it with your friends!!and don't forget to register👇</p>
                     <br></br>
                     <ul>
-                        <li><strong>Registration Deadline :</strong>   October 6, 2023</li>
-                        <li><strong>Payment Deadline : </strong> October 13, 2023</li>
-                        <li><strong>Event Date : </strong> November 7-11, 2023</li>
-                        <li><strong>Venue : </strong> Universitas Udayana Jimbaran, Bali</li>
+                        <li><strong>📍Registration Deadline :</strong> April 12, 2024</li>
+                        <li><strong>📍Payment Deadline : </strong> April 17, 2024</li>
+                        <li><strong>📍Event Date : </strong> May 13-17,2024</li>
+                        <li><strong>📍Venue : </strong> Universitas Pancasila, Jakarta</li>
                     </ul>
                     <br></br>
                     <p>Join Us!</p>
@@ -68,9 +67,8 @@ function EventPoster9() {
                       Registration Form
                     </a>
                     <br></br>
-                    <p>‼️Get the Guide Book in link registration‼️</p>
+                    <p>Get the Guidebook on the Official YISF Website ‼️</p>
                     <br></br>
-                    <p>See you in Bali, Indonesia👋🏻</p>
                     <br />
                     <p className="hastag">{EventPosterDetail9.Hastag}</p>
                   </div>

@@ -1,23 +1,23 @@
 // Import CSS
-import "../../css/event/eventPoster.css";
+import '../../css/event/eventPoster.css';
 
 // Import FontAwesome
-import React, { useState } from "react";
+import React, { useState } from 'react';
 import {
   faLocationDot,
   faPlus,
   faMinus,
-} from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+} from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faSquareFacebook,
   faSquareTwitter,
   faLinkedin,
   faSquarePinterest,
-} from "@fortawesome/free-brands-svg-icons";
+} from '@fortawesome/free-brands-svg-icons';
 
 // Import Data
-import EventPosterDetail from "../../data/event/EventPosterDetail.json";
+import EventPosterDetail from '../../data/event/EventPosterDetail.json';
 
 function EventPoster10() {
   const [showContent, setShowContent] = useState(false);
@@ -39,28 +39,52 @@ function EventPoster10() {
                 <br />
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
-                    <h1 className="fw-bolder">{EventPosterDetail10.title}</h1>
-                    <p>Saudi Global Invention and Innovations Expo 2023</p>
-                    <p>EVENT AFILIASI IYSA</p>
+                    <h1 className="fw-bolder">
+                      {EventPosterDetail10.title}
+                    </h1>
+                    <p>🌐IYBC 2024🌐</p>
+                    <p>HYBRID COMPETITION</p>
                     <br></br>
                     <p>
-                      Halo peneliti belia, IYSA punya event afiliasi baru ni di
-                      Saudi Arabia 💥
+                      Indonesian Young Scientist Association in
+                      collaboration with Sekolah Vokasi Universitas
+                      Diponegoro, Semarang🎉
                     </p>
                     <p>
-                    Event akan berlangsung pada bulan Desember 2023
+                      Will hold an International event focussing on
+                      the Business Category namely the International
+                      Youth Business Competition (IYBC) 2024, which
+                      will be held together with I3O 2024 👏🏻👏🏻
                     </p>
+                    <br></br>
+                    <p>Save the date! 👇🏻</p>
                     <br></br>
                     <ul>
-                        <li><strong>Registration Deadline:</strong> October 25, 2023</li>
-                        <li><strong>Payment Deadline:</strong> October 30, 2023</li>
-                        <li><strong>Event Date:</strong> December 21-23, 2023</li>
-                        <li><strong>Opening:</strong> December 21, 2023</li>
-                        <li><strong>Judging Session:</strong> December 23, 2023</li>
-                        <li><strong>Awarding:</strong> December 23, 2023</li>
+                      <li>
+                        <strong>📍Registration Deadline : </strong> May
+                        19th, 2024
+                      </li>
+                      <li>
+                        <strong>
+                          📍Payment & Submission Deadline : </strong> May 24th, 2024
+                      </li>
+                      <li>
+                        <strong>📍Event Date :</strong> June 25 - 28,
+                        2024
+                      </li>
                     </ul>
                     <br></br>
-                    <p>Yuk daftar:</p>
+                    <p>
+                      So wait no more, Make sure you and your team
+                      join this event!
+                    </p>
+                    <br></br>
+                    <p>
+                      📱Register via:
+                      <a href="https://iybc.or.id/" target="_blank" >
+                        iybc.or.id
+                      </a>
+                    </p>
                     <br></br>
                     <a
                       className="btn btn-primary mb-4"
@@ -70,6 +94,7 @@ function EventPoster10() {
                       Registration Form
                     </a>
                     <br></br>
+                    <p>Get the Guidebook on the Official IYBC Website ‼️</p>
                     {/* <p>
                       Kalian dapat melihat guide book pada link pendaftaran 📖
                     </p>
@@ -78,7 +103,9 @@ function EventPoster10() {
                       Yuk, tunggu apalagi bikin tim kamu berprestasi di ajang
                       internasional
                     </p> */}
-                    <p className="hastag">{EventPosterDetail10.Hastag}</p>
+                    <p className="hastag">
+                      {EventPosterDetail10.Hastag}
+                    </p>
                   </div>
                   <div className="colom-right col-md-4 text-center text-md-start ">
                     <a className="btn btn-primary shadow mt-2">
@@ -89,7 +116,9 @@ function EventPoster10() {
                     <h4 className="fw-bolder">Date and Time</h4>
                     <p>{EventPosterDetail10.DateAdTime}</p>
                     <br />
-                    <h4 className="fw-bolder">Registration End Date</h4>
+                    <h4 className="fw-bolder">
+                      Registration End Date
+                    </h4>
                     <p>{EventPosterDetail10.RegistEndDate}</p>
                     <br />
                     <h4 className="fw-bolder">Location</h4>
@@ -102,7 +131,9 @@ function EventPoster10() {
                     <p>{EventPosterDetail10.EventCategory}</p>
                     <br />
                     <div className="event-share">
-                      <h4 className="fw-bolder">Share With Friends</h4>
+                      <h4 className="fw-bolder">
+                        Share With Friends
+                      </h4>
                       <a
                         href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
                           window.location.href
@@ -113,7 +144,7 @@ function EventPoster10() {
                       >
                         <FontAwesomeIcon
                           icon={faSquareFacebook}
-                          style={{ color: "#1b56bb" }}
+                          style={{ color: '#1b56bb' }}
                           className="event-share-logo"
                         />
                       </a>
@@ -127,7 +158,7 @@ function EventPoster10() {
                       >
                         <FontAwesomeIcon
                           icon={faSquareTwitter}
-                          style={{ color: "#0b8ee0" }}
+                          style={{ color: '#0b8ee0' }}
                           className="event-share-logo"
                         />
                       </a>
@@ -141,7 +172,7 @@ function EventPoster10() {
                       >
                         <FontAwesomeIcon
                           icon={faLinkedin}
-                          style={{ color: "#16b7df" }}
+                          style={{ color: '#16b7df' }}
                           className="event-share-logo"
                         />
                       </a>
@@ -155,7 +186,7 @@ function EventPoster10() {
                       >
                         <FontAwesomeIcon
                           icon={faSquarePinterest}
-                          style={{ color: "#d30909" }}
+                          style={{ color: '#d30909' }}
                           className="event-share-logo"
                         />
                       </a>
@@ -168,14 +199,16 @@ function EventPoster10() {
                     >
                       <FontAwesomeIcon
                         icon={showContent ? faMinus : faPlus}
-                        style={{ color: "#1164e8" }}
+                        style={{ color: '#1164e8' }}
                       />
                       <span className="ms-2">Venue</span>
                     </h1>
                     {showContent && (
                       <div className="row event-venue">
                         <div className="event-venue-left col-3">
-                          <img src={EventPosterDetail10.ImageVeneu}></img>
+                          <img
+                            src={EventPosterDetail10.ImageVeneu}
+                          ></img>
                         </div>
                         <div className="event-venue-right col-8 mt-auto mb-auto">
                           <a
@@ -185,7 +218,7 @@ function EventPoster10() {
                           >
                             <FontAwesomeIcon
                               icon={faLocationDot}
-                              style={{ color: "#1164e8" }}
+                              style={{ color: '#1164e8' }}
                             />
                             {EventPosterDetail10.NameLocation}
                           </a>
