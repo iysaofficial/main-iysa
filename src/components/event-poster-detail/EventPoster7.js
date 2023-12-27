@@ -2,22 +2,22 @@
 import '../../css/event/eventPoster.css';
 
 // Import FontAwesome
-import React, { useState } from "react";
+import React, { useState } from 'react';
 import {
   faLocationDot,
   faPlus,
   faMinus,
-} from "@fortawesome/free-solid-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+} from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faSquareFacebook,
   faSquareTwitter,
   faLinkedin,
   faSquarePinterest,
-} from "@fortawesome/free-brands-svg-icons";
+} from '@fortawesome/free-brands-svg-icons';
 
 // Import Data
-import EventPosterDetail from "../../data/event/EventPosterDetail.json";
+import EventPosterDetail from '../../data/event/EventPosterDetail.json';
 
 function EventPoster7() {
   const [showContent, setShowContent] = useState(false);
@@ -26,7 +26,6 @@ function EventPoster7() {
     setShowContent(!showContent);
   };
   return (
-    
     <section>
       <div id="main-event" className="container">
         <div className="row event-wrapper ">
@@ -40,16 +39,60 @@ function EventPoster7() {
                 <br />
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
-                    <h1 className="fw-bolder">{EventPosterDetail7.title}</h1>
-                    <p>IWA 2023, Amerika 🎉</p>
+                    <h1 className="fw-bolder">
+                      {EventPosterDetail7.title}
+                    </h1>
+                    <p>‼️YNSF 2024‼️🎉</p>
+                    <p>
+                      Pada tahun 2024 YNSF akan diselenggarakan di
+                      Malang Jawa Timur, Indonesia 👏👏
+                    </p>
                     <br></br>
-                    <p>Hai halo peneliti belia Indonesia🙋‍♀<br></br>
-                    IYSA punya event afiliasi baru nih, siapa tahu bisa jadi pilihan kalian berkompetisi.</p>
-                    <br></br>          
-                    <p>Yaitu event Innovation Week in America 2023, diselenggarkan secara online di Boston, Chicago, <br></br>New York, Los Angeles, Seattle👏</p>
+                    <p>
+                      IYSA bekerja sama dengan Fakultas Teknik
+                      Universitas Diponegoro akan menyelenggarakan :
+                    </p>
                     <br></br>
-                    <p>Yuk daftar</p>
+                    <p>YOUTH NATIONAL SCIENCE FAIR 2024</p>
                     <br></br>
+                    <p>Online & Offline Kompetisi 🎉🤗</p>
+                    <p>Yuk cek tanggalnya 👇</p>
+                    <br></br>
+                    <ul>
+                      <li>
+                        <strong>📍Batas Pendaftaran: </strong>
+                         20 Januari 2024
+                      </li>
+                      <li>
+                        <strong>
+                          📍Batas Waktu Pengiriman Berkas: </strong>
+                         27 Januari 2024
+                      </li>
+                      <li>
+                        <strong>📍Batas Waktu Pembayaran: </strong>  27
+                        Januari 2024
+                      </li>
+                      <li>
+                        <strong>📍Tanggal Acara: </strong> 28 Februari
+                        - 4 Maret 2024
+                      </li>
+                      <li>
+                        <strong>📍Tempat: </strong> Malang Creative
+                        Center, Kota Malang, Jawa Timur
+                      </li>
+                    </ul>
+                    <br></br>
+                    <p>
+                      Jadi tunggu apa lagi, Pastikan kamu dan tim join
+                      event ini!
+                    </p>
+                    <p>
+                      📱Register via:
+                      <a href="https://ynsf.or.id/" target="_blank">
+                        ynsf.or.id
+                      </a>
+                    </p>
+                    <p>Sampai jumpa di Malang, Indonesia🙋‍♂️</p>
                     <a
                       className="btn btn-primary mb-4"
                       href={EventPosterDetail7.LinkRegist}
@@ -58,9 +101,13 @@ function EventPoster7() {
                       Registration Form
                     </a>
                     <br></br>
-                    <p>Dapatkan Buku Panduan di link pendaftaran ‼️</p>
+                    <p>
+                      Dapatkan Buku Panduan di Website Official YNSF ‼️
+                    </p>
                     <br />
-                    <p className="hastag">{EventPosterDetail7.Hastag}</p>
+                    <p className="hastag">
+                      {EventPosterDetail7.Hastag}
+                    </p>
                   </div>
                   <div className="colom-right col-md-4 text-center text-md-start ">
                     <a className="btn btn-primary shadow mt-2">
@@ -71,7 +118,9 @@ function EventPoster7() {
                     <h4 className="fw-bolder">Date and Time</h4>
                     <p>{EventPosterDetail7.DateAdTime}</p>
                     <br />
-                    <h4 className="fw-bolder">Registration End Date</h4>
+                    <h4 className="fw-bolder">
+                      Registration End Date
+                    </h4>
                     <p>{EventPosterDetail7.RegistEndDate}</p>
                     <br />
                     <h4 className="fw-bolder">Location</h4>
@@ -84,7 +133,9 @@ function EventPoster7() {
                     <p>{EventPosterDetail7.EventCategory}</p>
                     <br />
                     <div className="event-share">
-                      <h4 className="fw-bolder">Share With Friends</h4>
+                      <h4 className="fw-bolder">
+                        Share With Friends
+                      </h4>
                       <a
                         href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
                           window.location.href
@@ -94,7 +145,7 @@ function EventPoster7() {
                       >
                         <FontAwesomeIcon
                           icon={faSquareFacebook}
-                          style={{ color: "#1b56bb" }}
+                          style={{ color: '#1b56bb' }}
                           className="event-share-logo"
                         />
                       </a>
@@ -107,7 +158,7 @@ function EventPoster7() {
                       >
                         <FontAwesomeIcon
                           icon={faSquareTwitter}
-                          style={{ color: "#0b8ee0" }}
+                          style={{ color: '#0b8ee0' }}
                           className="event-share-logo"
                         />
                       </a>
@@ -120,7 +171,7 @@ function EventPoster7() {
                       >
                         <FontAwesomeIcon
                           icon={faLinkedin}
-                          style={{ color: "#16b7df" }}
+                          style={{ color: '#16b7df' }}
                           className="event-share-logo"
                         />
                       </a>
@@ -133,7 +184,7 @@ function EventPoster7() {
                       >
                         <FontAwesomeIcon
                           icon={faSquarePinterest}
-                          style={{ color: "#d30909" }}
+                          style={{ color: '#d30909' }}
                           className="event-share-logo"
                         />
                       </a>
@@ -146,14 +197,16 @@ function EventPoster7() {
                     >
                       <FontAwesomeIcon
                         icon={showContent ? faMinus : faPlus}
-                        style={{ color: "#1164e8" }}
+                        style={{ color: '#1164e8' }}
                       />
                       <span className="ms-2">Venue</span>
                     </h1>
                     {showContent && (
                       <div className="row event-venue">
                         <div className="event-venue-left col-3">
-                          <img src={EventPosterDetail7.ImageVeneu}></img>
+                          <img
+                            src={EventPosterDetail7.ImageVeneu}
+                          ></img>
                         </div>
                         <div className="event-venue-right col-8 mt-auto mb-auto">
                           <a
@@ -163,7 +216,7 @@ function EventPoster7() {
                           >
                             <FontAwesomeIcon
                               icon={faLocationDot}
-                              style={{ color: "#1164e8" }}
+                              style={{ color: '#1164e8' }}
                             />
                             {EventPosterDetail7.NameLocation}
                           </a>

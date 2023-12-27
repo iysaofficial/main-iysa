@@ -28,12 +28,66 @@
       "link": "/EventPage4"
     },
     {
+      "id": 4,
+      "image": "./assets/images/poster/yisf.WebP",
+      "title": "Youth International Science Fair (YISF) 2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "February 28 - March 4, 2024",
+      "link": "/EventPage6"
+    },
+    {
+      "id": 5,
+      "image": "./assets/images/poster/ynsf.WebP",
+      "title": "Youth National Science Fair (YNSF) 2024",
+      "level": "National",
+      "location": "Offline",
+      "date": "28 February - 04 April 2024",
+      "link": "/EventPage7"
+    },
+    {
+      "id": 6,
+      "image": "./assets/images/poster/wseec.WebP",
+      "title": "World Science, Environment and Engineering Competition (WSEEC) 2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "13 - 17 May 2024",
+      "link": "/EventPage4"
+    },
+    {
+      "id": 7,
+      "image": "./assets/images/poster/iybc.WebP",
+      "title": "INTERNATIONAL YOUTH BUSINESS COMPETITION (IYBC) 2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "25 - 28 June 2024",
+      "link": "/EventPage4"
+    },
+    {
+      "id": 8,
+      "image": "./assets/images/poster/iiiex.WebP",
+      "title": "Indonesia International Invention Expo (IIIEX)   2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "29 April - 2 May 2024",
+      "link": "/EventPage4"
+    },
+    {
       "id": 9,
       "image": "./assets/images/poster/gyiif.WebP",
       "title": "Global Youth Invention and Innovation Fair (GYIIF) 2024",
       "level": "International",
       "location": "Offline",
       "date": "11 - 14 January 2024",
+      "link": "/EventPage2"
+    },
+    {
+      "id": 10,
+      "image": "./assets/images/poster/i3o.WebP",
+      "title": "Indonesia International IoT Olympiad (I3O) 2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "25 - 28 June 2024",
       "link": "/EventPage2"
     },
     {

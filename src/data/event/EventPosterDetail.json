@@ -87,18 +87,35 @@
   "event6": [
     {
       "id": 1,
-      "image": "./assets/images/poster/NRTC.WebP",
-      "title": "National Research Teacher Competition 3rd (NRTC) 2023",
-      "LinkRegist": "https://bit.ly/PENDAFTARAN-NRTC-2023",
-      "Hastag": "#iysaevent2023 #irtc #nrtc #iysa2023 #irtcnrtc2023 #infolomba #onlineoffline2023 #infolomba2023 #penelitibelia #bali2023",
-      "DateAdTime": "06 - 12 November 2023",
-      "RegistEndDate": "01 October 2023",
-      "Location": "Bali",
-      "EventType": "National",
+      "image": "./assets/images/poster/yisf.WebP",
+      "title": "Youth International Science Fair (YISF) 2024",
+      "LinkRegist": "https://registrasi-yisf-2024.vercel.app/",
+      "Hastag": "",
+      "DateAdTime": "February 28 - March 4, 2024",
+      "RegistEndDate": "January 20, 2024",
+      "Location": "Semarang",
+      "EventType": "Internasional",
       "EventCategory": "IYSA Event",
-      "ImageVeneu": "./assets/images/venue/Udayana.WebP",
-      "LinkGmaps": "https://goo.gl/maps/4T9WCTGPe3hHW2AM6",
-      "NameLocation": "Universitas Udayana"
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
+  ],
+  "event7": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/ynsf.WebP",
+      "title": "Youth National Science Fair (YNSF) 2024",
+      "LinkRegist": "https://registrasi-ynsf-2024.vercel.app/",
+      "Hastag": "",
+      "DateAdTime": "28 February - 04 April 2024",
+      "RegistEndDate": "20 Januari 2024",
+      "Location": "Semarang",
+      "EventType": "Internasional",
+      "EventCategory": "IYSA Event",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
     }
   ],
   "event8": [
