@@ -129,6 +129,13 @@
       "content": "",
       "gambar": "https://drive.google.com/uc?id=14UOfaSlqODRfKFsXBQh8f3-1EZ9FiHk5",
       "linkbtn": "/Newsletter2023DetailPage15"
+    },
+    {
+      "id": 12,
+      "title": "IYSA Newsletter December 2023",
+      "content": "",
+      "gambar": "https://drive.google.com/uc?id=1OHKRV2YZEh-S2RJao7xgsfzA6xUM7PVe",
+      "linkbtn": "/Newsletter2023DetailPage16"
     }
   ],
   "NewsletterJanuary2023": [
@@ -217,6 +224,14 @@
       "title": "IYSA Newsletter November",
       "images": "https://drive.google.com/uc?id=14UOfaSlqODRfKFsXBQh8f3-1EZ9FiHk5",
       "linkpdf": "https://drive.google.com/file/d/1PReOwyHv9N7zcm0pe9JJh6qO_u7WlXKF/preview"
+    }
+  ],
+  "NewsletterDecember2023": [
+    {
+      "id": 1,
+      "title": "IYSA Newsletter December",
+      "images": "https://drive.google.com/uc?id=1OHKRV2YZEh-S2RJao7xgsfzA6xUM7PVe",
+      "linkpdf": "https://drive.google.com/file/d/1u80y-cUiSFEsGnrBcVFPei3WFBYo7NmE/preview"
     }
   ],
   "NewsletterJanuary2022": [
