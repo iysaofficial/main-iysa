@@ -129,7 +129,10 @@ const Navigation = () => {
             <li className="menu-item">
               <a href="/About">About</a>
             </li>
-            <li className="menu-item menu-item-has-children">
+            <li className="menu-item">
+              <a href="/CalenderEvent">Calender Event</a>
+            </li>
+            {/* <li className="menu-item menu-item-has-children">
               <a href="#" data-toggle="sub-menu">
                 Curation <FaChevronDown />
               </a>
@@ -141,7 +144,7 @@ const Navigation = () => {
                   <a href="/CurationLKTIN">Curation LKTIN</a>
                 </li>
               </ul>
-            </li>
+            </li> */}
             {/* <li className="menu-item">
               <a href="/Curasi"> Curation News</a>
             </li> */}

@@ -17,6 +17,9 @@ import CurationOSPCPage from "./pages/curation/CurationOSPCPage";
 import CurationLKTINComp from "./components/curation/CurationLKTINComp";
 import CurasiPage from "./pages/curasiinfo/CurasiPage";
 
+// Calender Event
+import CalenderEvent from "./pages/calender/CalenderEvent";
+
 // Import Team
 import ExpertTeam from "./components/team/ExpertTeam";
 import ExpertStaff from "./components/team/ExpertStaff";
@@ -87,6 +90,9 @@ function App() {
 
             {/* Company Profile */}
             <Route path="/About" element={<CompanyProfile />} />
+
+            {/* Calender Event */}
+            <Route path="/CalenderEvent" element={<CalenderEvent />} />
 
             {/* Curation */}
             <Route path="/CurationOSPC" element={<CurationOSPCPage />} />
