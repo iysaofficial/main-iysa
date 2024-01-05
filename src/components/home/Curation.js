@@ -8,7 +8,7 @@ const Curation = () => {
           <div className="col-md-6 curation-video mb-auto mt-auto">
             <iframe
               width="100%"
-              height="425px"
+              height="435px"
               src="https://www.youtube.com/embed/w-VKoOfn9Lk?si=GvDNeHJAAtQbUHnr"
               title="YouTube video player"
               frameBorder="0"
