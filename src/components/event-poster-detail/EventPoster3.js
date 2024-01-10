@@ -42,17 +42,17 @@ function EventPoster3() {
                     <h1 className="fw-bolder">
                       {EventPosterDetail3.title}
                     </h1>
-                    <p>‼️5th AISEEF 2024‼️</p>
+                    <p>📝LKTIN 2024📝</p>
+                    <p>"The 3rd LKTIN Smart Researcher"</p>
                     <br></br>
                     <p>
-                      After successfully holding 4th AISEEF 2023, IYSA
-                      collaborates again with the Faculty of
-                      Engineering Diponegoro University will hold :
+                      Halo peneliti belia, minsa punya event online di
+                      awal tahun ni, LKTIN 2024 bekerja sama dengan
+                      Departemen Aktuaria ITS, Surabaya
                     </p>
                     <p>
-                      ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL AND
-                      ENTREPRENEUR FAIR 2024 online and offline
-                      competition 🎉🤗
+                      Event ini akan dilaksanakan secara online dengan
+                      jadwal sebagai berikut:
                     </p>
                     <br></br>
                     {/* <p>
@@ -64,27 +64,46 @@ function EventPoster3() {
                       pendaftaran hanya sampai 1 September 2023.
                     </p>
                     <br></br> */}
-                    <p>Let's join us and enjoy the crowd on:</p>
+                    {/* <p>Let's join us and enjoy the crowd on:</p> */}
                     <ul>
                       <li>
-                        <strong>📍 Registration Deadline:</strong> January 3, 2024
+                        <strong>📍 Batas Pendaftaran :</strong> 27
+                        Januari 2024
                       </li>
                       <li>
-                        <strong>📍 Payment Deadline:</strong> January 12, 2024
+                        <strong>📍 Batas Pembayaran :</strong> 2
+                        Februari 2024
                       </li>
                       <li>
-                        <strong>📍 Submission Deadline:</strong> January 12, 2024
+                        <strong>📍 Pengumpulan Full Paper :</strong> 2
+                        Februari 2024
                       </li>
                       <li>
-                        <strong>📍 Event Date:</strong> February 2-5, 2024
+                        <strong>
+                          📍 Pengumuman Finalis 10 besar :{' '}
+                        </strong>{' '}
+                        9 Februari 2024
                       </li>
                       <li>
-                        <strong>Place:</strong> Auditorium Imam Bardjo, Universitas Diponegoro Semarang
+                        <strong>📍 Penjurian Daring :</strong> 28
+                        Februari 2024
+                      </li>
+                      <li>
+                        <strong>📍 Pengumuman Pemenang :</strong> 3
+                        Maret 2024
                       </li>
                     </ul>
                     {/* <p className="mt-5">{EventPosterDetail3.paragraf5}</p> */}
-                    
-                    <p>Register now 👇🏻</p>
+                    <p>Informasi lebih lanjut</p>
+                    <a
+                      href="https://wa.me/+6281770914129"
+                      target="_blank"
+                    >
+                      📲 081770914129
+                    </a>
+
+                    <p>Yuk daftar dan jadilah Smart </p>
+                    <p>Researcher bersama IYSA!</p>
 
                     <a
                       className="btn btn-primary mb-4"

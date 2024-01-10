@@ -11,11 +11,11 @@
     },
     {
       "id": 2,
-      "image": "./assets/images/poster/aisef.WebP",
-      "title": "ASEAN INNOVATIVE SCIENCE ENVIRONMENTAL AND ENTREPRENEUR FAIR (AISEEF) 2024",
-      "level": "International",
-      "location": "Offline",
-      "date": "2 - 5 February 2024",
+      "image": "./assets/images/poster/lktin.WebP",
+      "title": "The 3rd LKTIN Smart Researcher (LKTIN) 2024",
+      "level": "Nasional",
+      "location": "Online",
+      "date": "2 February - 3 Maret 2024",
       "link": "/EventPage3"
     },
     {
@@ -66,11 +66,20 @@
     {
       "id": 8,
       "image": "./assets/images/poster/iiiex.WebP",
-      "title": "Indonesia International Invention Expo (IIIEX)   2024",
+      "title": "Indonesia International Invention Expo (IIIEX) 2024",
       "level": "International",
       "location": "Offline",
       "date": "April 29 - May 2, 2024",
       "link": "/EventPage8"
+    },
+    {
+      "id": 9,
+      "image": "./assets/images/poster/pisf.WebP",
+      "title": "Phatthalung International Science Fair (PISF) 2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "23 - 26 February, 2024",
+      "link": "/EventPage12"
     },
     {
       "id": 10,
