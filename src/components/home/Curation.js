@@ -20,29 +20,29 @@ const Curation = () => {
           <div className="col-md-6 curation-content mb-auto mt-auto">
             <h1 className="text-tittle">Company Profile</h1>
             <p className="text-justify">
-              IYSA atau Indonesian Young Scientist Association adalah
-              sebuah lembaga yang bergerak di bidang pendidikan untuk
-              mengembangkan potensi, bakat, dan kreativitas pelajar
-              Indonesia dengan memberikan kesempatan kepada mereka
-              untuk berpartisipasi dalam kompetisi ilmiah dan
-              non-kompetisi di tingkat nasonal maupun internasional.
+              IYSA or Indonesian Young Scientist Association is an organization
+              engaged in education to develop the potential, talent, and
+              creativity of Indonesian students by Indonesia by providing
+              opportunities for them to participate in scientific competitions
+              and scientific competitions and non-competitions at national and
+              international levels.
             </p>
             <p className="text-justify">
-              Didirikan pada November 2018, dan dikukuhkan secara
-              legal di Kemenkumham dalam bentuk akta notaris pada
-              tahun 2019. IYSA didirikan oleh Bapak Deni Irawan dan
-              kemudian menggandeng Ibu Anggraini dan Ibu Prita Elriza
-              dalam tim manajemennya.
+              It was established in November 2018, and was legally confirmed at
+              the Ministry of Law and Human Rights in the form of a notarial
+              deed in 2019. IYSA was founded by Mr. Deni Irawan and later joined
+              forces with Ms. Anggraini and Ms. Prita Elriza in its management
+              team. Anggraini and Ms. Prita Elriza in its management team.
             </p>
             <p className="text-justify">
-              Selain memiliki program kompetisi, IYSA juga memiliki
-              berbagai program non-kompetisi yang bermanfaat bagi para
-              peneliti belia. IYSA juga memiliki lebih dari 50
-              afiliasi yang tersebar diseluruh dunia.
+              Besides having a competition program, IYSA also has various
+              non-competition programs that benefit young researchers. IYSA also
+              has more than 50 affiliates spread throughout the world. the
+              world.
             </p>
             <p className="text-justify">
-              Mari bergabung dalam komunitas research penuh
-              kreativitas dan prestasi bersama IYSA!
+              Let's join a research community full of creativity and
+              achievements with IYSA!
             </p>
           </div>
         </div>

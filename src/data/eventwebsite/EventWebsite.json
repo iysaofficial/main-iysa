@@ -113,6 +113,18 @@
       "WebsiteName": "IYSA OLYMPIAD",
       "EventType": "International",
       "link": "https://iysaolympiad.or.id"
+    },
+    {
+      "Id": "20",
+      "WebsiteName": "LKTIN",
+      "EventType": "Nasional",
+      "link": "https://lktin.or.id"
+    },
+    {
+      "Id": "21",
+      "WebsiteName": "OSPC",
+      "EventType": "Nasional",
+      "link": "https://ospc.or.id"
     }
   ]
 }
