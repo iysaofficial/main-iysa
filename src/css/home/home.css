@@ -87,7 +87,7 @@
 
 .card{
   width: 420px;
-  background-color: #f0f0f0;
+  background-color: transparent;
     border-radius: 20px;
     margin: 20px;
     overflow: hidden;
@@ -119,7 +119,6 @@
   line-height: 1.3;
 }
 
-
 .card:hover{
   transform: translateY(-50px);
   background: linear-gradient(to right, #6495ED 70%);
@@ -127,7 +126,25 @@
   transition: 0.8s;
 }
 
+.garis-bawah::after {
+  position: absolute;
+  content: "";
+  background:  #000;
+  height: 4px;
+  width: 90px;
+  left: 50%;
+  transform: translateX(-50%);
+}
 
+.garis-bawahi::after {
+  position: absolute;
+  content: "";
+  background:  #000;
+  height: 4px;
+  width: 110px;
+  left: 50%;
+  transform: translateX(-50%);
+}
 
 .vision-mission-section {
   background: linear-gradient(to right, #0795fe, #092a49);
