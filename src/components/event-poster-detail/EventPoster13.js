@@ -41,72 +41,58 @@ function EventPoster13() {
                   <div className="colom-left col-md-8  mt-2">
                     <h1 className="fw-bolder">{EventPosterDetail13.title}</h1>
                     <br></br>
+                    <p>4th GloCoLiS 2024</p>
+                    <br></br>
+                    <p>Hybrid Competition 💥</p>
+                    <br></br>
                     <p>
-                      Halo Young Scientist, IYSA punya program baru nih khusus
-                      untuk para mahasiswa dan lokasinya di Suranaree
-                      University, Bangkok bertajuk SUT Global Entrepreneurship
-                      Camp (GEC) 2024, 👏👏
+                      IYSA will hold an international event specializing in the
+                      Life Science category, namely Global Competition for Life
+                      Sciences (GloCoLiS) 2024. 👏🏻👏🏻
                     </p>
                     <br></br>
                     <p>
-                      Diselenggarakan oleh Suranaree University of Technology,
-                      Thailand, untuk keempat kalinya, GEC 2024 akan menawarkan
-                      pengalaman menarik bagi siswa, baik budaya maupun
-                      memperkaya kewirausahaan keterampilan.
-                    </p>
-                    <br></br>
-                    <p>
-                      GEC 2024 mengundang mahasiswa dari universitas mitra di
-                      seluruh dunia, bersama-sama untuk menginspirasi orang lain
-                      dalam mengatasi masalah lingkungan dan bertanggung jawab
-                      bersama dalam menciptakan gelombang generasi muda yang
-                      akan menginspirasi para pembuat perubahan dunia.
-                    </p>
-                    <br></br>
-                    <p>
-                      Selama program di SUT Global Entrepreneurship Camp 2024,
-                      para mahasiswa akan mendapat banyak hal lain juga seperti
-                      :
+                      This year the GloCoLiS will take place online and offline
+                      in Surabaya...
                     </p>
                     <br></br>
                     <ul>
                       <li>
-                        1. Eksplorasi: Mengekplorasi negara, kota, budaya, dan
-                        masyarakat Thailand
+                        <strong>📌 Registration Deadline : </strong> July 28th,
+                        2024
                       </li>
                       <li>
-                        2. Pengalaman: budaya, alam, tantangan keberlanjutan,
-                        membangun multikultural kompetensi kerja sama tim, dan
-                        mempelajari serta mengembangkan solusi inovatif,
+                        <strong>📌 Payment & Submission Deadline : </strong>{" "}
+                        Agustus 2nd, 2024
                       </li>
                       <li>
-                      3. Kewirausahaan: keterampilan dan pola pikir kewirausahaan Anda
+                        <strong>📌 Event Date : </strong> Agustus 30th -
+                        September 2nd, 2024
                       </li>
                     </ul>
+                    <p>
+                      So wait no more, Make sure you and your team join this
+                      event!
+                    </p>
                     <br></br>
-                    <p>Tunggu apalagi? Yuk mendaftar di IYSA untuk mengikuti acara keren ini!</p>
-                    <ul>
-                      <li>
-                        <strong>Batas Waktu Pendaftaran:</strong> 5 November
-                        2023
-                      </li>
-                      <li>
-                        <strong>Batas Waktu Pembayaran: </strong> 10 November
-                        2023
-                      </li>
-                      <li>
-                        <strong>Tanggal Acara:</strong> 14 - 24 January 2024
-                      </li>
-                    </ul>
+                    <p>
+                      📱Register via:
+                      <a href="https://glocolis.or.id/" target="_blank" >
+                        glocolis.or.id
+                      </a>
+                    </p>
+                    <p>
+                    Registration Here: 
+                    </p>
                     <br></br>
                     <a
                       className="btn btn-primary mb-4"
                       href={EventPosterDetail13.LinkRegist}
                       target="-blank"
                     >
-                      Link Pendaftaran
+                      Registration Form
                     </a>
-                    <p>Kalian bisa cek Guide book di link pendaftaran ya👆</p>
+                    <p>See you 🙋‍♀️🙋‍♂️</p>
                     <br></br>
                     <br />
                     <p className="hastag">{EventPosterDetail13.Hastag}</p>

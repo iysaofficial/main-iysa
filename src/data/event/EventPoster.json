@@ -90,5 +90,15 @@
       "date": "25 - 28 June 2024",
       "link": "/EventPage11"
     }
+    ,
+    {
+      "id": 11,
+      "image": "./assets/images/poster/Glocolis.WebP",
+      "title": "Global Competition for Life Sciences (GloCoLiS) 2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "August 30 - September 2, 2024",
+      "link": "/EventPage13"
+    }
   ]
 }
