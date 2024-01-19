@@ -20,7 +20,7 @@
       "id": 8,
       "title": "IYSA Newsletter August 2022",
       "content": "",
-      "gambar": "./assets/images/newsletter/NewsletterAgustus2022.WebP",
+      "gambar": "./assets/images/newsletter/NewsLetterAgustus2022.WebP",
       "linkbtn": "/NewsletterDetailPage8"
     },
     {
@@ -92,7 +92,7 @@
       "id": 6,
       "title": "IYSA Newsletter June 2023",
       "content": "",
-      "gambar": "./assets/images/newsletter/NewsletteredisiJuni2023.WebP",
+      "gambar": "./assets/images/newsletter/Newsletteredisijuni2023.WebP",
       "linkbtn": "/Newsletter2023DetailPage6"
     },
     {
@@ -113,7 +113,7 @@
       "id": 9,
       "title": "IYSA Newsletter September 2023",
       "content": "",
-      "gambar": "./assets/images/newsletter/iysa Newsletter September.WebP",
+      "gambar": "./assets/images/newsletter/IYSA Newsletter September.WebP",
       "linkbtn": "/Newsletter2023DetailPage13"
     },
     {
@@ -182,7 +182,7 @@
     {
       "id": 1,
       "title": "IYSA Newsletter June",
-      "images": "./assets/images/newsletter/NewsletteredisiJuni2023.WebP",
+      "images": "./assets/images/newsletter/Newsletteredisijuni2023.WebP",
       "linkpdf": "https://drive.google.com/file/d/1MXZDZZ4M-AkhTnWwSpz-VjWyoN6coWNi/preview"
     }
   ],
@@ -206,7 +206,7 @@
     {
       "id": 1,
       "title": "IYSA Newsletter September",
-      "images": "./assets/images/newsletter/iysa Newsletter September.WebP",
+      "images": "./assets/images/newsletter/IYSA Newsletter September.WebP",
       "linkpdf": "https://drive.google.com/file/d/1WozU4bcR5aPibhMsHxuQPZ-ReA25X9Xs/preview"
     }
   ],
@@ -294,7 +294,7 @@
     {
       "id": 1,
       "title": "IYSA Newsletter August",
-      "images": "./assets/images/newsletter/NewsletterAgustus2022.WebP",
+      "images": "./assets/images/newsletter/NewsLetterAgustus2022.WebP",
       "linkpdf": "https://drive.google.com/file/d/1CDHOlf-bbr6LCR49hGQar1iDJMNQZ9Et/preview"
     }
   ],
