@@ -109,7 +109,7 @@
 
 @media screen and (max-width: 426px) {
 	.contact-form-txt {
-		width: 125% !important;
+		width: 123% !important;
 		height: 40px;
 		color: #000;
 		border: 1px solid #bcbcbc;
@@ -123,7 +123,7 @@
 
 @media screen and (max-width: 426px) {
 	.contact-form-txtarea {
-		width: 125% !important;
+		width: 123% !important;
 		height: 140px;
 		margin-left: -34px;
 	}
@@ -131,7 +131,7 @@
 
 @media screen and (max-width: 426px) {
 	.contact-in {
-		width: 80% !important;
+		width: 88% !important;
 	}
 }
 
