@@ -48,7 +48,7 @@
 	height: 40px;
 	color: #000;
 	border: 1px solid #bcbcbc;
-	border-radius: 30px;
+	border-radius: 10px;
 	outline: none;
 	margin-bottom: 20px;
 	padding: 15px;
@@ -63,10 +63,14 @@
 	height: 130px;
 	color: #000;
 	border: 1px solid #bcbcbc;
-	border-radius: 30px;
+	border-radius: 10px;
 	outline: none;
 	margin-bottom: 20px;
 	padding: 15px;
+}
+
+.contact-in .contact-form .form .contact-form-btn{
+	color: #fff;
 }
 
 .contact-form-txtarea::placeholder {
@@ -105,14 +109,36 @@
 
 @media screen and (max-width: 356px) {
 	.contact-form-txt {
-		width: 100% !important;
+		width: 130% !important;
 		height: 40px;
 		color: #000;
 		border: 1px solid #bcbcbc;
-		border-radius: 30px;
+		border-radius: 10px;
+		margin-left: -34px;
 		outline: none;
 		margin-bottom: 20px;
 		padding: 15px;
+	}
+}
+
+@media screen and (max-width: 356px) {
+	.contact-form-txtarea {
+		width: 130% !important;
+		height: 140px;
+		margin-left: -34px;
+	}
+}
+
+@media screen and (max-width: 356px) {
+	.contact-in {
+		width: 95% !important;
+	}
+}
+
+@media screen and (max-width: 356px) {
+	.contact-form-btn {
+		width: 125% !important;
+		margin-left: -30px;
 	}
 }
 
