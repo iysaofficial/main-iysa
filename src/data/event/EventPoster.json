@@ -1,15 +1,6 @@
 {
   "event": [
     {
-      "id": 1,
-      "image": "./assets/images/poster/my.WebP",
-      "title": "MY-MIEWC 2023, MALAYSIA 🎉",
-      "level": "International",
-      "location": "Online",
-      "date": "31 January 2024",
-      "link": "/EventPage1"
-    },
-    {
       "id": 2,
       "image": "./assets/images/poster/lktin.WebP",
       "title": "The 3rd LKTIN Smart Researcher (LKTIN) 2024",

@@ -78,16 +78,16 @@
 
 /*-------------------------- Vision Mission Start --------------------------*/
 
-.card-container {
+.vision-mission-section .card-container {
   display: flex;
   justify-content: center;
   flex-wrap: wrap ;
   margin-top: 100px;
 }
 
-.card{
+.vision-mission-section .card-container .card{
   width: 420px;
-  background-color: transparent;
+  background-color: whitesmoke;
     border-radius: 20px;
     margin: 20px;
     overflow: hidden;
@@ -95,7 +95,7 @@
     
 }
 
-.card img{
+.vision-mission-section .card-container .card img{
   color: black;
   width: 100%;
   align-items: center;
@@ -103,23 +103,23 @@
   height: 220px;
 }
 
-.card-content{  
+.vision-mission-section .card-container .card .card-content{  
   padding: 16px;
 }
 
-.card-content h3{
+.vision-mission-section .card-container .card .card-content h3{
   font-size: 28px;
   margin-bottom: 8px;
   font-weight: bold;
 }
 
-.card-content p{
+.vision-mission-section .card-container .card .card-content p{
   color: #000;
   font-size: 15px;
   line-height: 1.3;
 }
 
-.card:hover{
+.vision-mission-section .card-container .card:hover{
   transform: translateY(-50px);
   background: linear-gradient(to right, #6495ED 70%);
   box-shadow: 0 4px 15px 0 rgba(245,245,245);
