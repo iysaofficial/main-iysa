@@ -16,9 +16,6 @@ const Curasi = () => {
                 are being curated by iysa with the ministry of culture, research
                 and technology.
               </h2>
-              {/* <p className="mt-3 text-center ">This information will display what events have been curated and
-                are being curated by iysa with the ministry of culture, research
-                and technology.</p> */}
             </div>
             <div className="if text-center col-lg-8 col-12 mt-5 mb-5">
               <iframe
