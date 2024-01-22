@@ -9,6 +9,22 @@ const Photo = () => {
         </div>
 
         <div className="row">
+
+        <div className="col-lg-4 col-md-6 col-sm-12">
+            <a
+              href="https://drive.google.com/drive/folders/1v7k8qwGLENT3xXQHNN5yDR2dq6POKUaR?usp=sharing"
+              rel='noreferrer noopener'
+              target="_blank"
+            >
+              <div className="box">
+                <div className="content">
+                  <h4 className="">Gallery Event 2024</h4>
+                </div>
+              </div>
+            </a>
+          </div>
+
+
           <div className="col-lg-4 col-md-6 col-sm-12">
             <a
               href="https://drive.google.com/drive/folders/1hwrWzTYg0qKIkoAMo6VH2-mMPsPwxnYC?usp=sharing"

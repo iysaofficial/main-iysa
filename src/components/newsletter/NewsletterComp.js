@@ -16,6 +16,13 @@ const NewsletterComp = () => {
       <div className="container">
         <div className="newsletter-wrapper">
           <div className="controls">
+          <button
+              type="button"
+              className="control"
+              onClick={() => handleFilterChange("duapuluhdua")}
+            >
+              2024
+            </button>
             <button
               type="button"
               className="control"
