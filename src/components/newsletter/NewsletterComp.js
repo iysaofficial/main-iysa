@@ -5,7 +5,7 @@ import DataLetter from "../../data/newsletter/NewsletterData.json";
 
 const NewsletterComp = () => {
   const [selectedFilter, setSelectedFilter] = useState("all"); // Menambahkan state untuk menyimpan filter yang dipilih
-
+ 
   // Fungsi untuk mengubah filter yang dipilih
   const handleFilterChange = (filter) => {
     setSelectedFilter(filter);
@@ -16,13 +16,13 @@ const NewsletterComp = () => {
       <div className="container">
         <div className="newsletter-wrapper">
           <div className="controls">
-            {/* <button
+            <button
               type="button"
               className="control"
-              onClick={() => handleFilterChange("duapuluhdua")}
+              onClick={() => handleFilterChange("duapuluhtiga")}
             >
-              2024
-            </button> */}
+              2022
+            </button>
             <button
               type="button"
               className="control"
@@ -33,9 +33,9 @@ const NewsletterComp = () => {
             <button
               type="button"
               className="control"
-              onClick={() => handleFilterChange("duapuluhtiga")}
+              onClick={() => handleFilterChange("duapuluhempat")}
             >
-              2022
+              2024
             </button>
           </div>
           {selectedFilter !== "duapuluhtiga" && (
@@ -65,6 +65,29 @@ const NewsletterComp = () => {
             <>
               <div className="row">
                 {DataLetter.duapuluhdua.map((Letter) => {
+                  return (
+                    <div className="col-lg-3 col-md-6 col-sm-12">
+                      <div className="box mx-auto" key={Letter.id}>
+                        <div className="mx-auto text-center">
+                          <img
+                            className="newsletter-image img-fluid mx-auto"
+                            src={Letter.gambar}
+                          ></img>
+                          <div className="read-more-overlay">
+                            <a href={Letter.linkbtn}>Read More</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            </>
+          )}
+          {selectedFilter !== "duapuluhempat" && (
+            <>
+              <div className="row">
+                {DataLetter.duapuluhempat.map((Letter) => {
                   return (
                     <div className="col-lg-3 col-md-6 col-sm-12">
                       <div className="box mx-auto" key={Letter.id}>
