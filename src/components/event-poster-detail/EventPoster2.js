@@ -42,44 +42,50 @@ function EventPoster2() {
                     <h1 className="fw-bolder">
                       {EventPosterDetail2.title}
                     </h1>
-                    <p>Opening Event in 2024</p>
-                    <p>2nd GYIIF🥳</p>
-                    <p>Global Youth Invention and Innovation Fair</p>
+                    <p>Ada yang baru...🔥</p>
+                    <p>IYSA punya event di Jakarta lagi ni...</p>
+                    <p>JNSF 2024, event baru IYSA yang bekerja sama dengan @i3l_official, di selenggarakan secara daring & luring</p>
                     <p>
-                      IYSA will hold 2nd GYIIF in collaboration with
-                      the Department of Food Science and Technology,
-                      Institut Pertanian Bogor.
+                    "Jakarta National Science Fair"
                     </p>
                     <p>
-                      This event will take place in January 2024,
-                      conducted online and offline at the Institut
-                      Pertanian Bogor 👏🏻
+                    Yuk main main ke Jakarta sekalian kompetisi tentunya...👏
                     </p>
                     <br></br>
                     <p>-------------------------------------</p>
 
-                    <p>Save the date ‼️</p>
+                    <p>Catat tanggalnya ‼️</p>
 
                     <ul>
                       <li>
-                        <strong>📍 Registration Deadline : </strong>
-                        December 15, 2023
+                        <strong>📍 Batas Waktu Pendaftaran : </strong>
+                        27 Juni, 2024
                       </li>
                       <li>
-                        <strong>📍 Payment Deadline :</strong> December
-                        22, 2023
+                        <strong>📍 Batas Waktu Pembayaran :</strong> 2 Juli, 2024
                       </li>
                       <li>
-                        <strong>📍 Event Date :</strong> January 11-14,
+                        <strong>📍Tanggal Acara :</strong> 27 - 31 Juli,
                         2024
                       </li>
-                      <li>
+                      {/* <li>
                         <strong>Place:</strong> Institut Pertanian
                         Bogor, IPB Campus Dramaga
-                      </li>
+                      </li> */}
                     </ul>
+                    <p>
+                    Jadi tunggu apa lagi, pastikan Anda dan tim Anda untuk
+                      bergabung dalam acara ini!
+                    </p>
+                    <p>
+                      📱Kepoin website nya 👇
+                      <a href="https://jnsf.or.id/" target="_blank" >
+                        jnsf.or.id
+                      </a>
+                    </p>
+                    <p>Sampai Jumpa di Jakarta, Indonesia🙋‍♂️</p>
 
-                    <p>Register now 👇🏻</p>
+                    {/* <p>Register now 👇🏻</p> */}
 
                     {/* <p>Get the guide book in registration link‼️</p> */}
                     {/* <p className="mt-5">{EventPosterDetail2.paragraf5}</p> */}
@@ -88,11 +94,11 @@ function EventPoster2() {
                       href={EventPosterDetail2.LinkRegist}
                       target="-blank"
                     >
-                      Registration Form
+                      Formulir Pendaftaran
                     </a>
                     <br />
-                    <p>Get the guide book in registration link‼️</p>
-                    <p>See you in Bogor, Indonesia 🙋‍♀️🙋‍♂️</p>
+                    {/* <p>Get the guide book in registration link‼️</p>
+                    <p>See you in Bogor, Indonesia 🙋‍♀️🙋‍♂️</p> */}
                     <br></br>
                     <p className="hastag">
                       {EventPosterDetail2.Hastag}

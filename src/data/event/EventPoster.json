@@ -1,6 +1,15 @@
 {
   "event": [
     {
+      "id": 1,
+      "image": "./assets/images/poster/jisf.WebP",
+      "title": "Jakarta International Science Fair (JISF) 2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "July 27th - 31st, 2024",
+      "link": "/EventPage1"
+    },
+    {
       "id": 2,
       "image": "./assets/images/poster/lktin.WebP",
       "title": "The 3rd LKTIN Smart Researcher (LKTIN) 2024",
@@ -90,6 +99,16 @@
       "location": "Offline",
       "date": "August 30 - September 2, 2024",
       "link": "/EventPage13"
+    }
+    ,
+    {
+      "id": 12,
+      "image": "./assets/images/poster/jnsf.WebP",
+      "title": "Global Competition for Life Sciences (GloCoLiS) 2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "August 30 - September 2, 2024",
+      "link": "/EventPage2"
     }
   ]
 }
