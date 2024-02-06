@@ -64,15 +64,6 @@
       "link": "/EventPage8"
     },
     {
-      "id": 9,
-      "image": "./assets/images/poster/pisf.WebP",
-      "title": "Phatthalung International Science Fair (PISF) 2024",
-      "level": "International",
-      "location": "Offline",
-      "date": "23 - 26 February, 2024",
-      "link": "/EventPage12"
-    },
-    {
       "id": 10,
       "image": "./assets/images/poster/i3o.WebP",
       "title": "Indonesia International IoT Olympiad (I3O) 2024",
