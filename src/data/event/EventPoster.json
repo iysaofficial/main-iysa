@@ -29,20 +29,20 @@
     },
     {
       "id": 4,
-      "image": "./assets/images/poster/yisf.WebP",
-      "title": "Youth International Science Fair (YISF) 2024",
+      "image": "./assets/images/poster/IYBO.WebP",
+      "title": "International Youth Biology Olympiad (IYBO) 2024",
       "level": "International",
-      "location": "Offline",
-      "date": "February 28 - March 4, 2024",
+      "location": "Online",
+      "date": "April 22 - May 3, 2024",
       "link": "/EventPage6"
     },
     {
       "id": 5,
-      "image": "./assets/images/poster/ynsf.WebP",
-      "title": "Youth National Science Fair (YNSF) 2024",
+      "image": "./assets/images/poster/nybo.WebP",
+      "title": "National Youth Biology Olympiad (NYBO) 2024",
       "level": "National",
-      "location": "Offline",
-      "date": "28 February - 04 April 2024",
+      "location": "Online",
+      "date": "22 April - 3 Mei, 2024",
       "link": "/EventPage7"
     },
     {

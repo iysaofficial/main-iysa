@@ -1,23 +1,23 @@
 // Import CSS
-import '../../css/event/eventPoster.css';
+import "../../css/event/eventPoster.css";
 
 // Import FontAwesome
-import React, { useState } from 'react';
+import React, { useState } from "react";
 import {
   faLocationDot,
   faPlus,
   faMinus,
-} from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+} from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faSquareFacebook,
   faSquareTwitter,
   faLinkedin,
   faSquarePinterest,
-} from '@fortawesome/free-brands-svg-icons';
+} from "@fortawesome/free-brands-svg-icons";
 
 // Import Data
-import EventPosterDetail from '../../data/event/EventPosterDetail.json';
+import EventPosterDetail from "../../data/event/EventPosterDetail.json";
 
 function EventPoster6() {
   const [showContent, setShowContent] = useState(false);
@@ -39,59 +39,43 @@ function EventPoster6() {
                 <br />
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
-                    <h1 className="fw-bolder">
-                      {EventPosterDetail6.title}
-                    </h1>
-                    <p>YISF 2024‼️</p>
-                    <p>
-                      In 2024 YISF will be held in Malang East Java,
-                      Indonesia 👏👏
-                    </p>
-                    <p>
-                      IYSA in collaboration with Fakultas Teknik
-                      Universitas Diponegoro and BUCA IMSEF Turkey
-                      will hold :
-                    </p>
+                    <h1 className="fw-bolder">{EventPosterDetail6.title}</h1>
+                    <p>IYBO 2024‼️</p>
+                    <p>Hello young researchers all over the world 🥳🤩</p>
+                    <p>INTERNATIONAL YOUTH BIOLOGY OLYMPIAD 2024 🤩‼️</p>
                     <br></br>
-                    <p>YOUTH INTERNATIONAL SCIENCE FAIR 2024</p>
-                    <p>-------------------------------------</p>
-                    <p>Hybrid competition 🎉🤗</p>
-                    <p>Let's join us and enjoy the crowd on:</p>
+                    <p>
+                      registration is now open... for Senior high school and
+                      University 🤩
+                    </p>
                     <br></br>
                     <ul>
                       <li>
-                        <strong>📍Registration Deadline:</strong>{' '}
-                        January 20, 2024
+                        <strong>📍Registration Deadline:</strong> April 1,
+                        2024
                       </li>
                       <li>
-                        <strong>📍Submission Deadline: </strong>{' '}
-                        January 27, 2024
+                        <strong>📍Delivery Of Competition Rules: </strong> April 18,
+                        2024
                       </li>
                       <li>
-                        <strong>📍Payment Deadline: </strong> January
-                        27, 2024
+                        <strong>📍Payment Deadline: </strong> April 5, 2024
                       </li>
                       <li>
-                        <strong>📍Event Date: </strong> February 28 -
-                        March 4, 2024
-                      </li>
-                      <li>
-                        <strong>📍Venue: </strong> Malang Creative
-                        Center, Malang City, East Java
+                        <strong>📍Event Date: </strong> April 22 - May 3,
+                        2024
                       </li>
                     </ul>
                     <br></br>
-                    <p>
-                      So wait no more, Make sure you and your team to
-                      join this event!
-                    </p>
+                    <p>registration now 🤩‼️‼️</p>
                     <p>
                       📱Register via:
-                      <a href="https://yisf.or.id/" target="_blank" >
-                        yisf.or.id
+                      <a href="https://www.iybo-iysa.or.id/" target="_blank">
+                      iybo-iysa.or.id
                       </a>
                     </p>
-                    <p>See you in Malang, Indonesia🙋‍♂️</p>
+                    <p>registration now 🤩‼️‼️</p>
+                    <p>join us 🥳</p>
                     <a
                       className="btn btn-primary mb-4"
                       href={EventPosterDetail6.LinkRegist}
@@ -100,13 +84,8 @@ function EventPoster6() {
                       Registration Form
                     </a>
                     <br></br>
-                    <p>
-                    Get the Guidebook on the Official YISF Website ‼️
-                    </p>
                     <br />
-                    <p className="hastag">
-                      {EventPosterDetail6.Hastag}
-                    </p>
+                    <p className="hastag">{EventPosterDetail6.Hastag}</p>
                   </div>
                   <div className="colom-right col-md-4 text-center text-md-start ">
                     <a className="btn btn-primary shadow mt-2">
@@ -117,9 +96,7 @@ function EventPoster6() {
                     <h4 className="fw-bolder">Date and Time</h4>
                     <p>{EventPosterDetail6.DateAdTime}</p>
                     <br />
-                    <h4 className="fw-bolder">
-                      Registration End Date
-                    </h4>
+                    <h4 className="fw-bolder">Registration End Date</h4>
                     <p>{EventPosterDetail6.RegistEndDate}</p>
                     <br />
                     <h4 className="fw-bolder">Location</h4>
@@ -132,9 +109,7 @@ function EventPoster6() {
                     <p>{EventPosterDetail6.EventCategory}</p>
                     <br />
                     <div className="event-share">
-                      <h4 className="fw-bolder">
-                        Share With Friends
-                      </h4>
+                      <h4 className="fw-bolder">Share With Friends</h4>
                       <a
                         href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
                           window.location.href
@@ -144,7 +119,7 @@ function EventPoster6() {
                       >
                         <FontAwesomeIcon
                           icon={faSquareFacebook}
-                          style={{ color: '#1b56bb' }}
+                          style={{ color: "#1b56bb" }}
                           className="event-share-logo"
                         />
                       </a>
@@ -157,7 +132,7 @@ function EventPoster6() {
                       >
                         <FontAwesomeIcon
                           icon={faSquareTwitter}
-                          style={{ color: '#0b8ee0' }}
+                          style={{ color: "#0b8ee0" }}
                           className="event-share-logo"
                         />
                       </a>
@@ -170,7 +145,7 @@ function EventPoster6() {
                       >
                         <FontAwesomeIcon
                           icon={faLinkedin}
-                          style={{ color: '#16b7df' }}
+                          style={{ color: "#16b7df" }}
                           className="event-share-logo"
                         />
                       </a>
@@ -183,7 +158,7 @@ function EventPoster6() {
                       >
                         <FontAwesomeIcon
                           icon={faSquarePinterest}
-                          style={{ color: '#d30909' }}
+                          style={{ color: "#d30909" }}
                           className="event-share-logo"
                         />
                       </a>
@@ -196,16 +171,14 @@ function EventPoster6() {
                     >
                       <FontAwesomeIcon
                         icon={showContent ? faMinus : faPlus}
-                        style={{ color: '#1164e8' }}
+                        style={{ color: "#1164e8" }}
                       />
                       <span className="ms-2">Venue</span>
                     </h1>
                     {showContent && (
                       <div className="row event-venue">
                         <div className="event-venue-left col-3">
-                          <img
-                            src={EventPosterDetail6.ImageVeneu}
-                          ></img>
+                          <img src={EventPosterDetail6.ImageVeneu}></img>
                         </div>
                         <div className="event-venue-right col-8 mt-auto mb-auto">
                           <a
@@ -215,7 +188,7 @@ function EventPoster6() {
                           >
                             <FontAwesomeIcon
                               icon={faLocationDot}
-                              style={{ color: '#1164e8' }}
+                              style={{ color: "#1164e8" }}
                             />
                             {EventPosterDetail6.NameLocation}
                           </a>

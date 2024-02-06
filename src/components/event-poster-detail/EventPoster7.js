@@ -42,43 +42,30 @@ function EventPoster7() {
                     <h1 className="fw-bolder">
                       {EventPosterDetail7.title}
                     </h1>
-                    <p>‼️YNSF 2024‼️🎉</p>
+                    <p>Hallo hai Peneliti belia 🥳</p>
+                    <p>NATIONAL YOUTH BIOLOGY OLYMPIAD 2024 🤩‼️</p>
                     <p>
-                      Pada tahun 2024 YNSF akan diselenggarakan di
-                      Malang Jawa Timur, Indonesia 👏👏
+                      sudah buka pendaftaran nih.. Untuk tingkat Sekolah
+                      Menengah Atas dan Universitas 🤩
                     </p>
                     <br></br>
-                    <p>
-                      IYSA bekerja sama dengan Fakultas Teknik
-                      Universitas Diponegoro akan menyelenggarakan :
-                    </p>
-                    <br></br>
-                    <p>YOUTH NATIONAL SCIENCE FAIR 2024</p>
-                    <br></br>
-                    <p>Online & Offline Kompetisi 🎉🤗</p>
-                    <p>Yuk cek tanggalnya 👇</p>
+                    <p>Catat Tanggalnya!!!</p>
                     <br></br>
                     <ul>
                       <li>
-                        <strong>📍Batas Pendaftaran: </strong>
-                         20 Januari 2024
+                        <strong>📍 Batas Waktu Pendaftaran:</strong> 1 April,
+                        2024
                       </li>
                       <li>
-                        <strong>
-                          📍Batas Waktu Pengiriman Berkas: </strong>
-                         27 Januari 2024
+                        <strong>📍 Pengirim Aturan Lomba:</strong> 18 April,
+                        2024
                       </li>
                       <li>
-                        <strong>📍Batas Waktu Pembayaran: </strong>  27
-                        Januari 2024
+                        <strong>📍 Batas Waktu Pembayaran:</strong> 5 April, 2024
                       </li>
                       <li>
-                        <strong>📍Tanggal Acara: </strong> 28 Februari
-                        - 4 Maret 2024
-                      </li>
-                      <li>
-                        <strong>📍Tempat: </strong> Malang Creative
-                        Center, Kota Malang, Jawa Timur
+                        <strong>📍 Tanggal Acara:</strong> 22 April - 3 May,
+                        2024
                       </li>
                     </ul>
                     <br></br>
@@ -87,12 +74,11 @@ function EventPoster7() {
                       event ini!
                     </p>
                     <p>
-                      📱Register via:
-                      <a href="https://ynsf.or.id/" target="_blank">
-                        ynsf.or.id
+                      📱Daftar Melalui:
+                      <a href="https://www.nybo-iysa.or.id/" target="_blank">
+                      nybo-iysa.or.id
                       </a>
                     </p>
-                    <p>Sampai jumpa di Malang, Indonesia🙋‍♂️</p>
                     <a
                       className="btn btn-primary mb-4"
                       href={EventPosterDetail7.LinkRegist}
@@ -100,10 +86,6 @@ function EventPoster7() {
                     >
                       Registration Form
                     </a>
-                    <br></br>
-                    <p>
-                      Dapatkan Buku Panduan di Website Official YNSF ‼️
-                    </p>
                     <br />
                     <p className="hastag">
                       {EventPosterDetail7.Hastag}
