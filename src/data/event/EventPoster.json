@@ -10,15 +10,6 @@
       "link": "/EventPage1"
     },
     {
-      "id": 2,
-      "image": "./assets/images/poster/lktin.WebP",
-      "title": "The 3rd LKTIN Smart Researcher (LKTIN) 2024",
-      "level": "Nasional",
-      "location": "Online",
-      "date": "2 February - 3 Maret 2024",
-      "link": "/EventPage3"
-    },
-    {
       "id": 3,
       "image": "./assets/images/poster/miix.WebP",
       "title": "Malaysia Invention & Innovation Expo (MIIX) 2024",
