@@ -40,7 +40,7 @@ function EventPoster6() {
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
                     <h1 className="fw-bolder">{EventPosterDetail6.title}</h1>
-                    <p>IYBO 2024‼️</p>
+                    <p>IYBO 2024!!!</p>
                     <p>Hello young researchers all over the world 🥳🤩</p>
                     <p>INTERNATIONAL YOUTH BIOLOGY OLYMPIAD 2024 🤩‼️</p>
                     <br></br>
