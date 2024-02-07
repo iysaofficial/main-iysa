@@ -18,7 +18,7 @@ const CurationLKTINComp = () => {
                     </a>
                 </div>
 
-                <div className="col-lg-4 col-md-6 col-sm-12">
+                {/* <div className="col-lg-4 col-md-6 col-sm-12">
                     <a href="https://drive.google.com/drive/folders/116iUwWOIHdVH1IgF6Z7ckDvc8CkYzoth" target="_blank">
                         <div className="box">        
                             <div className="content">
@@ -26,7 +26,7 @@ const CurationLKTINComp = () => {
                             </div>
                         </div>
                     </a>
-                </div>  
+                </div>   */}
 
             </div>
         </div>
