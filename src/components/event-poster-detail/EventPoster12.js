@@ -1,23 +1,23 @@
 // Import CSS
-import '../../css/event/eventPoster.css';
+import "../../css/event/eventPoster.css";
 
 // Import FontAwesome
-import React, { useState } from 'react';
+import React, { useState } from "react";
 import {
   faLocationDot,
   faPlus,
   faMinus,
-} from '@fortawesome/free-solid-svg-icons';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+} from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faSquareFacebook,
   faSquareTwitter,
   faLinkedin,
   faSquarePinterest,
-} from '@fortawesome/free-brands-svg-icons';
+} from "@fortawesome/free-brands-svg-icons";
 
 // Import Data
-import EventPosterDetail from '../../data/event/EventPosterDetail.json';
+import EventPosterDetail from "../../data/event/EventPosterDetail.json";
 
 function EventPoster12() {
   const [showContent, setShowContent] = useState(false);
@@ -39,38 +39,46 @@ function EventPoster12() {
                 <br />
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
-                    <h1 className="fw-bolder">
-                      {EventPosterDetail12.title}
-                    </h1>
+                    <h1 className="fw-bolder">{EventPosterDetail12.title}</h1>
                     <br></br>
-                    <p>Offline Competition Only 💥</p>
+                    <p>NICYMS 2024 🥳</p>
                     <p>
-                      Peneliti Belia, IYSA punya event afiliasi nih,
-                      bertempat di Princess Ubolratanarajakanya's
-                      College Phatthalung, Thailand 👏
+                      NATIONAL INVENTION COMPETITION FOR YOUNG MOSLEM SCIENTISTS
                     </p>
                     <br></br>
                     <p>
-                    Yuk daftar
+                      Tahun ini merupakan tahun ke-3 IYSA menyelenggarakan event
+                      NICYMS secara hybrid (online dan offline). Dan event ini
+                      memiliki kategori baru lohh💥
                     </p>
+                    <p>Tahun ini IYSA bekerjasama dengan Universitas Komputer Indonesia (UNIKOM) Bandung👏🏻👏🏻</p>
+                    <br></br>
+                    <p>Catat tanggalnya 👇🏻</p>
                     <br></br>
                     <ul>
                       <li>
-                        <strong>Registration Deadline:</strong>{' '}
-                        January 13, 2024
+                        <strong>Batas Pendaftaran: </strong> 8 Juli 2024
                       </li>
                       <li>
-                        <strong>Payment Deadline: </strong> January 15, 2024
+                        <strong>Batas Waktu Pembayaran:  </strong> 14 Juli 2024
                       </li>
                       <li>
-                        <strong>Event Date:</strong> February 23 - 26,
-                        2024
+                        <strong>Tanggal Acara:</strong> 12-15 Agustus 2024
                       </li>
                       <li>
-                      <strong>Document Requirements Deadline:</strong> January 15,
-                        2024
+                        <strong>Tempat :</strong> Universitas Komputer Indonesia (UNIKOM) Bandung
                       </li>
                     </ul>
+                    <br></br>
+                    <p>Register via: </p>
+                    <a href="https://www.iicyms.or.id/NICYMS.html" target="_blank">
+                      📲 nicym.or.id
+                    </a>
+                    <br></br>
+                    
+                    <br></br>
+                    <p>See you in Bandung,</p>
+                    <p>West Java 🤗🥳</p>
                     <br></br>
                     <a
                       className="btn btn-primary mb-4"
@@ -81,9 +89,7 @@ function EventPoster12() {
                     </a>
                     <br></br>
                     <br />
-                    <p className="hastag">
-                      {EventPosterDetail12.Hastag}
-                    </p>
+                    <p className="hastag">{EventPosterDetail12.Hastag}</p>
                   </div>
                   <div className="colom-right col-md-4 text-center text-md-start ">
                     <a className="btn btn-primary shadow mt-2">
@@ -94,9 +100,7 @@ function EventPoster12() {
                     <h4 className="fw-bolder">Date and Time</h4>
                     <p>{EventPosterDetail12.DateAdTime}</p>
                     <br />
-                    <h4 className="fw-bolder">
-                      Registration End Date
-                    </h4>
+                    <h4 className="fw-bolder">Registration End Date</h4>
                     <p>{EventPosterDetail12.RegistEndDate}</p>
                     <br />
                     <h4 className="fw-bolder">Location</h4>
@@ -109,9 +113,7 @@ function EventPoster12() {
                     <p>{EventPosterDetail12.EventCategory}</p>
                     <br />
                     <div className="event-share">
-                      <h4 className="fw-bolder">
-                        Share With Friends
-                      </h4>
+                      <h4 className="fw-bolder">Share With Friends</h4>
                       <a
                         href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
                           window.location.href
@@ -121,7 +123,7 @@ function EventPoster12() {
                       >
                         <FontAwesomeIcon
                           icon={faSquareFacebook}
-                          style={{ color: '#1b56bb' }}
+                          style={{ color: "#1b56bb" }}
                           className="event-share-logo"
                         />
                       </a>
@@ -134,7 +136,7 @@ function EventPoster12() {
                       >
                         <FontAwesomeIcon
                           icon={faSquareTwitter}
-                          style={{ color: '#0b8ee0' }}
+                          style={{ color: "#0b8ee0" }}
                           className="event-share-logo"
                         />
                       </a>
@@ -147,7 +149,7 @@ function EventPoster12() {
                       >
                         <FontAwesomeIcon
                           icon={faLinkedin}
-                          style={{ color: '#16b7df' }}
+                          style={{ color: "#16b7df" }}
                           className="event-share-logo"
                         />
                       </a>
@@ -160,7 +162,7 @@ function EventPoster12() {
                       >
                         <FontAwesomeIcon
                           icon={faSquarePinterest}
-                          style={{ color: '#d30909' }}
+                          style={{ color: "#d30909" }}
                           className="event-share-logo"
                         />
                       </a>
@@ -173,16 +175,14 @@ function EventPoster12() {
                     >
                       <FontAwesomeIcon
                         icon={showContent ? faMinus : faPlus}
-                        style={{ color: '#1164e8' }}
+                        style={{ color: "#1164e8" }}
                       />
                       <span className="ms-2">Venue</span>
                     </h1>
                     {showContent && (
                       <div className="row event-venue">
                         <div className="event-venue-left col-3">
-                          <img
-                            src={EventPosterDetail12.ImageVeneu}
-                          ></img>
+                          <img src={EventPosterDetail12.ImageVeneu}></img>
                         </div>
                         <div className="event-venue-right col-8 mt-auto mb-auto">
                           <a
@@ -192,7 +192,7 @@ function EventPoster12() {
                           >
                             <FontAwesomeIcon
                               icon={faLocationDot}
-                              style={{ color: '#1164e8' }}
+                              style={{ color: "#1164e8" }}
                             />
                             {EventPosterDetail12.NameLocation}
                           </a>
