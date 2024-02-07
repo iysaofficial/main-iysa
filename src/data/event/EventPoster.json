@@ -110,5 +110,15 @@
       "date": "August 30 - September 2, 2024",
       "link": "/EventPage2"
     }
+    ,
+    {
+      "id": 13,
+      "image": "./assets/images/poster/ospc.WebP",
+      "title": "Online Science Project Competition (OPSC) 2024",
+      "level": "Nasional",
+      "location": "Online",
+      "date": "22 Maret - 2 Mei, 2024",
+      "link": "/EventPage5"
+    }
   ]
 }

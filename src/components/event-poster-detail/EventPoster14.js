@@ -19,7 +19,7 @@ import {
 // Import Data
 import EventPosterDetail from "../../data/event/EventPosterDetail.json";
 
-function EventPoster5() {
+function EventPoster13() {
   const [showContent, setShowContent] = useState(false);
 
   const toggleContent = () => {
@@ -29,65 +29,73 @@ function EventPoster5() {
     <section>
       <div id="main-event" className="container">
         <div className="row event-wrapper ">
-          {EventPosterDetail.event5.map((EventPosterDetail5) => {
+          {EventPosterDetail.event13.map((EventPosterDetail13) => {
             return (
               <section>
                 <div className="event-poster col-12 text-center">
-                  <img src={EventPosterDetail5.image}></img>
+                  <img src={EventPosterDetail13.image}></img>
                 </div>
                 <br />
                 <br />
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
-                    <h1 className="fw-bolder">{EventPosterDetail5.title}</h1>
-                    <p>Online Science Project Competition 2024🎉</p>
-                    <p>Tingkat Nasional</p>
+                    <h1 className="fw-bolder">{EventPosterDetail13.title}</h1>
+                    <br></br>
+                    <p>4th GloCoLiS 2024</p>
+                    <br></br>
+                    <p>Hybrid Competition 💥</p>
+                    <br></br>
                     <p>
-                      Halo pelajar Indonesia, OSPC yang ke-6 hadir lagi nih,
-                      kalian yang mau ikut kompetisi secara online bisa daftar
-                      event ini 👏
+                      IYSA will hold an international event specializing in the
+                      Life Science category, namely Global Competition for Life
+                      Sciences (GloCoLiS) 2024. 👏🏻👏🏻
                     </p>
                     <br></br>
-                    <p>Gimana cara daftarnya?</p>
-                    <p></p>
+                    <p>
+                      This year the GloCoLiS will take place online and offline
+                      in Surabaya...
+                    </p>
                     <br></br>
                     <ul>
                       <li>
-                        <strong>
-                          📍 Pendaftaran dan Pengumpulan Extended Abstract:
-                        </strong>{" "}
-                        15 Maret 2024
+                        <strong>📌 Registration Deadline : </strong> July 28th,
+                        2024
                       </li>
                       <li>
-                        <strong>
-                          📍 Pengumpulan Berkas (Full Paper) & Pembayaran:
-                        </strong>{" "}
-                        22 Maret 2024
+                        <strong>📌 Payment & Submission Deadline : </strong>{" "}
+                        Agustus 2nd, 2024
                       </li>
                       <li>
-                        <strong>📍 Pengumuman Pemenang:</strong> 2 Mei 2024
+                        <strong>📌 Event Date : </strong> Agustus 30th -
+                        September 2nd, 2024
                       </li>
                     </ul>
+                    <p>
+                      So wait no more, Make sure you and your team join this
+                      event!
+                    </p>
                     <br></br>
-
-                    <p>Daftar Bisa Melalui‼️‼️</p>
                     <p>
                       📱Register via:
-                      <a href="https://www.ospc.or.id/" target="_blank">
-                       ospc.or.id
+                      <a href="https://glocolis.or.id/" target="_blank" >
+                        glocolis.or.id
                       </a>
                     </p>
-
+                    <p>
+                    Registration Here: 
+                    </p>
+                    <br></br>
                     <a
                       className="btn btn-primary mb-4"
-                      href={EventPosterDetail5.LinkRegist}
+                      href={EventPosterDetail13.LinkRegist}
                       target="-blank"
                     >
                       Registration Form
                     </a>
-                    <br />
+                    <p>See you 🙋‍♀️🙋‍♂️</p>
                     <br></br>
-                    <p className="hastag">{EventPosterDetail5.Hastag}</p>
+                    <br />
+                    <p className="hastag">{EventPosterDetail13.Hastag}</p>
                   </div>
                   <div className="colom-right col-md-4 text-center text-md-start ">
                     <a className="btn btn-primary shadow mt-2">
@@ -96,19 +104,19 @@ function EventPoster5() {
                     <br />
                     <br />
                     <h4 className="fw-bolder">Date and Time</h4>
-                    <p>{EventPosterDetail5.DateAdTime}</p>
+                    <p>{EventPosterDetail13.DateAdTime}</p>
                     <br />
                     <h4 className="fw-bolder">Registration End Date</h4>
-                    <p>{EventPosterDetail5.RegistEndDate}</p>
+                    <p>{EventPosterDetail13.RegistEndDate}</p>
                     <br />
                     <h4 className="fw-bolder">Location</h4>
-                    <p>{EventPosterDetail5.Location}</p>
+                    <p>{EventPosterDetail13.Location}</p>
                     <br />
                     <h4 className="fw-bolder">Event Types</h4>
-                    <p>{EventPosterDetail5.EventType}</p>
+                    <p>{EventPosterDetail13.EventType}</p>
                     <br />
                     <h4 className="fw-bolder">Event Category</h4>
-                    <p>{EventPosterDetail5.EventCategory}</p>
+                    <p>{EventPosterDetail13.EventCategory}</p>
                     <br />
                     <div className="event-share">
                       <h4 className="fw-bolder">Share With Friends</h4>
@@ -180,19 +188,19 @@ function EventPoster5() {
                     {showContent && (
                       <div className="row event-venue">
                         <div className="event-venue-left col-3">
-                          <img src={EventPosterDetail5.ImageVeneu}></img>
+                          <img src={EventPosterDetail13.ImageVeneu}></img>
                         </div>
                         <div className="event-venue-right col-8 mt-auto mb-auto">
                           <a
                             className="ms-3 fw-bolder"
-                            href={EventPosterDetail5.LinkGmaps}
+                            href={EventPosterDetail13.LinkGmaps}
                             target="-blink"
                           >
                             <FontAwesomeIcon
                               icon={faLocationDot}
                               style={{ color: "#1164e8" }}
                             />
-                            {EventPosterDetail5.NameLocation}
+                            {EventPosterDetail13.NameLocation}
                           </a>
                           <br />
                         </div>
@@ -210,4 +218,4 @@ function EventPoster5() {
   );
 }
 
-export default EventPoster5;
+export default EventPoster13;

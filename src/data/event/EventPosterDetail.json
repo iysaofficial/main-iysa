@@ -70,18 +70,18 @@
   "event5": [
     {
       "id": 1,
-      "image": "./assets/images/poster/iymia.WebP",
-      "title": "International Young Moslem Inventor Award (IYMIA) 2024",
-      "LinkRegist": "https://bit.ly/IYMIA-2024",
-      "Hastag": "#iysaevent #iysanewevent #bogor #iymia2024 #event2024 #penelitibelia #youngscientist #iysa #onlineevent #offlineevent",
-      "DateAdTime": " 11 - 14 January 2024",
-      "RegistEndDate": "15 December 2023",
-      "Location": "Bogor",
-      "EventType": "Internasional",
+      "image": "./assets/images/poster/ospc.WebP",
+      "title": "Online Science Project Competition (OPSC) 2024",
+      "LinkRegist": "https://registasi-ospc-2024.vercel.app/",
+      "Hastag": "",
+      "DateAdTime": "22 Maret - 2 Mei, 2024",
+      "RegistEndDate": "15 Maret 2024",
+      "Location": "Online",
+      "EventType": "Nasional",
       "EventCategory": "IYSA Event",
-      "ImageVeneu": "./assets/images/venue/ipb.WebP",
-      "LinkGmaps": "https://maps.app.goo.gl/PjsUNG5Y5yBnkaVa7",
-      "NameLocation": "Institut Pertanian Bogor, IPB Campus Dramaga"
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
     }
   ],
   "event6": [
