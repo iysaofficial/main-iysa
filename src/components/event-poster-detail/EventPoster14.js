@@ -62,10 +62,6 @@ function EventPoster14() {
                         <strong>📌 Event Date : </strong> April 4th - 6th, 2024
                       </li>
                     </ul>
-                    {/* <p>
-                      So wait no more, Make sure you and your team join this
-                      event!
-                    </p> */}
                     <br></br>
                     {/* <p>
                       📱Register via:
