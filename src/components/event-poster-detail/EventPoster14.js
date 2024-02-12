@@ -19,7 +19,7 @@ import {
 // Import Data
 import EventPosterDetail from "../../data/event/EventPosterDetail.json";
 
-function EventPoster13() {
+function EventPoster14() {
   const [showContent, setShowContent] = useState(false);
 
   const toggleContent = () => {
@@ -29,73 +29,64 @@ function EventPoster13() {
     <section>
       <div id="main-event" className="container">
         <div className="row event-wrapper ">
-          {EventPosterDetail.event13.map((EventPosterDetail13) => {
+          {EventPosterDetail.event14.map((EventPosterDetail14) => {
             return (
               <section>
                 <div className="event-poster col-12 text-center">
-                  <img src={EventPosterDetail13.image}></img>
+                  <img src={EventPosterDetail14.image}></img>
                 </div>
                 <br />
                 <br />
                 <div className="main-colom row col-12 mt-5 mb-5">
                   <div className="colom-left col-md-8  mt-2">
-                    <h1 className="fw-bolder">{EventPosterDetail13.title}</h1>
+                    <h1 className="fw-bolder">{EventPosterDetail14.title}</h1>
                     <br></br>
-                    <p>4th GloCoLiS 2024</p>
-                    <br></br>
-                    <p>Hybrid Competition 💥</p>
+                    <p>Online Competition</p>
+                    <p>Deva, Romania</p>
                     <br></br>
                     <p>
-                      IYSA will hold an international event specializing in the
-                      Life Science category, namely Global Competition for Life
-                      Sciences (GloCoLiS) 2024. 👏🏻👏🏻
+                    5th International Exhibition
                     </p>
-                    <br></br>
                     <p>
-                      This year the GloCoLiS will take place online and offline
-                      in Surabaya...
+                    INVENTCOR 2024, there is an IYSA affiliate online event, let's register now!!! 🔥
                     </p>
                     <br></br>
                     <ul>
                       <li>
-                        <strong>📌 Registration Deadline : </strong> July 28th,
-                        2024
+                        <strong>📌 Registration Deadline : </strong> February 19th, 2024
                       </li>
                       <li>
-                        <strong>📌 Payment & Submission Deadline : </strong>{" "}
-                        Agustus 2nd, 2024
+                        <strong>📌 Payment & Submission Deadline : </strong> February 23rd, 2024
                       </li>
                       <li>
-                        <strong>📌 Event Date : </strong> Agustus 30th -
-                        September 2nd, 2024
+                        <strong>📌 Event Date : </strong> April 4th - 6th, 2024
                       </li>
                     </ul>
-                    <p>
+                    {/* <p>
                       So wait no more, Make sure you and your team join this
                       event!
-                    </p>
+                    </p> */}
                     <br></br>
-                    <p>
+                    {/* <p>
                       📱Register via:
                       <a href="https://glocolis.or.id/" target="_blank" >
                         glocolis.or.id
                       </a>
-                    </p>
+                    </p> */}
                     <p>
                     Registration Here: 
                     </p>
-                    <br></br>
                     <a
                       className="btn btn-primary mb-4"
-                      href={EventPosterDetail13.LinkRegist}
+                      href={EventPosterDetail14.LinkRegist}
                       target="-blank"
                     >
                       Registration Form
                     </a>
-                    <p>See you 🙋‍♀️🙋‍♂️</p>
+                    {/* <p>See you 🙋‍♀️🙋‍♂️</p> */}
                     <br></br>
                     <br />
-                    <p className="hastag">{EventPosterDetail13.Hastag}</p>
+                    <p className="hastag">{EventPosterDetail14.Hastag}</p>
                   </div>
                   <div className="colom-right col-md-4 text-center text-md-start ">
                     <a className="btn btn-primary shadow mt-2">
@@ -104,19 +95,19 @@ function EventPoster13() {
                     <br />
                     <br />
                     <h4 className="fw-bolder">Date and Time</h4>
-                    <p>{EventPosterDetail13.DateAdTime}</p>
+                    <p>{EventPosterDetail14.DateAdTime}</p>
                     <br />
                     <h4 className="fw-bolder">Registration End Date</h4>
-                    <p>{EventPosterDetail13.RegistEndDate}</p>
+                    <p>{EventPosterDetail14.RegistEndDate}</p>
                     <br />
                     <h4 className="fw-bolder">Location</h4>
-                    <p>{EventPosterDetail13.Location}</p>
+                    <p>{EventPosterDetail14.Location}</p>
                     <br />
                     <h4 className="fw-bolder">Event Types</h4>
-                    <p>{EventPosterDetail13.EventType}</p>
+                    <p>{EventPosterDetail14.EventType}</p>
                     <br />
                     <h4 className="fw-bolder">Event Category</h4>
-                    <p>{EventPosterDetail13.EventCategory}</p>
+                    <p>{EventPosterDetail14.EventCategory}</p>
                     <br />
                     <div className="event-share">
                       <h4 className="fw-bolder">Share With Friends</h4>
@@ -168,7 +159,7 @@ function EventPoster13() {
                       >
                         <FontAwesomeIcon
                           icon={faSquarePinterest}
-                          style={{ color: "#d30909" }}
+                          style={{ color: "#d40909" }}
                           className="event-share-logo"
                         />
                       </a>
@@ -187,20 +178,20 @@ function EventPoster13() {
                     </h1>
                     {showContent && (
                       <div className="row event-venue">
-                        <div className="event-venue-left col-3">
-                          <img src={EventPosterDetail13.ImageVeneu}></img>
+                        <div className="event-venue-left col-4">
+                          <img src={EventPosterDetail14.ImageVeneu}></img>
                         </div>
                         <div className="event-venue-right col-8 mt-auto mb-auto">
                           <a
-                            className="ms-3 fw-bolder"
-                            href={EventPosterDetail13.LinkGmaps}
+                            className="ms-4 fw-bolder"
+                            href={EventPosterDetail14.LinkGmaps}
                             target="-blink"
                           >
                             <FontAwesomeIcon
                               icon={faLocationDot}
                               style={{ color: "#1164e8" }}
                             />
-                            {EventPosterDetail13.NameLocation}
+                            {EventPosterDetail14.NameLocation}
                           </a>
                           <br />
                         </div>
@@ -218,4 +209,4 @@ function EventPoster13() {
   );
 }
 
-export default EventPoster13;
+export default EventPoster14;

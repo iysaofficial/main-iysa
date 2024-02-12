@@ -120,5 +120,15 @@
       "date": "22 Maret - 2 Mei, 2024",
       "link": "/EventPage5"
     }
+    ,
+    {
+      "id": 14,
+      "image": "./assets/images/poster/inventcor.WebP",
+      "title": "5th International Exhibition INVENTCOR 2024",
+      "level": "International Exhibition",
+      "location": "Online",
+      "date": "April 4th - 6th, 2024",
+      "link": "/EventPage14"
+    }
   ]
 }
