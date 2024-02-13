@@ -65,10 +65,10 @@ function EventPoster15() {
                     <br></br>
                     <p>Register via: </p>
                     <a
-                      href="https://www.iicyms.or.id/NICYMS.html"
+                      href="https://www.iif-nasional.or.id/"
                       target="_blank"
                     >
-                      📲 nicym.or.id
+                      📲 iif-nasional.or.id
                     </a>
                     <br></br>
                     <p>Kalian bisa cek Guide book di link web nya juga ya👆</p>
