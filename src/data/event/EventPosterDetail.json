@@ -236,5 +236,22 @@
       "LinkGmaps": "",
       "NameLocation": ""
     }
+  ],
+  "event15": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/iifnas.WebP",
+      "title": "IIF ke-2 NASIONAL 2024",
+      "LinkRegist": "https://registrasi-iifnasional-2024.vercel.app/",
+      "Hastag": "#iifnasional #iif2024 #daring #online #iysaevent2024 #iysaofficial",
+      "DateAdTime": "29 Maret - 31 Maret, 2024",
+      "RegistEndDate": "15 Maret, 2024",
+      "Location": "Online",
+      "EventType": "Nasional",
+      "EventCategory": "IYSA Event",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
   ]
 }

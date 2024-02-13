@@ -129,6 +129,15 @@
       "location": "Online",
       "date": "April 4th - 6th, 2024",
       "link": "/EventPage14"
+    },
+    {
+      "id": 15,
+      "image": "./assets/images/poster/iifnas.WebP",
+      "title": "IIF ke-2 NASIONAL 2024",
+      "level": "Nasional",
+      "location": "Online",
+      "date": "29 Maret - 31 Maret, 2024",
+      "link": "/EventPage15"
     }
   ]
 }
