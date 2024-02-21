@@ -253,5 +253,22 @@
       "LinkGmaps": "",
       "NameLocation": ""
     }
+  ],
+  "event16": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/wecc.WebP",
+      "title": "World Economics Challenge and Competition (WECC) 2024",
+      "LinkRegist": "https://registrasi-wecc-2024.vercel.app/",
+      "Hastag": "#iysa2024 #event2024 #iysaevent #i3L #wecc #2024 #jakarta #indonesia #infolomba #wecc2024",
+      "DateAdTime": "July 27th - 31st, 2024",
+      "RegistEndDate": "June 27th, 2024",
+      "Location": "Offline",
+      "EventType": "International",
+      "EventCategory": "IYSA Event",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
   ]
 }

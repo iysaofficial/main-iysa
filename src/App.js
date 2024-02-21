@@ -84,6 +84,7 @@ import EventPage12 from "./pages/event/EventPage12";
 import EventPage13 from "./pages/event/EventPage13";
 import EventPage14 from "./pages/event/EventPage14";
 import EventPage15 from "./pages/event/EventPage15";
+import EventPage16 from "./pages/event/EventPage16";
 
 function App() {
   return (
@@ -143,6 +144,7 @@ function App() {
             <Route path="/EventPage13" element={<EventPage13 />} />
             <Route path="/EventPage14" element={<EventPage14 />} />
             <Route path="/EventPage15" element={<EventPage15 />} />
+            <Route path="/EventPage16" element={<EventPage16 />} />
 
             {/* Newsletter */}
             <Route path="/NewsletterPage" element={<NewsletterPage />} />
