@@ -86,15 +86,17 @@ const CompanyProfileComp = () => {
               In its journey, IYSA has had several Competition Programs in the
               field of invention and innovation, including :
             </h5>
-            <p>
-              Event Regional dan Nasional : LKTIN, OSPC, YNSF, NICYMS, IIF,
-              NRTC, NASPO
+            
+              <span>Event Regional dan Nasional : </span> <p className="fw-bold">LKTIN, OSPC, YNSF, NICYMS, IIF,
+              NRTC, NASPO, JNSF
             </p>
-            <p>
-              Event Internasional : IYMIA, GYIIF, AISEEF, YISF, GloCoLiS, IYBC,
-              I3O, IICYMS, WSEEC, WYIIA, WICE, IIIEX, IRTC, ISIF, I2ASPO
+            
+            <span>Event Internasional :</span> <p className="fw-bold">IYMIA, GYIIF, AISEEF, YISF, GloCoLiS, IYBC,
+              I3O, IICYMS, WSEEC, WYIIA, WICE, IIIEX, IRTC, ISIF, I2ASPO, JISF, WECC
             </p>
-            <p>IYSA Olympiad : IYMO, IYEO, IYBO</p>
+            <span>IYSA Olympiad Tingkat Nasional :</span><p className="fw-bold"> NYMO, NYEO, NYBO, NYCO</p>
+            <span>IYSA Olympiad Tingkat International :</span> <p className="fw-bold">IYMO, IYEO, IYBO, IYCO</p>
+            
             <br></br>
             <h5>
               In addition to the Competition program, IYSA also has a

@@ -5,7 +5,7 @@ import DataLetter from "../../data/newsletter/NewsletterData.json";
 
 const NewsletterComp = () => {
   const [selectedFilter, setSelectedFilter] = useState("all"); // Menambahkan state untuk menyimpan filter yang dipilih
- 
+
   // Fungsi untuk mengubah filter yang dipilih
   const handleFilterChange = (filter) => {
     setSelectedFilter(filter);
@@ -16,12 +16,19 @@ const NewsletterComp = () => {
       <div className="container">
         <div className="newsletter-wrapper">
           <div className="controls">
+          <button
+              type="button"
+              className="control"
+              onClick={() => handleFilterChange("all")}
+            >
+              ALL
+            </button>
             <button
               type="button"
               className="control"
-              onClick={() => handleFilterChange("duapuluhtiga")}
+              onClick={() => handleFilterChange("duapuluhempat")}
             >
-              2022
+              2024
             </button>
             <button
               type="button"
@@ -33,12 +40,12 @@ const NewsletterComp = () => {
             <button
               type="button"
               className="control"
-              onClick={() => handleFilterChange("duapuluhempat")}
+              onClick={() => handleFilterChange("duapuluhtiga")}
             >
-              2024
+              2022
             </button>
           </div>
-          {selectedFilter !== "duapuluhtiga" && (
+          {selectedFilter === "all" && (
             <>
               <div className="row">
                 {DataLetter.duapuluhtiga.map((Letter) => {
@@ -59,10 +66,7 @@ const NewsletterComp = () => {
                   );
                 })}
               </div>
-            </>
-          )}
-          {selectedFilter !== "duapuluhdua" && (
-            <>
+
               <div className="row">
                 {DataLetter.duapuluhdua.map((Letter) => {
                   return (
@@ -82,10 +86,7 @@ const NewsletterComp = () => {
                   );
                 })}
               </div>
-            </>
-          )}
-          {selectedFilter !== "duapuluhempat" && (
-            <>
+
               <div className="row">
                 {DataLetter.duapuluhempat.map((Letter) => {
                   return (
@@ -106,6 +107,28 @@ const NewsletterComp = () => {
                 })}
               </div>
             </>
+          )}
+
+          {selectedFilter !== "all" && (
+            <div className="row">
+              {DataLetter[selectedFilter].map((Letter) => {
+                return (
+                  <div className="col-lg-3 col-md-6 col-sm-12">
+                    <div className="box mx-auto" key={Letter.id}>
+                      <div className="mx-auto text-center">
+                        <img
+                          className="newsletter-image img-fluid mx-auto"
+                          src={Letter.gambar}
+                        ></img>
+                        <div className="read-more-overlay">
+                          <a href={Letter.linkbtn}>Read More</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
           )}
         </div>
       </div>

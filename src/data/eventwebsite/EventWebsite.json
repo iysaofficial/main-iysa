@@ -125,6 +125,24 @@
       "WebsiteName": "OSPC",
       "EventType": "Nasional",
       "link": "https://ospc.or.id"
+    },
+    {
+      "Id": "22",
+      "WebsiteName": "JNSF",
+      "EventType": "Nasional",
+      "link": "https://jnsf.or.id"
+    },
+    {
+      "Id": "23",
+      "WebsiteName": "JISF",
+      "EventType": "International",
+      "link": "https://jisf.or.id"
+    },
+    {
+      "Id": "24",
+      "WebsiteName": "WECC",
+      "EventType": "International",
+      "link": "https://wecc.or.id"
     }
   ]
 }

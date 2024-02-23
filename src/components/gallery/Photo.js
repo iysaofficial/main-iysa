@@ -12,7 +12,7 @@ const Photo = () => {
 
         <div className="col-lg-4 col-md-6 col-sm-12">
             <a
-              href="https://drive.google.com/drive/folders/1v7k8qwGLENT3xXQHNN5yDR2dq6POKUaR?usp=sharing"
+              href="https://drive.google.com/drive/folders/1YgABahNuzqOOPmwssnd_9ht1Ogt8-qEG?usp=sharing"
               rel='noreferrer noopener'
               target="_blank"
             >

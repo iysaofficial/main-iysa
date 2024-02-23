@@ -99,6 +99,34 @@
       {
         
         "id": 1,
+        "title": "AFTER EVENT NASPO I2ASPO 2023",
+        "content": "",
+        "src": "https://www.youtube.com/embed/XbssrsmFnYg?si=ZyPrGBOpRfjDDxvL"
+      },
+      {
+        
+        "id": 1,
+        "title": "AFTER EVENT ISIF, IRTC NRTC, IIF 2023",
+        "content": "",
+        "src": "https://www.youtube.com/embed/9rTOH_jqUeY?si=yaINgTjbW5snfoO5"
+      },
+      {
+        
+        "id": 1,
+        "title": "AFTER EVENT WYIIA 2023",
+        "content": "",
+        "src": "https://www.youtube.com/embed/1FYlUmcgRYY?si=4BQQHzjTtbMkPUbq"
+      },
+      {
+        
+        "id": 1,
+        "title": "AFTER EVENT WICE 2023",
+        "content": "",
+        "src": "https://www.youtube.com/embed/s7J9RWf3GN4?si=7mCeeXJ_N048DcMl"
+      },
+      {
+        
+        "id": 1,
         "title": "AFTER EVENT IIIEX 2023",
         "content": "",
         "src": "https://www.youtube.com/embed/PQJ-_u1xyws?si=5n1-PpzQQwOnqSeM"
@@ -140,6 +168,23 @@
         "title": "AFTER EVENT IYBC, GLOCOLIS & OSPC 2023 ",
         "content": "",
         "src": "https://www.youtube.com/embed/B3Mvydb9eRo"
+      }
+
+    ],
+    "year2024": [
+      {
+        
+        "id": 1,
+        "title": "AFTER EVENT GYIIF & IYMIA 2024",
+        "content": "",
+        "src": "https://www.youtube.com/embed/KJOATDQofBI?si=LP7bc5wo8nxDV2A9"
+      },
+      {
+        
+        "id": 2,
+        "title": "AFTER EVENT AISEEF 2024",
+        "content": "",
+        "src": "https://www.youtube.com/embed/iUgvM_VA1U8?si=iANqLUBwSUNg23i7"
       }
 
     ]

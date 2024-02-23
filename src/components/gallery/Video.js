@@ -25,6 +25,13 @@ function Video() {
           <button
             type="button"
             className="control"
+            onClick={() => handleFilterChange("year2024")}
+          >
+            2024
+          </button>
+          <button
+            type="button"
+            className="control"
             onClick={() => handleFilterChange("year2023")}
           >
             2023
@@ -56,6 +63,26 @@ function Video() {
           {selectedFilter === "all" && (
             <>
               <div className="row">
+                {VideoData.year2024.map((video) => {
+                  return (
+                    <div
+                      className="col-md-6 col-lg-4 col-sm-12 text-center mb-4 mix year2023"
+                      key={video.id}
+                    >
+                      <p className="fw-bolder">{video.title}</p>
+                      <iframe
+                        width="auto"
+                        height="auto"
+                        src={video.src}
+                        frameBorder="0"
+                        allowFullScreen
+                      ></iframe>
+                    </div>
+                  );
+                })}
+              </div>
+
+              <div className="row">
                 {VideoData.year2023.map((video) => {
                   return (
                     <div
@@ -74,7 +101,7 @@ function Video() {
                   );
                 })}
               </div>
-              
+
               <div className="row">
                 {VideoData.year2022.map((video) => {
                   return (
@@ -94,7 +121,7 @@ function Video() {
                   );
                 })}
               </div>
-              
+
               <div className="row">
                 {VideoData.year2021.map((video) => {
                   return (
