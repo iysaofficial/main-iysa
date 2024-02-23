@@ -114,10 +114,7 @@ const Navigation = () => {
         <div className="menu-overlay"></div>
         <nav className="nav-menu">
           <div className="close-nav-menu">
-            {/* <img
-                src="./assets/images/logo/icons8-close.svg"
-                alt="close"
-              /> */}
+
             <FontAwesomeIcon icon={faXmark} />
           </div>
           <ul className="menu">
