@@ -65,12 +65,8 @@ function EventPoster18() {
                         <strong>📌 Event Date : </strong>July 9th - 11th, 2024
                       </li>
                     </ul>
+
                     {/* <p>
-                      So wait no more, Make sure you and your team join this
-                      event!
-                    </p>
-                    <br></br>
-                    <p>
                       Visit the website :
                       <a href="http://wecc.or.id/" target="_blank">
                         wecc.or.id
