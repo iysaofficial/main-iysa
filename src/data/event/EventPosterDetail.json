@@ -270,5 +270,73 @@
       "LinkGmaps": "",
       "NameLocation": ""
     }
+  ],
+  "event17": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/1d.WebP",
+      "title": "1idea1world INNOVATION DESIGN STARTUP COMPETITION 2024",
+      "LinkRegist": "https://bit.ly/1I1W2024_Registration_Form",
+      "Hastag": "#1idea1world #turki #iysaevent #iysaafiliasi",
+      "DateAdTime": "April 28th - 29th, 2024",
+      "RegistEndDate": "March 15th, 2024",
+      "Location": "Offline",
+      "EventType": "International",
+      "EventCategory": "IYSA Event Affiliation",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
+  ],
+  "event18": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/singa.WebP",
+      "title": "WorldInvent™ Singapore 2024",
+      "LinkRegist": "https://bit.ly/WoSG2024_Registration_Form",
+      "Hastag": "#wosg #singapur #iysaevent #iysaafiliasi #infolomba #iysa2024",
+      "DateAdTime": "July 9th - 11th, 2024",
+      "RegistEndDate": "May 15th, 2024",
+      "Location": "Offline",
+      "EventType": "International",
+      "EventCategory": "IYSA Event Affiliation",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
+  ],
+  "event19": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/iyco.WebP",
+      "title": "INTERNATIONAL YOUTH CHEMISTRY OLYMPIAD 2024 👏 !!",
+      "LinkRegist": "https://iyco-iysa.or.id ",
+      "Hastag": "",
+      "DateAdTime": "June 12th - June 27th, 2024",
+      "RegistEndDate": "May 22nd, 2024",
+      "Location": "Online",
+      "EventType": "International",
+      "EventCategory": "IYSA Event Olympiad",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
+  ],
+  "event20": [
+    {
+      "id": 1,
+      "image": "./assets/images/poster/nyco.WebP",
+      "title": "NATIONAL YOUTH CHEMISTRY OLYMPIAD 2024 👏 !!",
+      "LinkRegist": "https://nyco-iysa.or.id ",
+      "Hastag": "",
+      "DateAdTime": "12 Juni - 27 Juni, 2024",
+      "RegistEndDate": "22 Mei, 2024",
+      "Location": "Online",
+      "EventType": "Nasional",
+      "EventCategory": "IYSA Event Olympiad",
+      "ImageVeneu": "",
+      "LinkGmaps": "",
+      "NameLocation": ""
+    }
   ]
 }

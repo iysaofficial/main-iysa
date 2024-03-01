@@ -147,6 +147,42 @@
       "location": "Offline",
       "date": "July 27th - 31st, 2024",
       "link": "/EventPage16"
+    },
+    {
+      "id": 17,
+      "image": "./assets/images/poster/1d.WebP",
+      "title": "1idea1world INNOVATION DESIGN STARTUP COMPETITION 2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "April 28th - 29th, 2024",
+      "link": "/EventPage17"
+    },
+    {
+      "id": 18,
+      "image": "./assets/images/poster/singa.WebP",
+      "title": "WorldInvent™ Singapore 2024",
+      "level": "International",
+      "location": "Offline",
+      "date": "July 9th - 11th, 2024",
+      "link": "/EventPage18"
+    },
+    {
+      "id": 19,
+      "image": "./assets/images/poster/iyco.WebP",
+      "title": "INTERNATIONAL YOUTH CHEMISTRY OLYMPIAD 2024 👏 !!",
+      "level": "International",
+      "location": "Online",
+      "date": "Juni 12th - June 27th, 2024",
+      "link": "/EventPage19"
+    },
+    {
+      "id": 20,
+      "image": "./assets/images/poster/nyco.WebP",
+      "title": "NATIONAL YOUTH CHEMISTRY OLYMPIAD 2024!! 👏",
+      "level": "Nasional",
+      "location": "Online",
+      "date": "Juni 12 - Juni 27, 2024",
+      "link": "/EventPage20"
     }
   ]
 }
