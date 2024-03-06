@@ -33,14 +33,14 @@ const NewsletterComp = () => {
             <button
               type="button"
               className="control"
-              onClick={() => handleFilterChange("duapuluhdua")}
+              onClick={() => handleFilterChange("duapuluhtiga")}
             >
               2023
             </button>
             <button
               type="button"
               className="control"
-              onClick={() => handleFilterChange("duapuluhtiga")}
+              onClick={() => handleFilterChange("duapuluhdua")}
             >
               2022
             </button>
