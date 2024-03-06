@@ -42,43 +42,41 @@ function EventPoster4() {
                     <h1 className="fw-bolder">
                       {EventPosterDetail4.title}
                     </h1>
-                    <p>Kompetisi Online di Malaysia🎉</p>
+                    <p>WorldInvent™ Singapore 2024</p>
                     <p>
-                      Malaysia Invention & Innovation Expo (MIIX) 2024
+                    Offline Competition On 9-11, July 2024 WorldInvent™ Singapore is back!
                     </p>
                     <br></br>
-                    <p>
-                      Buat kalian para pelajar di Indonesia, yuk
-                      daftar kompetisi afiliasi IYSA yang satu ini 👇
-                      Malaysia Invention & Innovation Expo
-                    </p>
                     {/* <p>
                       Di bulan November IYSA punya event afiliasi
                       offline di Turki loh 👏🏻
                     </p> */}
                     <br></br>
-                    <p>
+                    {/* <p>
                       Tidak hanya kategori sains saja, ada kategori
                       musik-piano juga 🥳
-                    </p>
+                    </p> */}
                     <ul>
                       <li>
-                        <strong>📍 Registration Deadline:</strong> March 8, 2024
+                        <strong>📍 Registration Deadline:</strong> April 20, 2024
                       </li>
                       <li>
-                        <strong>📍 Payment Deadline:</strong> April 5 - 10, 2024
+                        <strong>📍 Payment Deadline:</strong> April 26, 2024
                       </li>
-                      {/* <li>
-                        <strong>📍 Submission Deadline:</strong> January 12, 2024
-                      </li> */}
                       <li>
-                        <strong>📍 Event Date:</strong> April 5 - 10, 2024
+                        <strong>📍 Submission Deadline:</strong> April 26, 2024
+                      </li>
+                      <li>
+                        <strong>📍 Event Date:</strong> July 9 - 11, 2024
                       </li>
                       {/* <li>
                         <strong>Place:</strong> Auditorium Imam Bardjo, Universitas Diponegoro Semarang
                       </li> */}
                     </ul>
-                    <p>Link pendaftaran:</p>
+                    <p>
+                    For those of you who didn’t have time to register last year, let’s register at this link
+                    </p>
+                    <p>Registration Link:</p>
                     <br></br>
                     <a
                       className="btn btn-primary mb-4"
@@ -88,7 +86,6 @@ function EventPoster4() {
                       Registration Form
                     </a>
                     <br></br>
-                    <p>Sampai jumpa di Malaysia</p>
                     <br />
                     <p className="hastag">
                       {EventPosterDetail4.Hastag}

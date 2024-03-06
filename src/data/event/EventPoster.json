@@ -20,11 +20,11 @@
     },
     {
       "id": 3,
-      "image": "./assets/images/poster/miix.WebP",
-      "title": "Malaysia Invention & Innovation Expo (MIIX) 2024",
+      "image": "./assets/images/poster/Wosg.webp",
+      "title": "WorldInvent™ Singapore 2024",
       "level": "International",
-      "location": "Online",
-      "date": "5th - 10th April 2024",
+      "location": "Singapore",
+      "date": "9th - 11st July 2024",
       "link": "/EventPage4"
     },
     {
@@ -123,15 +123,6 @@
     ,
     {
       "id": 14,
-      "image": "./assets/images/poster/inventcor.WebP",
-      "title": "5th International Exhibition INVENTCOR 2024",
-      "level": "International Exhibition",
-      "location": "Online",
-      "date": "April 4th - 6th, 2024",
-      "link": "/EventPage14"
-    },
-    {
-      "id": 15,
       "image": "./assets/images/poster/iifnas.WebP",
       "title": "IIF ke-2 NASIONAL 2024",
       "level": "Nasional",
@@ -140,7 +131,7 @@
       "link": "/EventPage15"
     },
     {
-      "id": 16,
+      "id": 15,
       "image": "./assets/images/poster/wecc.WebP",
       "title": "World Economics Challenge and Competition (WECC) 2024",
       "level": "International",
@@ -149,7 +140,7 @@
       "link": "/EventPage16"
     },
     {
-      "id": 17,
+      "id": 16,
       "image": "./assets/images/poster/1d.WebP",
       "title": "1idea1world INNOVATION DESIGN STARTUP COMPETITION 2024",
       "level": "International",
@@ -158,7 +149,7 @@
       "link": "/EventPage17"
     },
     {
-      "id": 18,
+      "id": 17,
       "image": "./assets/images/poster/iyco.WebP",
       "title": "INTERNATIONAL YOUTH CHEMISTRY OLYMPIAD 2024 👏 !!",
       "level": "International",
@@ -167,7 +158,7 @@
       "link": "/EventPage19"
     },
     {
-      "id": 19,
+      "id": 18,
       "image": "./assets/images/poster/nyco.WebP",
       "title": "NATIONAL YOUTH CHEMISTRY OLYMPIAD 2024!! 👏",
       "level": "Nasional",
